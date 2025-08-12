@@ -1,0 +1,136 @@
+name: Build and Deploy
+
+on:
+  push:
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  setup:
+    name: Merge Repos
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout this repo
+        uses: actions/checkout@v4
+        with:
+          path: source
+
+      - name: Checkout Chobble Template
+        uses: actions/checkout@v4
+        with:
+          repository: chobble-mirror/chobble-template
+          ref: main
+          path: template
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            .eleventy.js
+            package.json
+            package-lock.json
+            flake.nix
+            flake.lock
+            bin
+            src
+
+      - name: Copy template files to combined dir
+        run: |
+          mkdir -p combined
+          rsync \
+            --recursive \
+            --verbose \
+            --delete \
+            --exclude=".git" \
+            --exclude="*.md" \
+            --exclude="images" \
+            template/ \
+            combined/
+
+      - name: Overlay our repo files into combined src
+        run: |
+          rsync \
+            --recursive \
+            --verbose \
+            --exclude=".*" \
+            --exclude="README.md" \
+            source/ \
+            combined/src/
+
+      - name: Update site.json with secrets
+        run: |
+          sed -i \
+            's/"formspark_id": null/"formspark_id": "${{ secrets.FORMSPARK_ID }}"/g' \
+            "combined/src/_data/site.json"
+          sed -i \
+            's/"botpoison_public_key": null/"botpoison_public_key": "${{ secrets.BOTPOISON_PUBLIC_KEY }}"/g' \
+            "combined/src/_data/site.json"
+
+      - name: Upload combined directory
+        uses: actions/upload-artifact@v4
+        with:
+          name: combined-files
+          path: combined/
+          retention-days: 1
+          include-hidden-files: true
+
+  build:
+    name: Build Site
+    needs: setup
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download combined directory
+        uses: actions/download-artifact@v4
+        with:
+          name: combined-files
+          path: combined
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 23
+
+      - name: Restore cache
+        uses: actions/cache@v4
+        with:
+          path: |
+            combined/node_modules
+            combined/.image-cache
+          key: ${{ runner.os }}
+          restore-keys: |
+            ${{ runner.os }}
+
+      - name: Build with Node
+        run: |
+          cd combined
+          npm ci
+          npx @11ty/eleventy
+          mkdir -p ../_site
+          mv _site/* ../_site/
+
+      - name: Upload built site
+        uses: actions/upload-artifact@v4
+        with:
+          name: built-site
+          path: _site/
+          retention-days: 1
+
+  deploy:
+    name: Deploy
+    needs: [setup, build]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download built site
+        uses: actions/download-artifact@v4
+        with:
+          name: built-site
+          path: _site
+
+      - name: Deploy to neocities
+        uses: bcomnes/deploy-to-neocities@v3
+        with:
+          api_key: ${{ secrets.NEOCITIES_API_KEY }}
+          cleanup: true
+          neocities_supporter: true
+          preview_before_deploy: false
+          dist_dir: _site

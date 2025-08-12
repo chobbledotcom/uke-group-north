@@ -1,0 +1,76 @@
+#!/usr/bin/env nix-shell
+#! nix-shell -i bash -p bash git inotify-tools nix-fast-build rsync nodejs yarn sass
+
+set -e
+
+CLIENT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+CURRENT_DIR_NAME="$(basename "$CLIENT_DIR")"
+DEV_DIR="/tmp/chobble-client/$CURRENT_DIR_NAME"
+TEMPLATE_REPO="https://git.chobble.com/chobble/chobble-template.git"
+TEMPLATE_DIR="$DEV_DIR/template"
+COMBINED_DIR="$DEV_DIR/dev"
+
+mkdir -p "$DEV_DIR"
+
+if [ ! -d "$TEMPLATE_DIR" ]; then
+  git clone "$TEMPLATE_REPO" "$TEMPLATE_DIR"
+else
+  cd "$TEMPLATE_DIR"
+  git fetch origin
+  git reset --hard origin/main
+fi
+
+rm -rf $COMBINED_DIR
+mkdir -p "$COMBINED_DIR"
+
+find "$COMBINED_DIR" -type f -name "*.md" -delete
+
+rsync \
+  --recursive \
+  --delete \
+  --exclude="*.md" \
+  --exclude=".direnv" \
+  --exclude=".envrc" \
+  --exclude=".git" \
+  --exclude=".image-cache" \
+  --exclude="node_modules" \
+  --exclude="test" \
+  --exclude="LICENSE" \
+  --exclude="README.md" \
+  "$TEMPLATE_DIR/" "$COMBINED_DIR/"
+
+rsync \
+  --recursive \
+  --exclude="*.nix" \
+  --exclude=".direnv" \
+  --exclude=".envrc" \
+  --exclude=".git" \
+  --exclude=".image-cache" \
+  --exclude="bin" \
+  --exclude="test" \
+  --exclude="LICENSE" \
+  --exclude="README.md" \
+  --exclude="result" \
+  "$CLIENT_DIR/" "$COMBINED_DIR/src/"
+
+rsync \
+  --recursive \
+  "$CLIENT_DIR/.image-cache" \
+  "$COMBINED_DIR/"
+
+cd "$COMBINED_DIR"
+
+nix-fast-build \
+  --skip-cached \
+  --flake ".#packages.x86_64-linux.site" \
+  --no-nom
+
+# Copy the image cache back to the original directory
+rsync \
+  --recursive \
+  --delete \
+  "result-/.image-cache" \
+  "$CLIENT_DIR/"
+
+rm -rf "$CLIENT_DIR/result"
+mv "result-" "$CLIENT_DIR/result"

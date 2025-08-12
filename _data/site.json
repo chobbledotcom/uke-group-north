@@ -1,0 +1,17 @@
+{
+  "name": "",
+  "formspark_id": null,
+  "botpoison_public_key": null,
+  "url": "",
+  "socials": {
+    "Facebook": null,
+    "Instagram": null,
+    "TikTok": null,
+    "Google": null,
+    "WhatsApp": null,
+    "RSS": "/feed.xml"
+  },
+  "sticky_mobile_nav": true,
+  "horizontal_nav": true,
+  "template_repo_url": "https://git.chobble.com/chobble/chobble-client"
+}
