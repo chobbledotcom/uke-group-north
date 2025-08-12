@@ -5,7 +5,6 @@ header_text: "Thank You for a Wonderful Performance"
 subtitle: "Our group shines at the autumn festival"
 meta_description: "Uke Group North celebrates successful community performance at the autumn festival"
 permalink: /news/community-performance-success/
-layout: post
 header_image: /images/nsplsh_57509024cb72473dbba78ce3b88e812d_mv2.jpg
 ---
 

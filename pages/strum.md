@@ -5,7 +5,6 @@ eleventyNavigation:
   key: Strum
   order: 3
 permalink: /strum/
-layout: page
 ---
 ### We welcome, you
 

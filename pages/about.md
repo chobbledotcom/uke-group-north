@@ -6,7 +6,6 @@ eleventyNavigation:
   key: About
   order: 2
 permalink: /about/
-layout: page
 ---
 ## Welcome to UkeGroupNorth.com
 ![](/images/ed6c9c_301a4f884a624395b9ec9103153ee351_mv2.jpg)

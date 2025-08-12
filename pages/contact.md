@@ -6,7 +6,6 @@ eleventyNavigation:
   key: Contact
   order: 4
 permalink: /contact/
-layout: page
 ---
 ## Book or enquire using our contact form  
   

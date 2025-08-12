@@ -5,7 +5,6 @@ header_text: "Join Our New Workshop Series"
 subtitle: "Weekly sessions for all skill levels"
 meta_description: "Uke Group North announces new weekly ukulele workshop series starting in December"
 permalink: /news/new-ukulele-workshop-series/
-layout: post
 ---
 
 We're thrilled to announce our new weekly ukulele workshop series starting this December! These sessions are designed for players of all skill levels, from complete beginners to experienced strummers.

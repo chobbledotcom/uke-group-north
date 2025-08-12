@@ -5,7 +5,6 @@ eleventyNavigation:
   key: Home
   order: 1
 permalink: /
-layout: page
 ---
 ![GREENMOUNT POSTER_edited.jpg](/images/ed6c9c_301a4f884a624395b9ec9103153ee351_mv2.jpg)![](/images/ed6c9c_301a4f884a624395b9ec9103153ee351_mv2.jpg)![](/images/ed6c9c_301a4f884a624395b9ec9103153ee351_mv2.jpg)![](/images/ed6c9c_301a4f884a624395b9ec9103153ee351_mv2.jpg)
 
