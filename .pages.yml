@@ -4,6 +4,41 @@ media:
   path: images
   categories: [image]
 content:
+  - name: homepage
+    label: Homepage Settings
+    type: file
+    path: _data/homepage.json
+    fields:
+      - { name: show_products, type: boolean, label: Show Products Section, default: true }
+      - { name: show_menus, type: boolean, label: Show Menus Section, default: true }
+      - { name: show_news, type: boolean, label: Show News Section, default: true }
+  - name: site
+    label: Site Configuration
+    type: file
+    path: _data/site.json
+    fields:
+      - { name: name, type: string, label: Site Name }
+      - { name: url, type: string, label: Site URL }
+      - name: opening_times
+        label: Opening Times
+        type: object
+        list: true
+        fields:
+          - { name: day, type: string, label: Day, required: true }
+          - { name: hours, type: string, label: Hours, required: true }
+      - name: socials
+        label: Social Media Links
+        type: object
+        fields:
+          - { name: Github, type: string, label: Github }
+          - { name: Forgejo, type: string, label: Forgejo }
+          - { name: Facebook, type: string, label: Facebook }
+          - { name: Instagram, type: string, label: Instagram }
+          - { name: TikTok, type: string, label: TikTok }
+          - { name: Google, type: string, label: Google }
+          - { name: WhatsApp, type: string, label: WhatsApp }
+          - { name: RSS, type: string, label: RSS }
+      - { name: map_embed_src, type: string, label: Map Embed URL }
   - name: pages
     label: Pages
     path: pages
@@ -127,16 +162,17 @@ content:
     path: events
     type: collection
     subfolders: false
-    filename: "{event_date}-{primary}.md"
+    filename: "{primary}.md"
     view:
-      fields: [title, event_date, event_location]
+      fields: [title, event_date, recurring_date, event_location]
       primary: title
-      sort: [event_date]
+      sort: [title]
     fields:
       - { name: header_image, type: image, label: Header Image }
       - { name: title, type: string, label: Title }
       - { name: subtitle, type: string, label: Subtitle }
-      - { name: event_date, label: Event Date, type: date }
+      - { name: event_date, label: Event Date, type: date, required: false }
+      - { name: recurring_date, type: string, label: Recurring Date (e.g. "Every Friday at 2 PM"), required: false }
       - { name: event_location, type: string, label: Event Location }
       - { name: body, label: Body, type: code, options: { language: markdown } }
       - { name: header_text, type: string, label: Header Text }

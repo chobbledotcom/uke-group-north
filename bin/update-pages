@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Download the latest .pages.yml from chobble-template
+curl -sL "https://raw.githubusercontent.com/chobbledotcom/chobble-template/refs/heads/main/.pages.yml" | \
+  # Remove all instances of "src/"
+  sed 's/src\///g' > .pages.yml
+
+echo "Updated .pages.yml from chobble-template (with src/ removed)"
