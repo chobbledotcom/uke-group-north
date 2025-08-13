@@ -9,7 +9,7 @@ permalink: /locations/ukelele-lessons-bury/
 
 ## Ukulele Lessons in Bury
 
-We're excited to bring our proven ukulele teaching methods to Bury! Our professional facilitators deliver the same high-quality instruction that has made our Ramsbottom sessions so popular.
+We're excited to bring our proven ukulele teaching methods to Bury! Our professional facilitators deliver the same high-quality instruction that has made our Ramsbottom sessions so popular. Join us at our [Thursday evening sessions at Wyldes](/events/thursdays-at-wyldes/) or check our [Events page](/events/) for all available sessions.
 
 ## Why Learn Ukulele in Bury?
 
@@ -96,7 +96,7 @@ Learn alongside other Bury residents, making friends and building connections th
 We make starting easy:
 1. No previous musical experience needed
 2. Learn your first song in lesson one
-3. Take home materials to practice
+3. Take home materials to practice (songbooks available on our [Songs page](/songs/))
 4. Join a supportive community of learners
 
 ### Building Skills
@@ -108,9 +108,9 @@ Our structured approach ensures:
 
 ## Investment
 
-- **Group lessons:** From £6-8 per session
+- **Thursday sessions at Wyldes:** £6 per session
 - **Instrument hire:** £2 per session if needed
-- **Materials:** Included in lesson fee
+- **Materials:** Included in lesson fee (songbooks on our [Songs page](/songs/))
 - **Block booking discounts:** Available for commitment
 
 ## Booking Your Bury Lessons
@@ -125,38 +125,42 @@ Ready to start learning ukulele in Bury?
 
 ## Venues in Bury
 
-We're currently finalising venues in Bury to bring you convenient, accessible locations for learning. Options being explored include:
+### Current Venue
 
-- Community centres
-- Libraries
-- Church halls
-- School facilities
+**Wyldes**  
+4 Bolton St, Bury, BL9 0LQ  
+[Thursdays 7:30pm-9:30pm](/events/thursdays-at-wyldes/)
 
-All venues will offer:
+This central Bury venue offers:
 - Easy access via public transport
-- Parking availability
+- Parking availability nearby
 - Comfortable learning environment
 - Accessible facilities
+- Extended 2-hour sessions for deeper learning
 
 ## Beyond Lessons
 
 Once you've built your skills, you can:
-- Join our Bury Sing & Strum sessions
+- Join our [Bury Sing & Strum sessions](/locations/ukelele-sessions-bury/)
 - Perform at local events
 - Connect with other Bury ukulele players
 - Participate in our wider Greater Manchester network
+- Visit nearby sessions in [Ramsbottom](/locations/ukelele-sessions-ramsbottom/) and [Greenmount](/events/mondays-at-greenmount/)
 
-## Register Your Interest
+## Join Our Bury Sessions
 
-While we finalise our Bury venues and timetables, register your interest now:
+**Ready to start learning?**
 
-Email [ukegroupnorth@gmail.com](mailto:ukegroupnorth@gmail.com) with:
-- Your location in Bury
-- Preferred days/times
-- Current playing level
-- Any questions
+Join us every Thursday evening at Wyldes for comprehensive ukulele instruction in a friendly, supportive environment.
 
-We'll contact you as soon as sessions are confirmed!
+Email [ukegroupnorth@gmail.com](mailto:ukegroupnorth@gmail.com) to book your place.
+
+Let us know:
+- Your current playing level
+- If you need to borrow a ukulele
+- Any questions you have
+
+For nearby morning sessions, also check out our [Monday sessions at Greenmount](/events/mondays-at-greenmount/)!
 
 ---
 

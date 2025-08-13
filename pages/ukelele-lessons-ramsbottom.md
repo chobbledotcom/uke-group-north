@@ -9,7 +9,7 @@ permalink: /locations/ukelele-lessons-ramsbottom/
 
 ## Ukulele Lessons in Ramsbottom
 
-Welcome to our Ramsbottom ukulele lessons! Whether you're picking up a ukulele for the first time or looking to develop your existing skills, our professional facilitators are here to guide you on your musical journey.
+Welcome to our Ramsbottom ukulele lessons! Whether you're picking up a ukulele for the first time or looking to develop your existing skills, our professional facilitators are here to guide you on your musical journey. Check our [Events page](/events/) for all session times and special workshops.
 
 ## Lesson Options
 
@@ -57,13 +57,13 @@ For experienced players looking to master:
 
 ### Ramsbottom Library
 **Address:** Carr Street, Ramsbottom  
-**When:** Tuesday mornings, 10:30am - 12:00pm  
+**When:** [Tuesday mornings, 10:30am - 12:00pm](/events/tuesdays-at-ramsbottom-library/)  
 **Setting:** Quiet, focused learning environment  
 **Parking:** Available nearby  
 
 ### The Den
 **Address:** Stubbins Vale Road, Ramsbottom  
-**When:** Tuesday evenings, 5:30pm - 7:00pm  
+**When:** [Tuesday evenings, 5:30pm - 7:00pm](/events/tuesdays-at-the-den/)  
 **Setting:** Relaxed, community atmosphere  
 **Perfect for:** After work/school sessions  
 
@@ -71,7 +71,7 @@ For experienced players looking to master:
 
 - Professional instruction from experienced facilitators
 - Structured learning programme
-- Printed materials and chord charts
+- Printed materials and chord charts (also available on our [Songs page](/songs/))
 - Supportive, encouraging environment
 - Ukuleles available to borrow if needed (+£2 hire fee)
 - Ongoing support between sessions
@@ -88,8 +88,8 @@ We believe everyone can learn to play ukulele! Our lessons focus on:
 
 ## Fees
 
-- **Group lessons:** £8 per session at Ramsbottom Library
-- **Evening sessions:** £6 per session at The Den
+- **Group lessons:** £8 per session at [Ramsbottom Library](/events/tuesdays-at-ramsbottom-library/)
+- **Evening sessions:** £6 per session at [The Den](/events/tuesdays-at-the-den/)
 - **Instrument hire:** £2 if you need to borrow a ukulele
 - **Block booking:** Discounts available for advance bookings
 

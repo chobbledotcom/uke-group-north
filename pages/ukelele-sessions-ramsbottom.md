@@ -9,7 +9,7 @@ permalink: /locations/ukelele-sessions-ramsbottom/
 
 ## Sing & Strum Sessions in Ramsbottom
 
-Our Ramsbottom Sing & Strum sessions are the heart of our community! These popular weekly gatherings bring together ukulele players of all abilities to make music, have fun, and build friendships.
+Our Ramsbottom Sing & Strum sessions are the heart of our community! These popular weekly gatherings bring together ukulele players of all abilities to make music, have fun, and build friendships. For a full list of all our sessions across the area, visit our [Events page](/events/).
 
 ## What Are Sing & Strum Sessions?
 
@@ -29,7 +29,7 @@ Unlike formal lessons, our Sing & Strum sessions are relaxed, social gatherings 
 **Perfect for:** Retirees, parents, anyone free during the day
 
 **Details:**
-- **When:** Every Tuesday, 10:30am - 12:00pm
+- **When:** [Every Tuesday, 10:30am - 12:00pm](/events/tuesdays-at-ramsbottom-library/)
 - **Where:** Ramsbottom Library, Carr Street
 - **Cost:** £8 per person
 - **Atmosphere:** Friendly, relaxed, welcoming
@@ -42,7 +42,7 @@ Start your day with music! Our morning sessions at the library are particularly 
 **Perfect for:** Workers, students, anyone who prefers evenings
 
 **Details:**
-- **When:** Every Tuesday, 5:30pm - 7:00pm
+- **When:** [Every Tuesday, 5:30pm - 7:00pm](/events/tuesdays-at-the-den/)
 - **Where:** The Den, Stubbins Vale Road
 - **Cost:** £6 per person
 - **Atmosphere:** Vibrant, energetic, social
@@ -98,7 +98,7 @@ Don't worry if you're new to the ukulele. Playing with more experienced players 
 - **Your ukulele** (if you have one)
 - **Or borrow ours** (+£2 hire fee)
 - **Music stand** if you have one (we have spares)
-- **Your songbook** if you're a regular
+- **Your songbook** if you're a regular (or download from our [Songs page](/songs/))
 
 ## Benefits of Regular Attendance
 

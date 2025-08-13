@@ -12,7 +12,7 @@ permalink: /locations/
 
 ## Our Workshop Locations
 
-We run regular ukulele workshops and sing & strum sessions across Greater Manchester and Lancashire. Find the perfect session for you at a location that's convenient.
+We run regular ukulele workshops and sing & strum sessions across Greater Manchester and Lancashire. Find the perfect session for you at a location that's convenient. For full details of all our regular sessions and special events, visit our [Events page](/events/).
 
 ## Ramsbottom
 
@@ -27,20 +27,38 @@ Our main hub with multiple weekly sessions available.
 
 **Ramsbottom Library**  
 Carr Street, Ramsbottom  
-Tuesday mornings
+[Tuesdays 10:30am-12pm](/events/tuesdays-at-ramsbottom-library/)
 
 **The Den**  
 Stubbins Vale Road, Ramsbottom  
-Tuesday evenings
+[Tuesdays 5:30pm-7pm](/events/tuesdays-at-the-den/)
 
 ## Bury
 
-Expanding our reach into the heart of Greater Manchester.
+Now with established sessions in the heart of Greater Manchester!
 
 ### Available Sessions in Bury
 
 - **[Ukulele Lessons](/locations/ukelele-lessons-bury/)** - Structured learning for all abilities
 - **[Sing & Strum Sessions](/locations/ukelele-sessions-bury/)** - Community music-making sessions
+
+### Venue
+
+**Wyldes**  
+4 Bolton St, Bury, BL9 0LQ  
+[Thursdays 7:30pm-9:30pm](/events/thursdays-at-wyldes/)
+
+## Greenmount
+
+Join us in this friendly community venue.
+
+### Sessions in Greenmount
+
+**Greenmount Old School**  
+Brandlesholme Road, BL8 4DS  
+[Mondays 10:15am-11:15am](/events/mondays-at-greenmount/)
+
+Perfect for those in the Bury/Ramsbottom area looking for a Monday morning session!
 
 ## Coming Soon
 

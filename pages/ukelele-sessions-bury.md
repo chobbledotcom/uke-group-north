@@ -7,9 +7,9 @@ header_image: /images/nsplsh_b253bbd5656e44f1a5d9edf12dc4629d_mv2.jpg
 permalink: /locations/ukelele-sessions-bury/
 ---
 
-## Sing & Strum Sessions Coming to Bury
+## Sing & Strum Sessions in Bury
 
-Following the success of our Ramsbottom sessions, we're excited to bring our popular Sing & Strum format to Bury! These community music-making sessions are perfect for anyone who wants to play ukulele in a friendly, relaxed group setting.
+Following the success of our Ramsbottom sessions, we're thrilled to now offer our popular Sing & Strum format in Bury! Join us every Thursday evening at Wyldes for community music-making in a friendly, relaxed setting.
 
 ## What to Expect
 
@@ -36,12 +36,16 @@ Bury has a rich musical heritage and strong community spirit - perfect for our u
 - A chance to learn and grow together
 - Fun that's close to home
 
-### Convenient Bury Locations
+### Current Bury Venue
 
-We're exploring several venue options in Bury to ensure easy access for everyone:
-- Central locations near public transport
-- Venues with parking available
-- Comfortable, welcoming spaces
+**Wyldes**  
+4 Bolton St, Bury, BL9 0LQ  
+[Every Thursday, 7:30pm - 9:30pm](/events/thursdays-at-wyldes/)
+
+Perfectly located in central Bury with:
+- Easy access via public transport
+- Nearby parking available
+- Comfortable, welcoming atmosphere
 - Accessible facilities for all
 
 ## Session Format
@@ -54,7 +58,7 @@ We're exploring several venue options in Bury to ensure easy access for everyone
 - Collect song sheets
 - Chat with other players
 
-**Main Session** (60-75 minutes)
+**Main Session** (90-120 minutes at our Thursday sessions)
 - Start with familiar, easy songs
 - Build confidence as we go
 - Mix of group playing and singing
@@ -130,23 +134,26 @@ All music is provided with clear chord charts - no need to read music!
 - **No experience necessary** - we'll help you
 
 ### Session Fees
-- **Standard session:** £6-8 per person
+- **Thursday sessions at Wyldes:** £6 per person
 - **Instrument hire:** £2 if needed
 - **No commitment** - pay as you go
 - **Block booking discounts** available
 
-## Register Your Interest
+## Join Our Thursday Sessions
 
-Be among the first to know when our Bury Sing & Strum sessions launch!
+**Ready to join us at Wyldes?**
 
-**Email us at:** [ukegroupnorth@gmail.com](mailto:ukegroupnorth@gmail.com)
+Our Thursday evening sessions (7:30pm-9:30pm) offer a longer session time - perfect for really getting into the music!
 
-Please include:
-- Your preferred days/times
-- Morning or evening preference
-- Your playing level (beginner/intermediate/advanced)
-- Preferred Bury location/area
-- Any questions
+**Book your place:**  
+Email: [ukegroupnorth@gmail.com](mailto:ukegroupnorth@gmail.com)
+
+Let us know:
+- If you need to borrow a ukulele
+- Your playing level (all welcome!)
+- Any questions you have
+
+For full session details, visit our [Thursday at Wyldes event page](/events/thursdays-at-wyldes/).
 
 ## Building the Bury Ukulele Community
 
@@ -187,13 +194,13 @@ We're not just running sessions - we're investing in Bury's community. We aim to
 
 ## Stay Updated
 
-Don't miss the launch of our Bury sessions!
+Join us every Thursday at Wyldes and be part of Bury's growing ukulele community!
 
 **Connect with us:**
 - Email: [ukegroupnorth@gmail.com](mailto:ukegroupnorth@gmail.com)
-- Check our website regularly for updates
+- Check our [Events page](/events/) for all session details
 - Tell your friends and family
 
 ---
 
-*"Bury is ready to Sing & Strum! Join us as we bring the joy of community ukulele to your doorstep."*
+*"Bury is Singing & Strumming every Thursday! Join us at Wyldes and be part of the joy."*
