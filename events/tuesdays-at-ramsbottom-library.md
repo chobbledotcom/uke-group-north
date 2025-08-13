@@ -6,6 +6,7 @@ event_location: "Ramsbottom Library, Carr St, Ramsbottom, BL0 9AE"
 header_text: "Tuesdays at Ramsbottom Library"
 meta_title: "Tuesday Sessions | Ramsbottom Library | Uke Group North"
 meta_description: "Join our weekly Sing & Strum session at Ramsbottom Library every Tuesday 10:30am-12pm. £8 per person. No instruments required, beginners encouraged."
+header_image: /images/ukelele-3.jpg
 ---
 
 ## Weekly Sing & Strum Session
