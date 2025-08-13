@@ -6,7 +6,7 @@ subtitle: "Help us bring music to more communities"
 header_image: /images/ukelele-1.jpg
 eleventyNavigation:
   key: Support
-  order: 7
+  order: 8
 permalink: /support/
 ---
 

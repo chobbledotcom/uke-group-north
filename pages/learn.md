@@ -118,7 +118,7 @@ You have your own you know them well, you've played with things before!*
 These basics are just the beginning! To continue your ukulele journey:
 
 - Join our [workshops](/workshops) for hands-on learning
-- Download our songbooks from the [home page](/)
+- Download our [songbooks](/songs/) for practice materials
 - Connect with other players in our community sessions
 - Practice a little each day - consistency is key!
 
