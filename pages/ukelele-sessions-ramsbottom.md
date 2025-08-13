@@ -3,7 +3,7 @@ header_text: "Sing & Strum Sessions in Ramsbottom"
 meta_title: "Ukulele Sessions Ramsbottom | Uke Group North"
 meta_description: "Join our popular weekly Sing & Strum ukulele sessions in Ramsbottom. Tuesday mornings at the Library or evenings at The Den."
 subtitle: "Weekly community music-making in Ramsbottom"
-header_image: /images/nsplsh_e2c54881820b44f7a1eadf4c7e33041a_mv2.jpg
+header_image: /images/ukelele-3.jpg
 permalink: /locations/ukelele-sessions-ramsbottom/
 ---
 

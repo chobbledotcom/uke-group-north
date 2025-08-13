@@ -3,7 +3,7 @@ header_text: "Ukulele Lessons in Bury"
 meta_title: "Ukulele Lessons Bury | Uke Group North"
 meta_description: "Learn ukulele in Bury with Uke Group North. Professional instruction for beginners to advanced players. All ages welcome."
 subtitle: "Bringing ukulele education to Bury"
-header_image: /images/nsplsh_57509024cb72473dbba78ce3b88e812d_mv2.jpg
+header_image: /images/ukelele-2.jpg
 permalink: /locations/ukelele-lessons-bury/
 ---
 

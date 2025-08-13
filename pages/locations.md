@@ -3,7 +3,7 @@ header_text: "Locations"
 meta_title: "Locations | Uke Group North"
 meta_description: "Find Uke Group North ukulele workshops and sessions near you across Greater Manchester and Lancashire"
 subtitle: "Find a session near you"
-header_image: /images/nsplsh_b253bbd5656e44f1a5d9edf12dc4629d_mv2.jpg
+header_image: /images/ukelele-3.jpg
 eleventyNavigation:
   key: Locations
   order: 3

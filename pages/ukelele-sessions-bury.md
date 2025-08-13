@@ -3,7 +3,7 @@ header_text: "Sing & Strum Sessions in Bury"
 meta_title: "Ukulele Sessions Bury | Uke Group North"
 meta_description: "Join Uke Group North's Sing & Strum ukulele sessions coming to Bury. Community music-making for all abilities."
 subtitle: "Community music sessions coming to Bury"
-header_image: /images/nsplsh_b253bbd5656e44f1a5d9edf12dc4629d_mv2.jpg
+header_image: /images/ukelele-1.jpg
 permalink: /locations/ukelele-sessions-bury/
 ---
 

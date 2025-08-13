@@ -3,7 +3,7 @@ header_text: "Ukulele Lessons in Ramsbottom"
 meta_title: "Ukulele Lessons Ramsbottom | Uke Group North"
 meta_description: "Professional ukulele lessons in Ramsbottom for all ages and abilities. Learn with Uke Group North at Ramsbottom Library and The Den."
 subtitle: "Learn ukulele in the heart of Ramsbottom"
-header_image: /images/nsplsh_a36a05f2ec68426ca5e207da2de28f9f_mv2.jpg
+header_image: /images/ukelele-1.jpg
 permalink: /locations/ukelele-lessons-ramsbottom/
 ---
 
