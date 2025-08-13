@@ -1,2 +1,23 @@
-@charset "utf-8";
-@use "sass:color";
+:root {
+  --color-bg: #faece1;
+  --color-text: #000000;
+  --color-link: #1a5fb4;
+  --color-bg-secondary: #fffdf6;
+  --border-radius: 5px;
+  --border: 1px solid #b6720c;
+  --box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  --width-content: 1000px;
+  --font-family-heading: Inter, Roboto, "Helvetica Neue", "Arial Nova", "Nimbus Sans", Arial, sans-serif;
+  --font-family-body: Inter, Roboto, "Helvetica Neue", "Arial Nova", "Nimbus Sans", Arial, sans-serif;
+  --link-decoration: underline;
+  --link-decoration-hover: underline;
+  --link-decoration-style: dotted;
+  --header-text-color: #ffffff;
+  --form-button-text-color: #000000;
+  --form-button-border: 2px solid #b6720c;
+  --form-button-hover-text-color: #240808;
+  --form-button-hover-border: 2px solid #000000;
+}
+
+
+/* body_classes: header-centered-dark, headings-centered */
