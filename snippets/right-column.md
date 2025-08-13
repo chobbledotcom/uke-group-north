@@ -1,4 +1,14 @@
 ---
-name: right-column
+name: Right Column
 ---
-Test
+## Uke Group North CIC
+
+- [Contact Us](/contact/)**
+- [Sing & Strum sessions](/events/)
+
+### Donate
+
+- **Uke Group North CIC**
+- Starling Bank
+- **Account Number:** 67251073
+- **Sort Code:** 60-83-71 
