@@ -61,10 +61,10 @@ jobs:
         run: |
           sed -i \
             's/"formspark_id": null/"formspark_id": "${{ secrets.FORMSPARK_ID }}"/g' \
-            "combined/src/_data/site.json"
+            "combined/src/_data/config.json"
           sed -i \
             's/"botpoison_public_key": null/"botpoison_public_key": "${{ secrets.BOTPOISON_PUBLIC_KEY }}"/g' \
-            "combined/src/_data/site.json"
+            "combined/src/_data/config.json"
 
       - name: Upload combined directory
         uses: actions/upload-artifact@v4
