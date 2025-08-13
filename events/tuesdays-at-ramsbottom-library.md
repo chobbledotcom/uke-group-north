@@ -2,15 +2,15 @@
 title: "Tuesdays at Ramsbottom Library"
 subtitle: "Weekly Sing & Strum Session"
 recurring_date: "Tuesdays - 10:30am-12pm"
-event_location: "Ramsbottom Library, Carr St., Ramsbottom"
+event_location: "Ramsbottom Library, Carr St, Ramsbottom, BL0 9AE"
 header_text: "Tuesdays at Ramsbottom Library"
 meta_title: "Tuesday Sessions | Ramsbottom Library | Uke Group North"
-meta_description: "Join our weekly Sing & Strum session at Ramsbottom Library every Tuesday 10:30am-12pm. £8 per person. All abilities welcome."
+meta_description: "Join our weekly Sing & Strum session at Ramsbottom Library every Tuesday 10:30am-12pm. £8 per person. No instruments required, beginners encouraged."
 ---
 
 ## Weekly Sing & Strum Session
 
-Join us every Tuesday morning at Ramsbottom Library for our popular Sing & Strum session. This is our most established regular session, perfect for putting your skills into practice while having fun with a friendly group.
+Join us every Tuesday morning at Ramsbottom Library for our popular Sing & Strum session. No instruments required - beginners are encouraged, and intermediate and advanced players are also welcome! Learn ukulele, play and sing your favourite songs.
 
 ### Session Details
 
