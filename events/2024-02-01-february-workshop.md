@@ -5,6 +5,7 @@ event_location: "Manchester Community Centre"
 header_text: "February Ukulele Workshop"
 subtitle: "Learn the basics in a fun, friendly environment"
 meta_description: "Join our February ukulele workshop for beginners"
+header_image: /images/ukelele-3.jpg
 ---
 
 Join us for our monthly ukulele workshop! Perfect for beginners and those looking to improve their skills.

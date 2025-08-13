@@ -6,6 +6,7 @@ event_location: "The Den, Stubbins, Vale Road, Ramsbottom, BL0 0NT"
 header_text: "Tuesdays at The Den"
 meta_title: "Tuesday Sessions | The Den | Uke Group North"
 meta_description: "Join our weekly Sing & Strum session at The Den every Tuesday 5:30pm-7pm. £6 per person. No instruments required, beginners encouraged."
+header_image: /images/ukelele-2.jpg
 ---
 
 ## Weekly Sing & Strum Session

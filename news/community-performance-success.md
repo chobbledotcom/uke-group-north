@@ -5,7 +5,7 @@ header_text: "Thank You for a Wonderful Performance"
 subtitle: "Our group shines at the autumn festival"
 meta_description: "Uke Group North celebrates successful community performance at the autumn festival"
 permalink: /news/community-performance-success/
-header_image: /images/nsplsh_57509024cb72473dbba78ce3b88e812d_mv2.jpg
+header_image: /images/ukelele-3.jpg
 ---
 
 What an incredible day at the Greater Manchester Autumn Festival! Our ukulele group delivered an outstanding performance that had the whole crowd singing along.
