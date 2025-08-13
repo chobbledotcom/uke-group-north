@@ -1,6 +1,8 @@
 ---
 name: Right Column
 ---
+![Uke Group North CIC Logo](/images/logo.png)
+
 ## Uke Group North CIC
 
 - [Contact Us](/contact/)**
