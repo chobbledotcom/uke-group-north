@@ -5,8 +5,8 @@ name: Right Column
 
 ## Uke Group North CIC
 
-- [Contact Us](/contact/)**
-- [Sing & Strum sessions](/events/)
+- **[Contact Us](/contact/)**
+- **[Sing & Strum sessions](/events/)**
 
 ### Donate
 
