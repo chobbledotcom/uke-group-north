@@ -1,0 +1,11 @@
+{
+	"formspark_id": null,
+	"botpoison_public_key": null,
+	"map_embed_src": "",
+	"sticky_mobile_nav": true,
+	"horizontal_nav": true,
+	"template_repo_url": "https://git.chobble.com/chobble/chobble-client",
+	"chobble_link": "https://chobble.com/services/chobble-template/",
+	"stripe_publishable_key": null,
+	"products": {}
+}
