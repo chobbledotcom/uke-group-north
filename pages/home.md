@@ -55,9 +55,9 @@ Ready to join our musical community? [Contact us](/contact) to book your first s
 
 ## Download Our Songbooks
 
-We've created songbooks for our sessions - download them free:
-- [Beginner Songbook (coming soon)](#)
-- [Junior Songbook (coming soon)](#)
+We've created songbooks for our sessions - download them free from our [Songs page](/songs/). Available collections include:
+- Junior Songbook - Perfect for younger players and beginners
+- UGN Songbook - Our main collection for workshops and sessions
 
 ---
 
