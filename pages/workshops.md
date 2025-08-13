@@ -16,21 +16,7 @@ We offer a comprehensive range of workshops designed to meet you wherever you ar
 
 ## Regular Weekly Sessions
 
-### Sing & Strum Sessions
-
-Our most popular offering! These weekly sessions are perfect for putting your skills into practice while having fun with a friendly group.
-
-**Ramsbottom Library**
-- Tuesdays 10:30am - 12:00pm
-- £8 per person
-- Mixed ability welcome
-- Ukuleles available to borrow
-
-**The Den**
-- Tuesdays 5:30pm - 7:00pm  
-- £6 per person
-- Great for after work/school
-- Relaxed atmosphere
+Our popular Sing & Strum sessions run throughout the week at various locations. Please visit our [Events page](/events/) for full details of all regular sessions and special events.
 
 ## Beginner Workshops
 
