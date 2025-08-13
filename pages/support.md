@@ -3,6 +3,7 @@ header_text: "Support Us"
 meta_title: "Support Us | Uke Group North"
 meta_description: "Support Uke Group North's mission to bring music to communities. Your donations help us provide instruments and subsidized sessions."
 subtitle: "Help us bring music to more communities"
+header_image: /images/ukelele-1.jpg
 eleventyNavigation:
   key: Support
   order: 7

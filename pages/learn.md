@@ -3,7 +3,7 @@ header_text: "Learn Ukulele"
 meta_title: "Learn Ukulele | Uke Group North"
 meta_description: "Free ukulele learning resources - basics of holding, strumming, chords, and percussive techniques. Perfect for beginners!"
 subtitle: "Free resources to get you started"
-header_image: /images/nsplsh_a36a05f2ec68426ca5e207da2de28f9f_mv2.jpg
+header_image: /images/ukelele-3.jpg
 eleventyNavigation:
   key: Learn
   order: 5

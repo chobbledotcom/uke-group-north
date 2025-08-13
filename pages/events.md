@@ -3,7 +3,7 @@ header_text: "Events"
 meta_title: "Events | Uke Group North"
 meta_description: "Regular ukulele sessions and special events in Ramsbottom and surrounding areas."
 subtitle: "Join us for regular sessions and special events"
-header_image: /images/nsplsh_e2c54881820b44f7a1eadf4c7e33041a_mv2.jpg
+header_image: /images/ukelele-1.jpg
 eleventyNavigation:
   key: Events
   order: 3
