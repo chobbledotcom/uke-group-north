@@ -3,7 +3,7 @@ header_text: "Welcome to Uke Group North"
 meta_title: "Uke Group North | Ukulele workshops in Greater Manchester and Lancashire"
 meta_description: "Join our inclusive ukulele workshops across Greater Manchester and Lancashire. Weekly sessions for all ages and abilities. No experience necessary!"
 subtitle: "Bringing communities together through music"
-header_image: /images/nsplsh_57509024cb72473dbba78ce3b88e812d_mv2.jpg
+header_image: /images/ukelele-1.jpg
 eleventyNavigation:
   key: Home
   order: 1

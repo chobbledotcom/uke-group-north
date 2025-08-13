@@ -3,6 +3,7 @@ header_text: "Our Mission & Objectives"
 meta_title: "Our Mission | Uke Group North"
 meta_description: "Learn about Uke Group North's mission to improve wellbeing through music, strengthen community assets, and teach practical musical skills."
 subtitle: "Building stronger communities through the joy of music"
+header_image: /images/ukelele-2.jpg
 eleventyNavigation:
   key: Our Mission
   order: 3

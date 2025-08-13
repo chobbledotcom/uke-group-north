@@ -3,7 +3,7 @@ header_text: "Contact Us"
 meta_title: "Contact | Uke Group North"
 meta_description: "Get in touch with Uke Group North - book workshops, join sessions, or enquire about our ukulele services across Greater Manchester and Lancashire."
 subtitle: "Let's make music together"
-header_image: /images/ed6c9c_a17eb2ae63914e3aa2c221a988352640_mv2.png
+header_image: /images/ukelele-2.jpg
 eleventyNavigation:
   key: Contact
   order: 6
