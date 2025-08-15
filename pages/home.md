@@ -1,15 +1,16 @@
 ---
-header_text: "Welcome to Uke Group North"
-meta_title: "Uke Group North | Ukulele workshops in Greater Manchester and Lancashire"
-meta_description: "Join our inclusive ukulele workshops across Greater Manchester and Lancashire. Weekly sessions for all ages and abilities. No experience necessary!"
-subtitle: "Bringing communities together through music"
 header_image: /images/ukelele-2.jpg
+header_text: Welcome to Uke Group North
+subtitle: Bringing communities together through music
+meta_description: Join our inclusive ukulele workshops across Greater Manchester
+  and Lancashire. Weekly sessions for all ages and abilities. No experience
+  necessary!
+meta_title: Uke Group North | Ukulele workshops in Greater Manchester and Lancashire
 eleventyNavigation:
   key: Home
   order: 1
 permalink: /
 ---
-
 ## Join Our Musical Community
 
 Welcome to Uke Group North! We provide inclusive ukulele workshops across Greater Manchester and Lancashire, creating a welcoming community through music. Whether you're a complete beginner or an experienced player, there's a place for you in our groups.
@@ -26,7 +27,7 @@ Tuesdays 10:30am - 12:00pm
 
 **The Den**  
 Tuesdays 5:30pm - 7:00pm  
-£6 per person
+£8 per person
 
 To book your place, email us at [ukegroupnorth@gmail.com](mailto:ukegroupnorth@gmail.com)
 
