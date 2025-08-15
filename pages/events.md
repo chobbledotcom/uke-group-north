@@ -8,6 +8,7 @@ eleventyNavigation:
   key: Events
   order: 3
 permalink: /events/
+layout: events.html
 ---
 
 ## Regular Sessions
@@ -20,4 +21,4 @@ Join us at one of our regular sessions - perfect for putting your skills into pr
 
 ---
 
-*Check individual event pages for full details and booking information.*
+_Check individual event pages for full details and booking information._
