@@ -21,6 +21,10 @@ Our popular "Sing & Strum Sessions" are held every week. Bring your own ukulele 
 
 ### Current Sessions
 
+**Greenmount Old School**
+Mondays 10:15am - 11:45am
+£8 per person
+
 **Ramsbottom Library**  
 Tuesdays 10:30am - 12:00pm  
 £8 per person
