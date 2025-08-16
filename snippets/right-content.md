@@ -3,10 +3,14 @@ name: Right Column
 ---
 ![Uke Group North CIC Logo](/images/logo.png)
 
-## Uke Group North CIC
+### Uke Group North CIC
 
 - **[Contact Us](/contact/)**
 - **[Sing & Strum sessions](/events/)**
+
+### Weekly Workshops
+
+{% recurring_events %}
 
 ### Donate
 
