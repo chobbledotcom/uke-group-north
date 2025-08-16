@@ -16,7 +16,7 @@ We're a community interest company dedicated to bringing people together through
 
 ## Our Story
 
-Our journey begins with a simple belief: that music has the power to transform communities. Starting with our first sessions in Ramsbottom, we've grown into a vibrant network of welcoming, supportive, encouraging music-makers. Bringing the joy of music, ukulele and singing together to libraries, community centres, residential living centres, primary schools and gathering spaces across the region with our weekly workshops, sing and strum sessions and live performances.
+Our journey begins with a simple belief: that music has the power to transform communities. Starting with our first sessions in Ramsbottom, we've grown into a vibrant network of welcoming, supportive, encouraging music-makers. Bringing the joy of music, ukulele and singing together to libraries, community centres, residential living centres, primary schools and gathering spaces across the region with our workshops, sing and strum sessions and live performances.
 
 We're proud to work alongside organizations who create possitive ripples in communities such as [RammyMen](https://rammymen.org), [Urban Outreach](https://urbanoutreach.co.uk) as well as local councils and care providers. 
 
