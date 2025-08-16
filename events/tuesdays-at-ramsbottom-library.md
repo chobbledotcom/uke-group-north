@@ -32,7 +32,7 @@ Our Monday morning sessions are perfect for learning ukulele, playing and singin
 ### What to Bring
 
 - Your ukulele, or let us know if you would like to borrow one of ours
-- A copy of our most recent song book, either download to tablet or print a copy off
+- A copy of our most recent song book, either download to tablet or printed copy
 
 ### Booking
 
