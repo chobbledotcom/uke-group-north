@@ -85,7 +85,7 @@ You can help us achieve our objectives and bring music to more communities.
 
 ### Make a Donation
 
-Your generosity helps us provide instruments, subsidize sessions for those in need, and expand our reach to new communities.
+Your generosity helps us provide instruments, subsidize sessions and expand our reach to new communities.
 
 **Bank Details:**  
 Uke Group North CIC  
