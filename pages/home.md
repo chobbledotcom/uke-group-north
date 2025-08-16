@@ -24,7 +24,7 @@ Our popular "Sing & Strum Sessions" are held every week. Bring your own ukulele 
 
 {% recurring_events %}
 
-To book your place, email us at [ukegroupnorth@gmail.com](mailto:ukegroupnorth@gmail.com)
+To book your place, email us at [ukegroupnorth@gmail.com](mailto:ukegroupnorth@gmail.com) or visit the [contact page](/contact/) to drop us a message.
 
 ## What We Offer
 
