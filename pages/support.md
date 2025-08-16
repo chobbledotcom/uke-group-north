@@ -1,15 +1,16 @@
 ---
-header_text: "Support Us"
-meta_title: "Support Us | Uke Group North"
-meta_description: "Support Uke Group North's mission to bring music to communities. Your donations help us provide instruments and subsidized sessions."
-subtitle: "Help us bring music to more communities"
 header_image: /images/ukelele-2.jpg
+header_text: Support Us
+subtitle: Help us bring music to more communities
+meta_description: Support Uke Group North's mission to bring music to
+  communities. Your donations help us provide instruments and subsidized
+  sessions.
+meta_title: Support Us | Uke Group North
 eleventyNavigation:
   key: Support
-  order: 8
+  order: 98
 permalink: /support/
 ---
-
 ## Support Our Mission
 
 Uke Group North is a Community Interest Company (CIC) dedicated to improving wellbeing through music. Your support helps us continue our work bringing the joy of ukulele to communities across Greater Manchester and Lancashire.
