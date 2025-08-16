@@ -18,22 +18,21 @@ Join us every Tuesday evening at The Den for our popular Sing & Strum session. N
 - **When:** Every Tuesday, 5:30pm - 7:00pm
 - **Where:** The Den, Stubbins Vale Rd., Ramsbottom
 - **Cost:** £8 per person
-- **Instrument hire:** +£2 if required
+- **Instrument hire:**
 
 ### What to Expect
 
-Our Tuesday evening sessions have a relaxed atmosphere in the comfortable setting of The Den. We play and sing a variety of songs together, suitable for all abilities. It's a great way to unwind after your day while learning and having fun with music.
+Our Monday morning sessions are perfect for learning ukulele, playing and singing your favourite songs in a relaxed and welcoming environment. Whether you're a complete beginner or an experienced player, you'll find a warm welcome here. We provide instruments if you don't have your own yet!
 
 ### What to Bring
 
-- Your ukulele (or hire one of ours for £2)
-- A music stand if you have one
-- Your enthusiasm!
+- Your ukulele, or let us know if you would like to borrow one of ours
+- A copy of our most recent song book, either download to tablet or print a copy off
 
 ### Booking
 
 - Email: [ukegroupnorth@gmail.com](mailto:ukegroupnorth@gmail.com)
-- Spaces are limited to ensure quality instruction
+- Spaces are limited to ensure quality instruction and safety, please book in advance
 - Block booking discounts available
 
-All abilities welcome - whether you're coming straight from work or school, or just prefer evening sessions, we'd love to see you there!
+All abilities welcome - beginners are especially encouraged to join us!
