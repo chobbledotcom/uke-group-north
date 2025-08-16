@@ -18,7 +18,7 @@ Join us every Thursday evening at Wyldes for our popular Sing & Strum session. N
 - **When:** Every Thursday, 6:30pm - 8:00pm
 - **Where:** Wyldes, 4 Bolton St, Bury, BL9 0LQ
 - **Cost:** £8 per person
-- **Instrument hire:** +£2 if required
+- **Instrument hire:**
 
 ### What to Expect
 
