@@ -71,12 +71,10 @@ Strike up a chord with Uke Group North!
 ## Get Involved
 
 Visit us at our regular sessions:
-- **Greenmount Old School** - Monday AM - 10:15am-11:45am
-- 
-- **The Den, Ramsbottom** - Tuesday PM 5:30-7:30pm
-- **Ramsbottom Library** - Tuesday AM 10:30am-12:00pm
-- 
-- **Wyldes, Bury** - Thursday PM 6:30-8:00pm
+- **Greenmount Old School** - Monday - 10:15am-11:45am
+- - **Ramsbottom Library** - Tuesday - 10:30am-12:00pm
+- **The Den, Ramsbottom** - Tuesday - 5:30pm-7:30pm
+- **Wyldes, Bury** - Thursday - 6:30-8:00pm
 
 Or [contact us](/contact) to learn about workshops in your area.
 
