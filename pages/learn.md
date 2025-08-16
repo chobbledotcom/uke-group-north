@@ -37,7 +37,7 @@ Getting comfortable with your instrument is the first step to making beautiful m
 - Adjust where your forearm makes contact to find your the "sweet spot" for striking the strings - usually around where the neck meets the body of the uke
 - Remove watches, jewelry, or buttons that might get in the way
 - Some professional ukulele players grow their nails on their strumming hand, but will keep them short on their fretting hand.
-- Breathe and relax, try to laugh off any mistakes (we all make them), keep playing! :)
+- Breathe and relax, try to laugh off any mistakes, keep playing! :)
 
 ### Your First Chord: C7
 
