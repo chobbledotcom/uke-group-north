@@ -1,18 +1,26 @@
 ---
-header_text: "Learn Ukulele"
-meta_title: "Learn Ukulele | Uke Group North"
-meta_description: "Free ukulele learning resources - basics of holding, strumming, chords, and percussive techniques. Perfect for beginners!"
-subtitle: "Free resources to get you started"
 header_image: /images/ukelele-1.jpg
+header_text: Learn Ukulele
+subtitle: Free resources to get you started
+meta_description: Free ukulele learning resources - basics of holding,
+  strumming, chords, and percussive techniques. Perfect for beginners!
+meta_title: Learn Ukulele | Uke Group North
 eleventyNavigation:
   key: Learn
   order: 5
 permalink: /learn/
 ---
-
 ## Getting Started with Ukulele
 
 Welcome to our learning resources! Whether you're picking up a ukulele for the first time or looking to develop your skills, these guides will help you on your musical journey.
+
+## Download Songbooks
+
+### Junior Songbook
+[Download Junior Songbook (PDF)](/assets/Junior%20Songbook%201.pdf)
+
+### UGN Songbook
+[Download UGN Songbook (PDF)](/assets/UGN%20Songbook%201.1.pdf)
 
 ## The Basics
 
