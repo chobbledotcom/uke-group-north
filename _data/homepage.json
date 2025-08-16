@@ -2,5 +2,5 @@
   "show_products": false,
   "show_menus": false,
   "show_news": true,
-  "show_recurring_events": true
+  "show_recurring_events": false
 }
