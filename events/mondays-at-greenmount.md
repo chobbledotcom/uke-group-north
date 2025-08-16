@@ -19,7 +19,7 @@ Join us every Monday morning at Greenmount Old School for our popular Sing & Str
 - **When:** Every Monday, 10:15am - 11:15am
 - **Where:** Greenmount Old School, Brandlesholme Road, BL8 4DS
 - **Cost:** £8 per person
-- **Instrument hire:** +£2 if required
+- **Instrument hire:**
 
 ### What to Expect
 
