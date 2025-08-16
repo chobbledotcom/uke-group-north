@@ -27,14 +27,13 @@ Our Monday morning sessions are perfect for learning ukulele, playing and singin
 
 ### What to Bring
 
-- Your ukulele (or hire one of ours for £2)
-- A music stand if you have one
-- Your enthusiasm!
+- Your ukulele, or let us know if you would like to borrow one of ours
+- A copy of our most recent song book, either download to tablet or print a copy off
 
 ### Booking
 
 - Email: [ukegroupnorth@gmail.com](mailto:ukegroupnorth@gmail.com)
-- Spaces are limited to ensure quality instruction
+- Spaces are limited to ensure quality instruction and safety, please book in advance
 - Block booking discounts available
 
 All abilities welcome - beginners are especially encouraged to join us!
