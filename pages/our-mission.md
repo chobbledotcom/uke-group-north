@@ -1,15 +1,16 @@
 ---
-header_text: "Our Mission & Objectives"
-meta_title: "Our Mission | Uke Group North"
-meta_description: "Learn about Uke Group North's mission to improve wellbeing through music, strengthen community assets, and teach practical musical skills."
-subtitle: "Building stronger communities through the joy of music"
 header_image: /images/ukelele-3.jpg
+header_text: Our Mission & Objectives
+subtitle: Building stronger communities through the joy of music
+meta_description: Learn about Uke Group North's mission to improve wellbeing
+  through music, strengthen community assets, and teach practical musical
+  skills.
+meta_title: Our Mission | Uke Group North
 eleventyNavigation:
   key: Our Mission
   order: 3
 permalink: /our-mission/
 ---
-
 ## Our Core Objectives
 
 At Uke Group North, we believe in the transformative power of music to build communities, improve wellbeing, and create lasting connections. Our work is guided by three core objectives:
@@ -29,9 +30,9 @@ Music therapy has been recognized by NICE guidelines (UK) as beneficial for ment
 
 We work to strengthen community buildings and spaces by:
 
-- Basing our groups within community halls and libraries
-- Contributing to their financial sustainability through regular bookings
-- Increasing user numbers and community engagement
+- Improving the offering in community held spaces
+- Contributing to their financial upkeep through regular bookings
+- Increase user numbers and community engagement
 - Building circles of support within local communities
 
 With the declining number of community spaces, particularly following the COVID-19 pandemic, we believe in the vital role these buildings play in maintaining communities, individual wellbeing, and social cohesion.
