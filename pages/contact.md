@@ -8,7 +8,7 @@ meta_description: Get in touch with Uke Group North - book workshops, join
 meta_title: Contact | Uke Group North
 eleventyNavigation:
   key: Contact
-  order: 6
+  order: 99
 layout: contact.html
 permalink: /contact/
 ---
