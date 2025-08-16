@@ -1,14 +1,14 @@
 ---
-title: "Thursdays at Wyldes"
-subtitle: "Weekly Sing & Strum Session"
-recurring_date: "Thursdays - 7:30pm-9:30pm"
-event_location: "Wyldes, 4 Bolton St, Bury, BL9 0LQ"
-header_text: "Thursdays at Wyldes"
-meta_title: "Thursday Sessions | Wyldes | Uke Group North"
-meta_description: "Join our weekly Sing & Strum session at Wyldes every Thursday 7:30pm-9:30pm. £6 per person. No instruments required, beginners encouraged."
 header_image: /images/ukelele-1.jpg
+title: Thursdays at Wyldes
+subtitle: Weekly Sing & Strum Session
+recurring_date: Thursdays - 7:30pm-9:30pm
+event_location: Wyldes, 4 Bolton St, Bury, BL9 0LQ
+header_text: Thursdays at Wyldes
+meta_title: Thursday Sessions | Wyldes | Uke Group North
+meta_description: Join our weekly Sing & Strum session at Wyldes every Thursday
+  7:30pm-9:30pm. £6 per person. No instruments required, beginners encouraged.
 ---
-
 ## Weekly Sing & Strum Session
 
 Join us every Thursday evening at Wyldes for our popular Sing & Strum session. No instruments required - beginners are encouraged, and intermediate and advanced players are also welcome! Learn ukulele, play and sing your favourite songs in a relaxed evening atmosphere.
@@ -17,7 +17,7 @@ Join us every Thursday evening at Wyldes for our popular Sing & Strum session. N
 
 - **When:** Every Thursday, 7:30pm - 9:30pm
 - **Where:** Wyldes, 4 Bolton St, Bury, BL9 0LQ
-- **Cost:** £6 per person
+- **Cost:** £8 per person
 - **Instrument hire:** +£2 if required
 
 ### What to Expect
