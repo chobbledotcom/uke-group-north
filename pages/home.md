@@ -47,7 +47,7 @@ The ukulele is:
 
 ## Get Started Today
 
-Ready to join our musical community? [Contact us](/contact) to book your first session or learn more about what we offer.
+Ready to join our musical community? [Contact us](/contact/) to book your first session or learn more about what we offer.
 
 ## Download Our Songbooks
 
