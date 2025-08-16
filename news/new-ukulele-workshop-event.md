@@ -1,28 +1,34 @@
 ---
-title: "New Ukulele Workshop Series Starting"
-date: 2024-12-01
-header_text: "Join Our New Workshop Series"
-subtitle: "Weekly sessions for all skill levels"
-meta_description: "Uke Group North announces new weekly ukulele workshop series starting in December"
-permalink: /news/new-ukulele-workshop-series/
+title: New Ukulele Workshop Series Starting
 header_image: /images/ukelele-2.jpg
+date: 2024-12-01
+subtitle: Weekly sessions for all skill levels
+header_text: Join Our New Workshop Series
+meta_description: Uke Group North announces new weekly ukulele workshop series
+  starting in December
 ---
-
-We're thrilled to announce our new weekly ukulele workshop series starting this December! These sessions are designed for players of all skill levels, from complete beginners to experienced strummers.
+We're thrilled to announce our new weekly ukulele workshop series Sing and strum sessions! These sessions are designed for players of all skill levels, from complete beginners to experienced strummers, all making music together.
 
 ## Workshop Details
 
-**When:** Every Wednesday, starting December 4th  
-**Time:** 7:00 PM - 8:30 PM  
-**Where:** Manchester Community Centre  
-**Cost:** £5 per session (first session free!)
+**Greenmount Old School, Brandlesholme Rd, Greenmount**
+Mondays 10:15am-11:45am
+
+**Ramsbottom Library, Carr St., Ramsbottom**
+Tuesdays 10:30am - 12:00pm
+
+**The Den, Stubbins Vale Rd., Ramsbottom**
+Tuesdays 5:30pm - 7:00pm
+
+**Wyldes, Bury**
+Thursdays 6:30pm - 8:00pm
 
 ## What You'll Learn
 
 - Basic chord progressions
 - Strumming patterns and techniques
 - Popular songs arranged for ukulele
-- Music theory basics
+- Music theory, helping you make informed choices when making music
 - Group performance skills
 
 ## Bring Your Own or Borrow
