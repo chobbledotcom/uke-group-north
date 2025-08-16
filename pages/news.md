@@ -4,7 +4,7 @@ header_text: Recent Updates
 eleventyNavigation:
   key: News
   order: 3
-layout: news.html
+layout: news-archive.html
 permalink: /news/
 ---
 # Check out our latest news posts below
