@@ -41,4 +41,4 @@ Don't have a ukulele yet? No problem! We have instruments available to borrow du
 
 To secure your spot, please email us at ukegroupnorth@gmail.com or use our contact form. Spaces are limited to ensure everyone gets individual attention.
 
-Looking forward to making music with you!
+We are ooking forward to making music with you!
