@@ -1,34 +1,34 @@
 ---
-header_text: "About Uke Group North"
-meta_title: "About Us | Uke Group North"
-meta_description: "Learn about Uke Group North - bringing communities together through ukulele workshops across Greater Manchester and Lancashire since 2021."
-subtitle: "Our story and values"
 header_image: /images/ukelele-2.jpg
+header_text: About Uke Group North
+subtitle: Our story and values
+meta_description: Learn about Uke Group North - bringing communities together
+  through ukulele workshops across Greater Manchester and Lancashire since 2021.
+meta_title: About Us | Uke Group North
 eleventyNavigation:
   key: About
   order: 4
 permalink: /about/
 ---
-
 ## Welcome to Uke Group North
 
 We're a community interest company dedicated to bringing people together through the joy of music. Since September 2021, we've been running weekly workshops across Greater Manchester and Lancashire, creating spaces where people of all ages and abilities can learn, play, and connect through the ukulele.
 
 ## Our Story
 
-Our journey began with a simple belief: that music has the power to transform communities. Starting with our first sessions at The Den in Ramsbottom, we've grown into a vibrant network of music-makers, bringing the joy of ukulele to libraries, community centres, and gathering spaces across the region.
+Our journey begins with a simple belief: that music has the power to transform communities. Starting with our first sessions in Ramsbottom, we've grown into a vibrant network of welcoming, supportive, encouraging music-makers. Bringing the joy of music, ukulele and singing together to libraries, community centres, residential living centres, primary schools and gathering spaces across the region with our weekly workshops, sing and strum sessions and live performances.
 
-We're proud to work alongside brilliant community organizations like the [RammyMen](https://rammymen.org), who celebrated a Queen's Award for Voluntary Service in 2022. Together, we're building stronger, more connected communities through music.
+We're proud to work alongside organizations who create possitive ripples in communities such as [RammyMen](https://rammymen.org), [Urban Outreach](https://urbanoutreach.co.uk) as well as local councils and care providers. 
 
 ## What We Do
 
-We deliver welcoming, group-oriented musical education workshops that focus on:
+We deliver welcoming, group-oriented fun musical education workshops that focus on:
 
 - **Doing something together** - Building community through shared experiences
-- **Having fun** - Because learning should be joyful
+- **Having fun** - Because learning is better through play
 - **Playing ukulele** - From first chords to advanced techniques
 - **Singing** - Finding your voice in a supportive environment
-- **Music theory** - Understanding the language of music
+- **Music theory** - Understanding the inner workings of music
 - **Performance** - Building confidence to share your music
 
 ## Our Approach
@@ -58,11 +58,7 @@ Our experienced facilitators:
 
 **Inclusivity** - Everyone is welcome, regardless of background or ability
 
-**Community** - We're stronger together
-
-**Joy** - Music should bring happiness
-
-**Growth** - Supporting each person's musical journey
+**Community** - Creating welcoming spaces to strengthen & forge new commnuity bonds
 
 **Wellbeing** - Improving mental and emotional health through music
 
@@ -70,7 +66,7 @@ Our experienced facilitators:
 
 Whether you're looking to learn a new skill, meet new people, or simply have fun making music, there's a place for you at Uke Group North. Our relaxed, easy-going sessions create the perfect environment for musical exploration and community connection.
 
-Come for the music, stay for the friendships!
+Strike up a chord with Uke Group North!
 
 ## Get Involved
 
