@@ -23,6 +23,8 @@ Tuesdays 5:30pm - 7:00pm
 **Wyldes, Bury**
 Thursdays 6:30pm - 8:00pm
 
+Sessions are £8pp, (free instrument hire if required, let us know)
+
 ## What You'll Learn
 
 - Basic chord progressions
