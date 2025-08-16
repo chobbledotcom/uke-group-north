@@ -9,6 +9,7 @@ meta_title: Uke Group North | Ukulele workshops in Greater Manchester and Lancas
 eleventyNavigation:
   key: Home
   order: 1
+layout: home.html
 permalink: /
 ---
 ## Join Our Musical Community
