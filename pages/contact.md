@@ -22,17 +22,24 @@ For all enquiries, please email us at: [ukegroupnorth@gmail.com](mailto:ukegroup
 
 ## Join Our Regular Sessions
 
+### Greenmount Old School
+**When:** Tuesdays, 10:15am - 11:45am  
+**Where:** Brandelshome Road, Greenmount
+
 ### Ramsbottom Library
 **When:** Tuesdays, 10:30am - 12:00pm  
 **Where:** Carr Street, Ramsbottom  
-**Cost:** £8 per person  
-**What to bring:** Your ukulele or borrow one of ours (+£2 instrument hire)
 
 ### The Den
 **When:** Tuesdays, 5:30pm - 7:00pm  
 **Where:** Stubbins Vale Road, Ramsbottom  
-**Cost:** £6 per person  
-**What to bring:** Your ukulele or borrow one of ours (+£2 instrument hire)
+
+### Wyldes, Bury
+**When:** Tuesdays, 5:30pm - 7:00pm  
+**Where:** Bury, Bolton Street, Bury
+
+All sessions are £8pp, free instrument hire available, let us know in your booking if you need to borrow a uke
+
 
 ## Book a Workshop for Your Group
 
@@ -50,8 +57,8 @@ When booking a workshop, please include:
 
 - **Venue location** - Where you'd like the workshop
 - **Group size** - Up to 30 participants
-- **Instruments needed** - We can provide up to 15 ukuleles
-- **Left-handed instruments** - Let us know how many needed
+- **Instruments needed** - We can provide high quality instruments for those without their own
+- **Left-handed instruments** - Let us know if you are left handed for a left handed strung instrument
 - **Skill level** - Complete beginners to advanced
 - **Musical preferences** - Your favourite genres or songs
 
