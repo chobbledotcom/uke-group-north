@@ -34,9 +34,10 @@ Getting comfortable with your instrument is the first step to making beautiful m
 
 **Pro Tips:**
 - Roll up your sleeves for extra grip with your strumming arm
-- Adjust where your forearm makes contact to find your "sweet spot" - usually where the neck meets the body
-- Hold the ukulele like you're holding a baby - firm but gentle!
+- Adjust where your forearm makes contact to find your the "sweet spot" for striking the strings - usually around where the neck meets the body of the uke
 - Remove watches, jewelry, or buttons that might get in the way
+- Some professional ukulele players grow their nails on their strumming hand, but will keep them short on their fretting hand.
+- Breathe and relax, try to laugh off any mistakes (we all make them), keep playing! :)
 
 ### Your First Chord: C7
 
@@ -130,7 +131,7 @@ These basics are just the beginning! To continue your ukulele journey:
 - Connect with other players in our community sessions
 - Practice a little each day - consistency is key!
 
-Remember: Everyone starts somewhere, and the ukulele community is one of the most welcoming you'll find. Don't be afraid to make mistakes - they're how we learn!
+Remember: Everyone starts somewhere, and the ukulele community is one of the most welcoming you'll find. Don't be afraid to make mistakes - it's how we learn!
 
 ---
 
