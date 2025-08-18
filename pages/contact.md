@@ -12,10 +12,9 @@ eleventyNavigation:
 layout: contact.html
 permalink: /contact/
 ---
-
 ## Get in Touch
 
-We'd love to hear from you! Whether you want to join a session, book a workshop for your group, or just have a question about what we do, we're here to help.
+We'd love to hear from you! Whether you'd like to join a session, book a workshop for your group, or just have a question about what we do, we're here to help.
 
 ## Email Us
 
