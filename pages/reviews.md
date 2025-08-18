@@ -9,7 +9,6 @@ permalink: /reviews/
 header_image: /images/ukelele-3.jpg
 layout: reviews.html
 ---
-
 # Reviews
 
-Check out some reviews from our attendees below
+Check out some reviews from our attendees below, taken from our [Facebook page](https://www.facebook.com/ukegroupnorth/reviews)
