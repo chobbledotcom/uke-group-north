@@ -8,7 +8,8 @@ const build = path.join(root, buildDir);
 const template = path.join(build, "template");
 const dev = path.join(build, "dev");
 
-const templateExcludes = [".git", "node_modules", "*.md", "test", "test-*"];
+const templateExcludes = [".git", "node_modules", "test", "test-*"];
+
 const rootExcludes = [
 	".git",
 	"*.nix",
@@ -39,9 +40,12 @@ function prep() {
 		.map((e) => `--exclude="${e}"`)
 		.join(" ");
 
+	execSync(`rsync -r --delete ${templateExcludeArgs} "${template}/" "${dev}/"`);
+
+	execSync(`rm ${dev}/src/*/*.md`);
+
 	const rootExcludeArgs = rootExcludes.map((e) => `--exclude="${e}"`).join(" ");
 
-	execSync(`rsync -r --delete ${templateExcludeArgs} "${template}/" "${dev}/"`);
 	execSync(`rsync -r ${rootExcludeArgs} "${root}/" "${dev}/src/"`);
 	execSync(`rsync -r "${root}/.image-cache" "${dev}/.image-cache"`);
 
