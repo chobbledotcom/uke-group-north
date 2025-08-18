@@ -32,7 +32,6 @@ content:
           - { name: key, type: string }
           - { name: order, type: number }
           - { name: url, type: string }
-      - { name: layout, type: string }
       - { name: permalink, type: string }
       
   - name: news
