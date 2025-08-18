@@ -8,8 +8,15 @@ prep();
 
 console.log('Starting server...');
 
-const watch = spawn('node', [path.join(__dirname, 'watch.js')], { stdio: 'inherit' });
-const eleventy = spawn('npx', ['eleventy', '--serve'], { cwd: dev, stdio: 'inherit', shell: true });
+const watch = spawn('node', [path.join(__dirname, 'watch.js')], { 
+  stdio: 'inherit' 
+});
+
+const eleventy = spawn('npx', ['-y', '@11ty/eleventy', '--serve'], { 
+  cwd: dev, 
+  stdio: 'inherit', 
+  shell: true 
+});
 
 process.on('SIGINT', () => {
   console.log('\nStopping...');

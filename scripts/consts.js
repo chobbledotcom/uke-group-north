@@ -1,4 +1,4 @@
 module.exports = {
-  templateRepo: 'https://github.com/chobbledotcom/chobble-client',
-  buildDir: '.build'
+	templateRepo: "https://github.com/chobbledotcom/chobble-template",
+	buildDir: ".build",
 };

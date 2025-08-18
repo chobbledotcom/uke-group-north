@@ -8,6 +8,7 @@
     "prepare-dev": "node scripts/prepare-dev.js",
     "sync-files": "node scripts/sync-files.js",
     "watch": "node scripts/watch.js",
+    "update-pages": "node scripts/update-pages.js",
     "clean": "rm -rf .build _site"
   },
   "devDependencies": {}
