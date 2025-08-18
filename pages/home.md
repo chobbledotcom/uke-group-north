@@ -12,6 +12,7 @@ eleventyNavigation:
 layout: home.html
 permalink: /
 ---
+
 ## Join Our Musical Community
 
 Welcome to Uke Group North! We provide inclusive ukulele workshops across Greater Manchester and Lancashire, creating a welcoming community through music. Whether you're a complete beginner or an experienced player, there's a place for you in our groups.
@@ -39,6 +40,7 @@ To book your place, email us at [ukegroupnorth@gmail.com](mailto:ukegroupnorth@g
 As Jake Shimabukuro said, "If everyone played the ukulele, the world would be a better place. There's something about the ukulele that just makes you smile. It makes you let your guard down."
 
 The ukulele is:
+
 - Easy to learn
 - Portable and affordable
 - Perfect for group playing
@@ -52,9 +54,10 @@ Ready to join our musical community? [Contact us](/contact/) to book your first 
 ## Download Our Songbooks
 
 We've created songbooks for our sessions - download them free from our [Songs page](/songs/). Available collections include:
+
 - Junior Songbook - Perfect for younger players and beginners
 - UGN Songbook - Our main collection for workshops and sessions
 
 ---
 
-*"Music gives a soul to the universe, wings to the mind, flight to the imagination and life to everything"* - Plato
+_"Music gives a soul to the universe, wings to the mind, flight to the imagination and life to everything"_ - Plato
