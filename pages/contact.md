@@ -51,10 +51,10 @@ When booking a workshop, please include:
 ## Frequently Asked Questions
 
 **Do I need my own ukulele?**  
-No! We have instruments available to borrow during sessions for a small fee (£2).
+No! We have instruments available to borrow during sessions for free.
 
 **I've never played before - can I still join?**  
-Absolutely! We welcome complete beginners and have specific sessions designed for those just starting out.
+Absolutely! We welcome complete beginners
 
 **How do I book a place?**  
 Simply email us at [ukegroupnorth@gmail.com](mailto:ukegroupnorth@gmail.com) to reserve your spot.
