@@ -18,7 +18,24 @@ We offer a comprehensive range of workshops designed to meet you wherever you ar
 
 Our popular Sing & Strum sessions run throughout the week at various locations. Please visit our [Events page](/events/) for full details of all regular sessions and special events.
 
+
+
 ## Beginner Workshops
+
+### Childrens Workshops
+Fun group sessions for young people. Learning through games, activities and practice.
+
+- Introduction to ukulele for kids
+
+- Junior sing and strum group
+
+Our informative children's workshops explore:
+- The origins of the ukulele
+- The science of sound
+- The fundamentals of music
+- Defining musical genres
+- Ukulele technique
+- Music theory
 
 ### Introduction to Ukulele
 Perfect for complete beginners - no musical experience necessary!
@@ -79,12 +96,6 @@ We offer genre focused workshops
 - Christmas songs workshop
 - Performance preparation
 - Ukulele maintenance and setup
-
-### School Holiday Workshops
-Fun sessions for young people during school holidays:
-- Introduction to ukulele for kids
-- Family sessions (learn together!)
-- Youth ukulele orchestra
 
 ## Workshop Information
 
