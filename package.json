@@ -1,0 +1,14 @@
+{
+  "name": "uke-group-north",
+  "version": "1.0.0",
+  "description": "Uke Group North website",
+  "scripts": {
+    "serve": "node scripts/serve.js",
+    "build": "node scripts/build.js",
+    "prepare-dev": "node scripts/prepare-dev.js",
+    "sync-files": "node scripts/sync-files.js",
+    "watch": "node scripts/watch.js",
+    "clean": "rm -rf .build _site"
+  },
+  "devDependencies": {}
+}
