@@ -12,6 +12,7 @@ eleventyNavigation:
 layout: contact.html
 permalink: /contact/
 ---
+
 ## Get in Touch
 
 We'd love to hear from you! Whether you want to join a session, book a workshop for your group, or just have a question about what we do, we're here to help.
@@ -22,28 +23,14 @@ For all enquiries, please email us at: [ukegroupnorth@gmail.com](mailto:ukegroup
 
 ## Join Our Regular Sessions
 
-### Greenmount Old School
-**When:** Tuesdays, 10:15am - 11:45am  
-**Where:** Brandelshome Road, Greenmount
+{% recurring_events %}
 
-### Ramsbottom Library
-**When:** Tuesdays, 10:30am - 12:00pm  
-**Where:** Carr Street, Ramsbottom  
-
-### The Den
-**When:** Tuesdays, 5:30pm - 7:00pm  
-**Where:** Stubbins Vale Road, Ramsbottom  
-
-### Wyldes, Bury
-**When:** Tuesdays, 5:30pm - 7:00pm  
-**Where:** Bury, Bolton Street, Bury
-
-All sessions are £8pp, free instrument hire available, let us know in your booking if you need to borrow a uke
-
+All sessions are £8 per person, with free instrument hire available - just let us know in your booking if you need to borrow a uke.
 
 ## Book a Workshop for Your Group
 
 We can bring the joy of ukulele to your venue! Perfect for:
+
 - Community groups
 - Schools and colleges
 - Care homes
@@ -62,19 +49,6 @@ When booking a workshop, please include:
 - **Skill level** - Complete beginners to advanced
 - **Musical preferences** - Your favourite genres or songs
 
-## Contact Form
-
-*[Contact form functionality will be added here]*
-
-For now, please email us directly at [ukegroupnorth@gmail.com](mailto:ukegroupnorth@gmail.com) with your enquiry.
-
-## Connect With Us
-
-Follow our journey and stay updated on workshops, events, and performances:
-
-- Email: [ukegroupnorth@gmail.com](mailto:ukegroupnorth@gmail.com)
-- Location: Greater Manchester and Lancashire
-
 ## Frequently Asked Questions
 
 **Do I need my own ukulele?**  
@@ -88,7 +62,3 @@ Simply email us at [ukegroupnorth@gmail.com](mailto:ukegroupnorth@gmail.com) to 
 
 **Can you come to our venue?**  
 Yes! We deliver workshops across Greater Manchester and Lancashire. Get in touch to discuss your requirements.
-
----
-
-*Aloha! We look forward to making music with you!*
