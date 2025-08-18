@@ -1,15 +1,15 @@
 ---
-header_text: "Workshops & Sessions"
-meta_title: "Workshops | Uke Group North"
-meta_description: "Explore our range of ukulele workshops from beginner to advanced. Weekly sessions in Ramsbottom and surrounding areas."
-subtitle: "Learn, play, and grow with us"
+header_text: Workshops & Sessions
+meta_title: Workshops | Uke Group North
+meta_description: Explore our range of ukulele workshops from beginner to
+  advanced. Weekly sessions in Ramsbottom and surrounding areas.
+subtitle: Learn, play, and grow with us
 header_image: /images/ukelele-1.jpg
 eleventyNavigation:
   key: Workshops
   order: 2
 permalink: /workshops/
 ---
-
 ## Our Workshop Programme
 
 We offer a comprehensive range of workshops designed to meet you wherever you are on your musical journey. All our workshops are inclusive and welcoming - if you have specific needs, please discuss them with us and we'll create a tailored experience for you.
@@ -24,21 +24,21 @@ Our popular Sing & Strum sessions run throughout the week at various locations. 
 Perfect for complete beginners - no musical experience necessary!
 
 **What you'll learn:**
+- The fundamentals of ukulele music
 - How to hold and tune your ukulele
 - Basic chords (C, F, G, Am)
 - Simple strumming patterns
 - Your first songs
 - Reading chord charts
-- Basic music theory
 
 **What's included:**
 - Professional instruction
 - Ukulele provided if needed
-- Printed materials
+- Learning resoures
 - Ongoing support
 
 ### Beginner Sing & Strum
-Once you know a few chords, join our beginner-friendly sessions to:
+Join our beginner-friendly sessions to:
 - Learn popular songs arranged for beginners
 - Develop your rhythm and timing
 - Build confidence playing with others
@@ -66,15 +66,6 @@ These sessions feature:
 
 ## Advanced Workshops
 
-### Chord Melody Workshop
-Learn how melody and harmony can work together, allowing your ukulele to truly sing.
-
-**You'll explore:**
-- Chord melody arrangements
-- Jazz chords and voicings
-- Advanced fingerstyle techniques
-- Creating your own arrangements
-
 ### Dominant Hand Technique
 A deep dive into the capabilities of your strumming hand:
 - Advanced strumming patterns
@@ -82,17 +73,8 @@ A deep dive into the capabilities of your strumming hand:
 - Dynamics and expression
 - Genre-specific styles (jazz, blues, folk, pop)
 
-### Advanced Sing & Strum
-For experienced players looking to:
-- Master complex arrangements
-- Lead group sessions
-- Explore improvisation
-- Perform challenging repertoire
-
-## Special Workshops
-
 ### One-Day Intensives
-Periodically, we offer focused workshops on specific topics:
+We offer genre focused workshops
 - Blues ukulele
 - Christmas songs workshop
 - Performance preparation
@@ -118,14 +100,10 @@ Fun sessions for young people during school holidays:
 
 ### Our Approach
 All our workshops are:
-- **Inclusive** - Everyone is welcome regardless of ability
-- **Supportive** - Learn at your own pace in a friendly environment  
-- **Fun** - We believe learning should be enjoyable
-- **Community-focused** - Build friendships while you learn
-
-## Keen Beginners Welcome!
-
-Don't be afraid to join intermediate sessions if you're a keen beginner - playing with more advanced players is a great way to improve quickly. Our groups are always supportive and welcoming.
+- **Inclusive** - Everyone is welcome
+- **Informative** - Learn together
+- **Supportive** - Progress together   
+- **Fun** - Create and play together
 
 ---
 
