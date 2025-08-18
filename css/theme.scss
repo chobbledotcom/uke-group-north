@@ -25,7 +25,8 @@
 
 /* body_classes: header-centered-dark, headings-centered */
 
-body > footer .socials li a img {
+body > footer .socials li a img,
+body > footer .socials li a img:hover {
   filter: invert(40%) sepia(98%) saturate(401%) hue-rotate(357deg)
     brightness(98%) contrast(102%);
 }
