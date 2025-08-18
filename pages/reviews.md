@@ -7,7 +7,9 @@ eleventyNavigation:
   order: 4
 permalink: /reviews/
 header_image: /images/ukelele-3.jpg
+layout: reviews.html
 ---
+
 # Reviews
 
 Check out some reviews from our attendees below
