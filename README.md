@@ -1,6 +1,8 @@
-# Chobble Client Site Builder
+# UK Egroupnorth
 
-Quick static site generator that combines the [Chobble Template](https://git.chobble.com/chobble/chobble-template/) with your content.
+Website for UK Egroupnorth - [ukegroupnorth.com](https://ukegroupnorth.com)
+
+Built using the [Chobble Template](https://github.com/chobbledotcom/chobble-template) - a quick static site generator that combines the template with your content.
 
 ## Quick Start
 
