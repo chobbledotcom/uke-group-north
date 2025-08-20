@@ -56,7 +56,7 @@ It has a memorable positioning for frets, strings and fingers.
 
 ### Strumming Technique
 
-Good strumming involves staying loose and relaxed.
+Strum gently, graze the strings with light flowing motion.
 
 **Basic Strumming Method:**
 1. Let your wrist and hand relaxed and loose
