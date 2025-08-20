@@ -44,13 +44,6 @@ Please use your name as the payment reference so we can thank you!
 
 ### Volunteer With Us
 
-We're always looking for enthusiastic volunteers to help with:
-- Setting up sessions
-- Administrative support
-- Social media and promotion
-- Event organization
-- Photography and videography
-
 Contact us at [ukegroupnorth@gmail.com](mailto:ukegroupnorth@gmail.com) if you'd like to volunteer.
 
 ### Spread the Word
