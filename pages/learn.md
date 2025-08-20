@@ -114,8 +114,8 @@ To sail Sea Seven true?*
 
 *They plot the stars they follow charts, the strumming hand commands  
 There's others too that live with thumb, they're on your strongest hand  
-They bring the uke to life chuckstrum, a sound you can't ignore  
-You have your own you know them well, Play C7 & explore!*
+They bring the uke to life chuckstrum, a place they can explore 
+A root a 3rd a 5th sounds swell, a 7th you can't ignore!*
 
 *(Continue with more names and verses as you like!)*
 
