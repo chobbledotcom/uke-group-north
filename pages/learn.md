@@ -86,7 +86,6 @@ Chucking is one of the most fun ukulele techniques!
 - Strike the strings with your strumming hand
 - Or use your palm to simultaneously dampen and attack
 - Try adding chucks on beats 2 and 4 for a driving backbeat
-- Let your fingernail go beyond the strings to tap the soundboard for extra snap!
 
 #### 3. Bass Drum
 - Strike the strings close to the saddle/bridge for a deeper sound
