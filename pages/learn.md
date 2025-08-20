@@ -71,7 +71,7 @@ Remember: Practice gently! Every sound can be achieved through light playing. It
 
 ### The Ukulele as a Little Drum
 
-Your ukulele can be more than just a melodic instrument - it can be a percussion instrument too!
+Your ukulele can be more than just a melodic instrument - it can be a percussive instrument too!
 
 **Three Main Drum Sounds:**
 
