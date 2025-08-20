@@ -34,37 +34,38 @@ Getting comfortable with your instrument is the first step to making beautiful m
 
 **Pro Tips:**
 - Roll up your sleeves for extra grip with your strumming arm
-- Adjust where your forearm makes contact to find your the "sweet spot" for striking the strings - usually around where the neck meets the body of the uke
+- Adjust where your forearm makes contact to find your the "sweet spot" for striking the strings with your thumb or finger - usually around where the neck meets the body of the uke
 - Remove watches, jewelry, or buttons that might get in the way
-- Some professional ukulele players grow their nails on their strumming hand, but will keep them short on their fretting hand.
+- Some professional ukulele players grow their nails on their strumming hand, but most will keep them short on their fretting hand.
 - Breathe and relax, try to laugh off any mistakes, keep playing! :)
 
-### Your First Chord: C7
+### A place to start: C7
 
-Let's start with one of the easiest chords - C7!
+C7 is a great place for beginners to start strumming. 
+It has a memorable positioning for frets, strings and fingers.
 
 **How to play C7:**
-- Place your **1st finger** on the **1st fret** of the **1st string** (the string closest to the floor)
-- That's it! Just one finger needed
+- Place your **1st finger**
+- on the **1st fret**
+- of the **1st string** (the string closest to the floor)
 
 **Practice Technique:**
 1. Start with a "feather touch" - barely touching the string
-2. Slowly add pressure until the note rings clear
-3. Find the minimum pressure needed - too much can cause bad habits and even injury
-4. Keep everything relaxed!
+2. Slowly add pressure
+3. Find the minimum pressure needed by plucking the 1st string gently with your strumming thumb
 
 ### Strumming Technique
 
-Good strumming is all about staying loose and relaxed.
+Good strumming involves staying loose and relaxed.
 
 **Basic Strumming Method:**
-1. Let your wrist and hand go nice and loose
+1. Let your wrist and hand relaxed and loose
 2. Extend your index finger, let others curl naturally
 3. **Strumming Down:** Use your fingernail or fingertip, extending your finger
 4. **Strumming Up:** Use the pad of your finger, curling it back toward your palm
 5. Use combined movement of wrist and finger - minimal elbow movement
 
-Remember: Practice gently! Every sound can be achieved through light playing. It's better to build up volume than be stuck at volume 11 with nowhere to go!
+Remember: Practice gently! Every sound can be achieved through light playing. It's better to build up volume than be stuck at 11 with nowhere to go!
 
 ## Advanced Techniques
 
@@ -101,7 +102,7 @@ Chucking is one of the most fun ukulele techniques!
 
 ## Your First Song: "Sea Seven"
 
-Here's a fun song you can play using just the C7 chord! Perfect for practicing your strumming while singing along.
+Here's a fun little song you can play using just the C7 chord! Perfect for practicing your strumming while singing along.
 
 **Sea Seven** *(Play with C7 throughout)*
 
