@@ -32,7 +32,7 @@ Getting comfortable with your instrument is the first step to making beautiful m
 1. **Neck** - Resting gently in your fretting hand
 2. **Forearm** - Your strumming arm makes contact against the soundboard/lower bout
 
-**Pro Tips:**
+**Top Tips:**
 - Roll up your sleeves for extra grip with your strumming arm
 - Adjust where your forearm makes contact to find your the "sweet spot" for striking the strings with your thumb or finger - usually around where the neck meets the body of the uke
 - Remove watches, jewelry, or buttons that might get in the way
@@ -58,7 +58,11 @@ It has a memorable positioning for frets, strings and fingers.
 
 Strum gently, graze the strings with light flowing motion.
 
-**Basic Strumming Method:**
+**Basic Strumming Methods:**
+
+1. Make light contact to lower shoulder of the ukulele with fingertips on your strumming hand
+2. Strum gently down with thumb through all 4 strings
+
 1. Let your wrist and hand relaxed and loose
 2. Extend your index finger, let others curl naturally
 3. **Strumming Down:** Use your fingernail or fingertip, extending your finger
