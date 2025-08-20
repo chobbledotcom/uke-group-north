@@ -65,8 +65,6 @@ Good strumming involves staying loose and relaxed.
 4. **Strumming Up:** Use the pad of your finger, curling it back toward your palm
 5. Use combined movement of wrist and finger - minimal elbow movement
 
-Remember: Practice gently! Every sound can be achieved through light playing. It's better to build up volume than be stuck at 11 with nowhere to go!
-
 ## Advanced Techniques
 
 ### The Ukulele as a Little Drum
@@ -89,7 +87,6 @@ Chucking is one of the most fun ukulele techniques!
 
 #### 3. Bass Drum
 - Strike the strings close to the saddle/bridge for a deeper sound
-- Tap different areas of the instrument body
 - If you have a pickup, add some reverb for extra "oomph"
 
 ### Practice Tips for Percussive Playing
@@ -99,7 +96,7 @@ Chucking is one of the most fun ukulele techniques!
 - Feel the rhythm and let it drive your playing
 - Remember: The ukulele loves to pretend it's a drum!
 
-## Your First Song: "Sea Seven"
+## Our First Song: "Sea Seven"
 
 Here's a fun little song you can play using just the C7 chord! Perfect for practicing your strumming while singing along.
 
@@ -117,8 +114,8 @@ To sail Sea Seven true?*
 
 *They plot the stars they follow charts, the strumming hand commands  
 There's others too that live with thumb, they're on your strongest hand  
-They bring the uke to life chuck strum, a sound you can't ignore  
-You have your own you know them well, you've played with things before!*
+They bring the uke to life chuckstrum, a sound you can't ignore  
+You have your own you know them well, Play C7 & explore!*
 
 *(Continue with more names and verses as you like!)*
 
