@@ -61,34 +61,11 @@ Help us reach more people who could benefit from our workshops:
 - Leave us a review or testimonial
 - Recommend us to community groups
 
-### Corporate Support
-
-Does your company support local community initiatives? We offer:
-- Corporate workshop sessions for team building
-- Sponsorship opportunities
-- Partnership programs
-- Employee volunteering opportunities
-
-## Our Impact
-
-Your support has real impact on our communities:
-
-- **200+ participants** in weekly sessions
-- **15+ venues** across Greater Manchester and Lancashire
-- **Free instruments** provided to those who need them
-- **Mental wellbeing** improved through music and community
-- **Social connections** built in every session
-- **Skills developed** from complete beginner to advanced
-
 ## Thank You
 
 We're grateful for every form of support we receive. Whether you donate, volunteer, or simply spread the word about what we do, you're helping us build stronger, happier communities through music.
 
 **Thank you for your generosity!**
-
-## Gift Aid
-
-As a Community Interest Company, we can claim Gift Aid on donations. If you're a UK taxpayer, your donation could be worth 25% more at no extra cost to you. Please email us for a Gift Aid declaration form.
 
 ---
 
