@@ -12,13 +12,21 @@ permalink: /about/
 ---
 ## Welcome to Uke Group North
 
-We're a community interest company dedicated to bringing people together through the joy of music. Since September 2021, we've been running weekly workshops across Greater Manchester and Lancashire, creating spaces where people of all ages and abilities can learn, play, and connect through the ukulele.
+We are a community interest company dedicated to bringing people together through the joy of music. Since September 2021, we've been running weekly workshops across Greater Manchester and Lancashire, creating spaces where people of all ages and abilities can learn, play, and connect through the ukulele.
 
 ## Our Story
 
-Our journey begins with a simple belief: that music has the power to transform communities. Starting with our first sessions in Ramsbottom, we've grown into a vibrant network of welcoming, supportive, encouraging music-makers. Bringing the joy of music, ukulele and singing together to libraries, community centres, residential living centres, primary schools and gathering spaces across the region with our workshops, sing and strum sessions and live performances.
+Our journey begins with the belief: music has the power to help transform communities. Starting with our first sessions in Ramsbottom, we've grown into a vibrant network of welcoming, supportive, encouraging music-makers. Bringing the joy of music, ukulele and singing together to libraries, community centres, residential living centres, primary schools and gathering spaces across the region with our workshops, sing and strum sessions and live performances.
 
 We're proud to work alongside organizations who create possitive ripples in communities such as [RammyMen](https://rammymen.org), [Urban Outreach](https://urbanoutreach.co.uk) as well as local councils and care providers. 
+
+## Our Objectives
+
+**Inclusivity** - Everyone is welcome, regardless of background or ability
+
+**Community** - Creating welcoming spaces to strengthen & forge new commnuity bonds
+
+**Wellbeing** - Improving mental and emotional health through music
 
 ## What We Do
 
@@ -53,14 +61,6 @@ Our experienced facilitators:
 - Provide ongoing support
 - Give sound advice on choosing instruments
 - Help you celebrate your musical journey
-
-## Our Values
-
-**Inclusivity** - Everyone is welcome, regardless of background or ability
-
-**Community** - Creating welcoming spaces to strengthen & forge new commnuity bonds
-
-**Wellbeing** - Improving mental and emotional health through music
 
 ## Join Our Community
 
