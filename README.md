@@ -1,41 +1,68 @@
-# Chobble Client Site Builder
+# Uke Group North
 
-Quick static site generator that combines the [Chobble Template](https://git.chobble.com/chobble/chobble-template/) with your content.
+**Bringing communities together through the joy of music**
 
-## Quick Start
+[ukegroupnorth.com](https://ukegroupnorth.com)
 
-1. **Add your content** - Edit markdown files and images in the relevant folders
-2. **Push to GitHub** - The site builds automatically via GitHub Actions
-3. **Deploy happens automatically** - Site deploys to Neocities (or your chosen host)
+## About Uke Group North
 
-## What Goes Where
+Uke Group North is a Community Interest Company (CIC) dedicated to improving wellbeing and strengthening communities through inclusive ukulele workshops across Greater Manchester and Lancashire. Since September 2021, we've been creating welcoming spaces where people of all ages and abilities can learn, play, and connect through music.
 
-The `.pages.yml` defines all your content types:
-- `pages/` - Static pages with navigation
-- `news/` - Blog posts with dates
-- `products/` - Shop items with prices and Etsy links
-- `categories/` - Product categories
-- `team/` - Team member profiles
-- `reviews/` - Customer testimonials
-- `events/` - Upcoming events
-- `menus/`, `menu-categories/`, `menu-items/` - Restaurant menu system
-- `snippets/` - Reusable content bits
-- `images/` - All your images
+### What We Do
 
-## How It Works
+- **Weekly Sing & Strum Sessions** - Regular workshops in Ramsbottom, Greenmount, Bury and surrounding areas
+- **Beginner to Advanced Workshops** - From first chords to advanced techniques
+- **Children's Programmes** - Fun, educational sessions designed for young learners
+- **Community Performances** - Regular performances at local festivals and events
+- **Free Instrument Loan** - No ukulele? No problem! We provide instruments during sessions
 
-When you push to GitHub:
-1. GitHub Actions merges your content with the template
-2. Builds the static site with Eleventy
-3. Deploys to your configured hosting (Neocities by default)
+### Our Mission
 
-## Configuration
+We work towards three core objectives:
 
-Set these GitHub secrets for your repo:
-- `NEOCITIES_API_KEY` - For deployment
-- `FORMSPARK_ID` - For contact forms (optional)
-- `BOTPOISON_PUBLIC_KEY` - For spam protection (optional)
+1. **Improving Mental & Emotional Wellbeing** - Using music therapy and community connection to support mental health
+2. **Strengthening Community Assets** - Supporting local community spaces through regular bookings and increased engagement
+3. **Developing Musical Skills** - Teaching practical ukulele skills, music theory, and performance confidence
 
-## Local Development
+### Weekly Sessions
 
-Run `./bin/build` to build locally. The output appears in `result/`.
+Check the [website](https://ukegroupnorth.com/events/) for our current weekly sessions across Greater Manchester and Lancashire. All sessions welcome beginners - no experience necessary!
+
+### Get Involved
+
+- **Email**: ukegroupnorth@gmail.com
+- **Facebook**: [facebook.com/ukegroupnorth](https://www.facebook.com/ukegroupnorth/)
+- **Join a Session**: Visit our [workshops page](https://ukegroupnorth.com/workshops/) to find a session near you
+- **Support Us**: Donations help us provide instruments and expand our reach to new communities
+
+## Website Technical Details
+
+This website is built using the [Chobble Template](https://github.com/chobbledotcom/chobble-template), a static site generator that combines markdown content with automated deployment.
+
+### Site Structure
+
+- `pages/` - Main website pages (About, Mission, Workshops, etc.)
+- `events/` - Weekly recurring sessions and special events
+- `news/` - Updates and announcements
+- `reviews/` - Testimonials from participants
+- `images/` - Photos and promotional materials
+- `assets/` - Downloadable songbooks (Junior Songbook, UGN Songbook)
+
+### Deployment
+
+The site automatically builds and deploys via GitHub Actions when changes are pushed to the main branch. Content is managed through markdown files, making updates simple and accessible.
+
+### Local Development
+
+To build the site locally:
+```bash
+./bin/build
+```
+
+The built site appears in `result/`.
+
+---
+
+*"If everyone played the ukulele, the world would be a better place."* - Jake Shimabukuro
+
+**Uke Group North CIC** - Building stronger communities through music since 2021.
