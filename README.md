@@ -24,13 +24,9 @@ We work towards three core objectives:
 2. **Strengthening Community Assets** - Supporting local community spaces through regular bookings and increased engagement
 3. **Developing Musical Skills** - Teaching practical ukulele skills, music theory, and performance confidence
 
-### Current Weekly Sessions
+### Weekly Sessions
 
-- **Mondays** - Greenmount Old School (10:15am-11:15am)
-- **Tuesdays** - Ramsbottom Library (10:30am-12:00pm) & The Den, Ramsbottom (5:30pm-7:30pm)
-- **Thursdays** - Wyldes, Bury (6:30pm-8:00pm)
-
-All sessions welcome beginners - no experience necessary!
+Check the [website](https://ukegroupnorth.com/events/) for our current weekly sessions across Greater Manchester and Lancashire. All sessions welcome beginners - no experience necessary!
 
 ### Get Involved
 
