@@ -9,6 +9,7 @@ meta_title: Tuesday Sessions | Ramsbottom Library | Uke Group North
 meta_description: Join our weekly Sing & Strum session at Ramsbottom Library
   every Tuesday 10:30am-12pm. £8 per person. No instruments required, beginners
   encouraged.
+map_embed_src: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2364.8881404900885!2d-2.3221926228513086!3d53.64896667237872!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487ba372b6eeae45%3A0x70c8e1727daabd13!2sRamsbottom%20Library!5e0!3m2!1sen!2snl!4v1757042554281!5m2!1sen!2snl
 ---
 ## Weekly Sing & Strum Session
 
