@@ -8,6 +8,7 @@ header_text: Tuesdays at The Den
 meta_title: Tuesday Sessions | The Den | Uke Group North
 meta_description: Join our weekly Sing & Strum session at The Den every Tuesday
   5:30pm-7pm. £6 per person. No instruments required, beginners encouraged.
+map_embed_src: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2364.2658656759536!2d-2.3187656999999446!3d53.6600612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487ba31006eb63c1%3A0x3e0933913229e97b!2s6%20Stubbins%20Vale%20Rd%2C%20Ramsbottom%2C%20Bury%20BL0%200NT%2C%20UK!5e0!3m2!1sen!2snl!4v1757042673300!5m2!1sen!2snl
 ---
 ## Weekly Sing & Strum Session
 
