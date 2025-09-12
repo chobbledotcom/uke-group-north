@@ -2,7 +2,7 @@
 header_image: /images/ukelele-1.jpg
 title: Thursdays at Wyldes
 subtitle: Weekly Sing & Strum Session
-recurring_date: Thursdays - 7:30pm-9:30pm
+recurring_date: Thursdays - 6:30pm-8:00pm
 event_location: Wyldes, 4 Bolton St, Bury, BL9 0LQ
 header_text: Thursdays at Wyldes
 meta_title: Thursday Sessions | Wyldes | Uke Group North
