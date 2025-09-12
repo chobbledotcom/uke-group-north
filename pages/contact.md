@@ -18,7 +18,7 @@ We'd love to hear from you! Whether you'd like to join a session, book a worksho
 
 ## Email Us
 
-For all enquiries, please email us at: [ukegroupnorth@gmail.com](mailto:ukegroupnorth@gmail.com)
+For all enquiries, please email us at: [ben@ukegroupnorth.com](mailto:ben@ukegroupnorth.com)
 
 ## Join Our Regular Sessions
 
@@ -57,7 +57,7 @@ No! We have instruments available to borrow during sessions for free.
 Absolutely! We welcome complete beginners
 
 **How do I book a place?**  
-Simply email us at [ukegroupnorth@gmail.com](mailto:ukegroupnorth@gmail.com) to reserve your spot.
+Simply email us at [ben@ukegroupnorth.com](mailto:ben@ukegroupnorth.com) to reserve your spot.
 
 **Can you come to our venue?**  
 Yes! We deliver workshops across Greater Manchester and Lancashire. Get in touch to discuss your requirements.
