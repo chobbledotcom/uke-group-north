@@ -17,7 +17,7 @@ Join us every Tuesday evening at The Den for our popular Sing & Strum session. N
 ### Session Details
 
 - **When:** Every Tuesday, 5:30pm - 7:00pm
-- **Where:** The Den, Stubbins Vale Rd., Ramsbottom
+- **Where:** The Den, Stubbins Vale Rd, Ramsbottom, BL0 0NT
 - **Cost:** £8 per person
 - **Instrument hire:**
 
