@@ -3,7 +3,7 @@ header_image: /images/ukelele-2.jpg
 title: Mondays at Greenmount Old School
 subtitle: Weekly Sing & Strum Session
 recurring_date: Mondays - 10:15am-11:15am
-event_location: Greenmount Old School, Brandlesholme Road, BL8 4DS
+event_location: Greenmount Old School, Brandlesholme Road, Bury, BL8 4DS
 header_text: Mondays at Greenmount Old School
 meta_title: Monday Sessions | Greenmount Old School | Uke Group North
 meta_description: Join our weekly Sing & Strum session at Greenmount Old School
