@@ -18,7 +18,7 @@ Join us every Tuesday morning at Ramsbottom Library for our popular Sing & Strum
 ### Session Details
 
 - **When:** Every Tuesday, 10:30am - 12:00pm
-- **Where:** Ramsbottom Library, Carr St., Ramsbottom
+- **Where:** Ramsbottom Library, Carr St, Ramsbottom, BL0 9AE
 - **Cost:** £8 per person
 - **Instrument hire:**
 
