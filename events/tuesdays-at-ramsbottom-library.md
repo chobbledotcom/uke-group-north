@@ -20,7 +20,6 @@ Join us every Tuesday morning at Ramsbottom Library for our popular Sing & Strum
 - **When:** Every Tuesday, 10:30am - 12:00pm
 - **Where:** Ramsbottom Library, Carr St, Ramsbottom, BL0 9AE
 - **Cost:** £8 per person
-- **Instrument hire:**
 
 ### What to Expect
 
@@ -28,7 +27,7 @@ Our Tuesday morning sessions are relaxed and welcoming. We play a variety of son
 
 ### What to Expect
 
-Our Monday morning sessions are perfect for learning ukulele, playing and singing your favourite songs in a relaxed and welcoming environment. Whether you're a complete beginner or an experienced player, you'll find a warm welcome here. We provide instruments if you don't have your own yet!
+Our Monday morning sessions are perfect for learning ukulele, playing and singing your favourite songs in a relaxed and welcoming environment. Whether you're a complete beginner or an experienced player, you'll find a warm welcome here. We provide instruments if you don't have your own yet! Please let us know if you require a uke in your booking.
 
 ### What to Bring
 
