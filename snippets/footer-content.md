@@ -1,4 +1,4 @@
 ---
 name: Footer
 ---
-©️ Uke Group North 2025
+©️ Uke Group North CIC 2025
