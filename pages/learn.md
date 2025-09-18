@@ -80,7 +80,7 @@ Your ukulele can be more than just a melodic instrument - it can be a percussive
 
 Here's a fun little song you can play using just the C7 chord! Perfect for practicing your strumming while singing along. 
 
-You could use this song to practice other 7 chords, like G7 or E7 when it comes to learning them.
+You could use this song to practice other "7" chords, like G7 or E7 when it comes to learning them.
 
 **Sea Seven**
 
