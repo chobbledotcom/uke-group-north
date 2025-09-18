@@ -24,7 +24,7 @@ We're proud to work alongside organizations who create possitive ripples in comm
 
 **Inclusivity** - Everyone is welcome, regardless of background or ability
 
-**Community** - Creating welcoming spaces to strengthen & forge new commnuity bonds
+**Community** - Creating welcoming spaces to strengthen & forge new community bonds
 
 **Wellbeing** - Improving mental and emotional health through music
 
