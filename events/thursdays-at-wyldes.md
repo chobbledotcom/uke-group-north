@@ -19,11 +19,10 @@ Join us every Thursday evening at Wyldes for our popular Sing & Strum session. N
 - **When:** Every Thursday, 6:30pm - 8:00pm
 - **Where:** Wyldes, 4 Bolton St, Bury, BL9 0LQ
 - **Cost:** £8 per person
-- **Instrument hire:**
 
 ### What to Expect
 
-Our Thursday evening sessions are perfect for learning ukulele, playing and singing your favourite songs in a relaxed and welcoming environment. Whether you're a complete beginner or an experienced player, you'll find a warm welcome here. We provide instruments if you don't have your own yet!
+Our Thursday evening sessions are perfect for learning ukulele, playing and singing your favourite songs in a relaxed and welcoming environment. Whether you're a complete beginner or an experienced player, you'll find a warm welcome here. We provide instruments if you don't have your own yet. Please let us know if you require a uke in your booking.
 
 ### What to Bring
 
