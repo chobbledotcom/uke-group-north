@@ -22,11 +22,11 @@ We're proud to work alongside organizations who create possitive ripples in comm
 
 ## Our Objectives
 
-**Wellbeing** - Improving mental and emotional health through music, routine and small circles of Social-emotional reciprocity
+**Wellbeing** - Improving mental and emotional health through music, routine and small circles of social-emotional reciprocity
 
 **Community** - Creating welcoming spaces to strengthen & forge new community bonds and broadening the offering of community held spaces
 
-**Inclusivity** - Everyone is welcome, regardless of background, ability or beliefs
+**Inclusivity** - Everyone is welcome, regardless of background, age, ability or beliefs
 
 
 
@@ -45,7 +45,7 @@ We deliver welcoming, group-oriented fun musical education workshops that focus 
 
 ### Inclusive and Accessible
 We believe everyone should have access to music education. That's why we:
-- Provide high-quality instruments FREE during sessions
+- Provide high-quality instruments for FREE during sessions
 - Keep our prices affordable
 - Welcome all ages and abilities
 - Adapt our teaching to meet individual needs
@@ -68,7 +68,7 @@ Our experienced facilitators:
 
 Whether you're looking to learn a new skill, meet new people, or simply have fun making music, there's a place for you at Uke Group North. Our relaxed, easy-going sessions create the perfect environment for musical exploration and community connection.
 
-Strike up a chord with Uke Group North!
+Strike up a chord with Uke Group North today!
 
 ## Get Involved
 
