@@ -33,6 +33,7 @@ Our Monday morning sessions are perfect for learning ukulele, playing and singin
 
 - Your ukulele, or let us know if you would like to borrow one of ours
 - A copy of our most recent song book, either download to tablet or printed copy
+[Download UGN Songbook (PDF)](/assets/UGN%20Songbook%201.1.pdf)
 
 ### Booking
 
