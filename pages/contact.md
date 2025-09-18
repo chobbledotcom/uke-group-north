@@ -24,7 +24,7 @@ For all enquiries, please email us at: [ben@ukegroupnorth.com](mailto:ben@ukegro
 
 {% recurring_events %}
 
-All sessions are £8 per person, with free instrument hire available - just let us know in your booking if you need to borrow a uke.
+Our sing and strum sessions are £8 per person, with free instrument hire available - just let us know in your booking if you need to borrow a uke.
 
 ## Book a Workshop for Your Group
 
