@@ -33,7 +33,7 @@ Our Monday morning sessions are perfect for learning ukulele, playing and singin
 
 ### Booking
 
-- Email: [ukegroupnorth@gmail.com](mailto:ukegroupnorth@gmail.com)
+- Email: [ben@ukegroupnorth.com](mailto:ben@ukegroupnorth.com)
 - Spaces are limited to ensure quality instruction and safety, please book in advance
 - Block booking discounts available
 
