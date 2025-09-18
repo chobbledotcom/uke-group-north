@@ -20,11 +20,10 @@ Join us every Monday morning at Greenmount Old School for our popular Sing & Str
 - **When:** Every Monday, 10:15am - 11:15am
 - **Where:** Greenmount Old School, Brandlesholme Road, Bury, BL8 4DS
 - **Cost:** £8 per person
-- **Instrument hire:**
 
 ### What to Expect
 
-Our Monday morning sessions are perfect for learning ukulele, playing and singing your favourite songs in a relaxed and welcoming environment. Whether you're a complete beginner or an experienced player, you'll find a warm welcome here. We provide instruments if you don't have your own yet!
+Our Monday morning sessions are perfect for learning ukulele, playing and singing your favourite songs in a relaxed and welcoming environment. Whether you're a complete beginner or an experienced player, you'll find a warm welcome here. We provide instruments if you don't have your own yet! Please let us know if you require a uke in your booking.
 
 ### What to Bring
 
