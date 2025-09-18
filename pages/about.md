@@ -22,11 +22,13 @@ We're proud to work alongside organizations who create possitive ripples in comm
 
 ## Our Objectives
 
-**Inclusivity** - Everyone is welcome, regardless of background or ability
+**Wellbeing** - Improving mental and emotional health through music, routine and small circles of Social-emotional reciprocity
 
-**Community** - Creating welcoming spaces to strengthen & forge new community bonds
+**Community** - Creating welcoming spaces to strengthen & forge new community bonds and broadening the offering of community held spaces
 
-**Wellbeing** - Improving mental and emotional health through music
+**Inclusivity** - Everyone is welcome, regardless of background, ability or beliefs
+
+
 
 ## What We Do
 
