@@ -1,8 +1,15 @@
 media:
-  input: images
-  output: /images
-  path: images
-  categories: [image]
+  - name: images
+    label: Images
+    input: images
+    output: /images
+    path: images
+    categories: [image]
+  - name: files
+    label: Files
+    input: assets
+    output: /assets
+    categories: [file]
 settings:
   hide: true
   content:
