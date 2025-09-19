@@ -17,10 +17,10 @@ Welcome to our learning resources! Whether you're picking up a ukulele for the f
 ## Download Songbooks
 
 ### Junior Songbook
-[Download Junior Songbook (PDF)](/assets/Junior Songbook 2025.pdf)
+[Download Junior Songbook (PDF)](/assets/Junior_Songbook_2025.pdf)
 
 ### UGN Songbook
-[Download UGN Songbook (PDF)](/assets/UGN Songbook 1.1.pdf)
+[Download UGN Songbook (PDF)](/assets/UGN_Songbook_1.1.pdf)
 
 ## The Basics
 
