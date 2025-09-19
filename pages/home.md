@@ -12,7 +12,6 @@ eleventyNavigation:
 layout: home.html
 permalink: /
 ---
-
 ## Join Our Musical Community
 
 Welcome to Uke Group North! We provide inclusive ukulele workshops across Greater Manchester and Lancashire, creating a welcoming community through music. Whether you're a complete beginner or an experienced player, there's a place for you in our groups.
@@ -53,7 +52,7 @@ Ready to join our musical community? [Contact us](/contact/) to book your first 
 
 ## Download Our Songbooks
 
-We've created songbooks for our sessions - download them free from our [Songs page](/songs/). Available collections include:
+We've created songbooks for our sessions - download them free from our ["learn" page](/learn/). Available collections include:
 
 - Junior Songbook - Perfect for younger players and beginners
 - UGN Songbook - Our main collection for workshops and sessions
