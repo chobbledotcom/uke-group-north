@@ -57,7 +57,7 @@ We're proud to work alongside other community organisations across Greater Manch
 
 ## One-to-One Lessons with Ben
 
-Looking for personal tuition? Ben, our founder and experienced musician, offers one-on-one ukulele lessons for learners of all ages. With nine years in a death metal band and performances at major festivals, Ben brings serious musical experience to the ukulele world - he's become obsessed with this cheerful instrument because it brings so much joy to everyone who plays it.
+Looking for personal tuition? Ben, our founder and experienced musician, offers one-on-one ukulele lessons for learners of all ages. With nine years in a heavy metal band and performances at major festivals, Ben brings serious musical experience to the ukulele world - he's become obsessed with this cheerful instrument because it brings so much joy to everyone who plays it.
 
 Ben's teaching style is friendly and laid-back, making him perfect for nervous beginners or those wanting to improve their technique. He travels to your location within about 20 minutes of Ramsbottom, which makes him easily accessible for people throughout Bury.
 

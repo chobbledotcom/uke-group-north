@@ -65,7 +65,7 @@ We:
 - Help you celebrate your musical journey
 
 ### Individual Tuition
-While our group sessions are the heart of what we do, our founder Ben also offers one-on-one ukulele lessons. With nine years in a death metal band and performances at major festivals, Ben brings serious musical expertise combined with a friendly, laid-back teaching style. His personal lessons are perfect for those wanting focused instruction tailored to their specific goals and pace.
+While our group sessions are the heart of what we do, our founder Ben also offers one-on-one ukulele lessons. With nine years in a heavy metal band and performances at major festivals, Ben brings serious musical expertise combined with a friendly, laid-back teaching style. His personal lessons are perfect for those wanting focused instruction tailored to their specific goals and pace.
 
 ## Join Our Community
 

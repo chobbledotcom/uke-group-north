@@ -50,7 +50,7 @@ When booking a workshop, please include:
 
 ## One-on-One Ukulele Lessons
 
-Ben also offers personal ukulele tuition for those who prefer individual lessons. With extensive musical experience including nine years in a death metal band and performances at major festivals, Ben brings professional expertise to ukulele teaching. His approach is friendly and relaxed, making him perfect for nervous beginners or anyone wanting to develop their skills.
+Ben also offers personal ukulele tuition for those who prefer individual lessons. With extensive musical experience including nine years in a heavy metal band and performances at major festivals, Ben brings professional expertise to ukulele teaching. His approach is friendly and relaxed, making him perfect for nervous beginners or anyone wanting to develop their skills.
 
 **What's included:**
 - Personal instruction tailored to your level and goals
