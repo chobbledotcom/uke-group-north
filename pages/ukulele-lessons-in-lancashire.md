@@ -49,9 +49,9 @@ Bury offers two weekly sessions in the heart of this Lancashire town with strong
 
 ## Getting Around Lancashire
 
-Our sessions are all well connected across Lancashire's transport network. Ramsbottom has direct rail connections from Manchester and good road links via the A56. Bury is on the Metrolink system and has excellent bus connections throughout the county.
+Our sessions are well connected across Lancashire. Ramsbottom has good transport links, and Bury is on the Metrolink system.
 
-Many of our members travel from various Lancashire towns - Preston, Chorley, Wigan, and smaller villages across the county. The journey becomes part of the routine that people value, often carpooling with fellow members.
+Many of our members travel from various Lancashire towns - Preston, Chorley, Wigan, and smaller villages across the county.
 
 ## Lancashire's Musical Heritage
 
@@ -61,7 +61,7 @@ The ukulele might not be traditional Lancashire, but the spirit of community mus
 
 ## What Makes Our Sessions Special
 
-We focus on playing and singing together using songbooks packed with popular tunes. Our facilitators understand that learning should be enjoyable - there's no pressure, just the pleasure of making music with others.
+We focus on playing and singing together using songbooks packed with popular tunes. We understand that learning should be enjoyable - there's no pressure, just the pleasure of making music with others.
 
 Whether you're from a busy Lancashire town or a quiet village, you'll find our sessions provide a space to connect with neighbours and make new friends across the county.
 
@@ -77,9 +77,17 @@ We work alongside other Lancashire organisations focused on community wellbeing,
 - Our songbook - download the [UGN Songbook (PDF)](/assets/UGN_Songbook_1.1.pdf) or bring it on a tablet
 - A willingness to join in and have some fun!
 
-## One-to-One Lessons
+## One-to-One Lessons with Ben
 
-While group sessions are our main focus, if you're interested in individual tuition anywhere in Lancashire, please get in touch. We may be able to arrange private lessons or recommend local instructors.
+Looking for personal tuition? Ben, our founder and experienced musician, offers one-on-one ukulele lessons for learners of all ages. With nine years in a death metal band and performances at major festivals, Ben brings serious musical experience to the ukulele world - he's become obsessed with this cheerful instrument because it brings so much joy to everyone who plays it.
+
+Ben's teaching style is friendly and laid-back, making him perfect for nervous beginners or those wanting to improve their technique. He travels to your location within about 20 minutes of Ramsbottom, which means he can reach Lancashire depending on the exact location.
+
+**Lesson prices:**
+- 30 minutes: £20
+- 60 minutes: £30
+
+Contact us to discuss whether your Lancashire location is within Ben's travel area.
 
 ## The Lancashire Spirit
 
@@ -89,7 +97,7 @@ We've had members travel from all corners of the county because they've found so
 
 ## Book Your Place
 
-Ready to join our Lancashire musical community? Email [ukegroupnorth@gmail.com](mailto:ukegroupnorth@gmail.com) to book your place at any of our sessions. We recommend booking in advance as spaces are limited. Block booking discounts available for regular attendance.
+Ready to join our Lancashire musical community? Get in touch via our [contact page](/contact/) to book your place at any of our sessions. We recommend booking in advance as spaces are limited.
 
 All abilities welcome - beginners are especially encouraged to join us!
 

@@ -11,7 +11,7 @@ permalink: /ukulele-lessons-in-rochdale/
 
 If you're based in Rochdale and want to learn ukulele, Uke Group North runs welcoming sessions that are easily accessible from your area. We're a community interest company bringing people together through music across Greater Manchester, with a warm welcome for folks of all ages and abilities.
 
-Our sessions are relaxed and community-focused - we believe learning music should be enjoyable, not stressful. We provide instruments if you don't have your own, and our experienced facilitators ensure everyone progresses at their own pace.
+Our sessions are relaxed and community-focused - we believe learning music should be enjoyable, not stressful. We provide instruments if you don't have your own, and we ensure everyone progresses at their own pace.
 
 ## Getting to Our Sessions from Rochdale
 
@@ -22,7 +22,7 @@ From Rochdale, Bury is your closest option - about 20 minutes by car or easily a
 **Thursday Evenings at Wyldes:**
 - **When:** Every Thursday, 6:30pm-8pm
 - **Where:** Wyldes, 4 Bolton St, Bury, BL9 0LQ
-- **Travel:** 20 minutes by car via A58, or Metrolink connection via Manchester
+- **Travel:** 20 minutes by car
 - **Cost:** £8 per person
 
 **Monday Mornings at Greenmount:**
@@ -38,7 +38,7 @@ A scenic 30-minute drive through Lancashire countryside takes you to our Ramsbot
 **Tuesday Mornings at Ramsbottom Library:**
 - **When:** Every Tuesday, 10:30am-12pm
 - **Where:** Ramsbottom Library, Carr St, Ramsbottom, BL0 9AE
-- **Travel:** 30 minutes by car via A56, or public transport connections
+- **Travel:** 30 minutes by car
 - **Cost:** £8 per person
 
 **Tuesday Evenings at The Den:**
@@ -49,7 +49,7 @@ A scenic 30-minute drive through Lancashire countryside takes you to our Ramsbot
 
 ## Transport Connections
 
-From Rochdale, you have good transport options to reach our sessions. Bury is connected by bus routes and accessible via Metrolink (with a connection in Manchester). For those driving, both Bury and Ramsbottom are straightforward journeys through pleasant Greater Manchester countryside.
+From Rochdale, both Bury and Ramsbottom are straightforward journeys through pleasant Greater Manchester countryside.
 
 Many of our members use the journey time as a chance to unwind before sessions - leaving the pressures of daily life behind and arriving ready to enjoy making music with others.
 
@@ -67,7 +67,7 @@ The weekly routine of traveling to sessions becomes something people look forwar
 
 ## What to Expect
 
-Our sessions are structured but relaxed. We start with a warm welcome and then move through songs together, with facilitators helping people with chords, strumming patterns, and singing. Everyone participates at their own level - there's no pressure to perform solo or be perfect.
+Our sessions are structured but relaxed. We start with a warm welcome and then move through songs together, helping people with chords, strumming patterns, and singing. Everyone participates at their own level - there's no pressure to perform solo or be perfect.
 
 You'll learn proper ukulele technique, chord progressions, and how to play songs from our extensive repertoire. But more than that, you'll become part of a musical community that values connection and mutual support.
 
@@ -77,9 +77,17 @@ You'll learn proper ukulele technique, chord progressions, and how to play songs
 - Our songbook - download the [UGN Songbook (PDF)](/assets/UGN_Songbook_1.1.pdf) or bring it on a tablet
 - Just yourself and an open mind for musical fun
 
-## One-to-One Lessons
+## One-to-One Lessons with Ben
 
-While group sessions are our main focus, if you're interested in individual tuition in the Rochdale area, please get in touch. We may be able to arrange private lessons or recommend local instructors.
+Looking for personal tuition? Ben, our founder and experienced musician, offers one-on-one ukulele lessons for learners of all ages. With nine years in a death metal band and performances at major festivals, Ben brings serious musical experience to the ukulele world - he's become obsessed with this cheerful instrument because it brings so much joy to everyone who plays it.
+
+Ben's teaching style is friendly and laid-back, making him perfect for nervous beginners or those wanting to improve their technique. He travels to your location within about 20 minutes of Ramsbottom, which means he can reach Rochdale depending on the exact location.
+
+**Lesson prices:**
+- 30 minutes: £20
+- 60 minutes: £30
+
+Contact us to discuss whether your Rochdale location is within Ben's travel area.
 
 ## Community Benefits
 
@@ -93,12 +101,11 @@ Many of our members have found ways to make the journey from Rochdale work seaml
 
 - **Regular routine:** Building sessions into weekly schedule, making it something to look forward to
 - **Car sharing:** Some members from the Rochdale area have arranged to travel together
-- **Block booking:** Our discounts for multiple sessions help make regular attendance more affordable
 - **Combining activities:** Some people combine sessions with other activities in Bury or Ramsbottom
 
 ## Book Your Place
 
-Interested in joining our musical community? Email [ukegroupnorth@gmail.com](mailto:ukegroupnorth@gmail.com) to book your place at any of our sessions. We recommend trying one session first to see how it works for you - there's no pressure for long-term commitment.
+Interested in joining our musical community? Get in touch via our [contact page](/contact/) to book your place at any of our sessions. We recommend trying one session first to see how it works for you - there's no pressure for long-term commitment.
 
 All abilities welcome - complete beginners are especially encouraged to join us!
 

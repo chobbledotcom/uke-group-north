@@ -35,15 +35,13 @@ Start your week with music! Our Monday morning sessions at Greenmount Old School
 
 ## Getting Around Bury
 
-Both our venues are well connected within Bury. The Thursday sessions at Wyldes are right in the town centre - if you're coming by Metrolink from Manchester or other areas, it's just a few minutes' walk from Bury station.
-
-For Greenmount, it's about 10 minutes by car from Bury centre, or you can catch a local bus. The community centre has its own car park, making it convenient for those driving.
+Both our venues are well connected within Bury. The Thursday sessions at Wyldes are right in the town centre, and Greenmount is about 10 minutes by car from the centre with its own car park.
 
 ## What Makes Our Sessions Special
 
 We focus on playing and singing together rather than formal lessons. Using our songbooks packed with popular tunes, we create an atmosphere where everyone can contribute, regardless of skill level. You'll learn proper technique, chord progressions, and strumming patterns, but the real magic happens when voices join together.
 
-Our facilitators are experienced musicians who understand that learning should be enjoyable. We provide instruments if you don't have your own, and nobody's left behind - everyone progresses at their own pace.
+We are experienced musicians who understand that learning should be enjoyable. We provide instruments if you don't have your own, and nobody's left behind - everyone progresses at their own pace.
 
 ## Community Connections
 
@@ -57,9 +55,17 @@ We're proud to work alongside other community organisations across Greater Manch
 - Our songbook - download the [UGN Songbook (PDF)](/assets/UGN_Songbook_1.1.pdf) or bring it on a tablet
 - Just yourself and a willingness to have fun!
 
-## One-to-One Lessons
+## One-to-One Lessons with Ben
 
-While group sessions are our main focus, if you're interested in individual tuition, please get in touch. We may be able to arrange private lessons or recommend local instructors in the Bury area.
+Looking for personal tuition? Ben, our founder and experienced musician, offers one-on-one ukulele lessons for learners of all ages. With nine years in a death metal band and performances at major festivals, Ben brings serious musical experience to the ukulele world - he's become obsessed with this cheerful instrument because it brings so much joy to everyone who plays it.
+
+Ben's teaching style is friendly and laid-back, making him perfect for nervous beginners or those wanting to improve their technique. He travels to your location within about 20 minutes of Ramsbottom, which makes him easily accessible for people throughout Bury.
+
+**Lesson prices:**
+- 30 minutes: £20
+- 60 minutes: £30
+
+Being based near Bury, Ben can easily reach most areas of the town for personal lessons.
 
 ## Why Choose Local Sessions?
 
@@ -69,7 +75,7 @@ As a community interest company, we're committed to making music accessible and 
 
 ## Book Your Place
 
-Ready to join us? Email [ukegroupnorth@gmail.com](mailto:ukegroupnorth@gmail.com) to book your place at either of our Bury sessions. Spaces are limited to ensure everyone gets the attention they need, so booking in advance is recommended. Block booking discounts available.
+Ready to join us? Get in touch via our [contact page](/contact/) to book your place at either of our Bury sessions. Spaces are limited to ensure everyone gets the attention they need, so booking in advance is recommended.
 
 All abilities welcome - complete beginners are especially encouraged!
 

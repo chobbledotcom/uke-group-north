@@ -48,6 +48,22 @@ When booking a workshop, please include:
 - **Skill level** - Complete beginners to advanced
 - **Musical preferences** - Your favourite genres or songs
 
+## One-on-One Ukulele Lessons
+
+Ben also offers personal ukulele tuition for those who prefer individual lessons. With extensive musical experience including nine years in a death metal band and performances at major festivals, Ben brings professional expertise to ukulele teaching. His approach is friendly and relaxed, making him perfect for nervous beginners or anyone wanting to develop their skills.
+
+**What's included:**
+- Personal instruction tailored to your level and goals
+- Lessons at your location (within 20 minutes of Ramsbottom)
+- All teaching materials provided
+- Flexible scheduling to suit your needs
+
+**Pricing:**
+- 30 minutes: £20
+- 60 minutes: £30
+
+To book a one-on-one lesson or discuss whether your location is within Ben's travel area, email [ben@ukegroupnorth.com](mailto:ben@ukegroupnorth.com).
+
 ## Frequently Asked Questions
 
 **Do I need my own ukulele?**  

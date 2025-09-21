@@ -11,7 +11,7 @@ permalink: /ukulele-lessons-in-blackburn/
 
 If you're based in Blackburn and want to learn ukulele, Uke Group North runs welcoming sessions that are accessible from your area. We're a community interest company bringing people together through music across Lancashire and Greater Manchester, with a warm welcome for folks from all backgrounds and abilities.
 
-Our approach is relaxed and community-focused - we believe music should be enjoyable and accessible. We provide instruments if you don't have your own, and our experienced facilitators help everyone progress at their own pace.
+Our approach is relaxed and community-focused - we believe music should be enjoyable and accessible. We provide instruments if you don't have your own, and we help everyone progress at their own pace.
 
 ## Getting to Our Sessions from Blackburn
 
@@ -22,7 +22,7 @@ The journey from Blackburn to Ramsbottom takes you through some lovely Lancashir
 **Tuesday Mornings at Ramsbottom Library:**
 - **When:** Every Tuesday, 10:30am-12pm
 - **Where:** Ramsbottom Library, Carr St, Ramsbottom, BL0 9AE
-- **Travel:** 45 minutes by car via M65 and A56, or train connections via Manchester
+- **Travel:** 45 minutes by car
 - **Cost:** £8 per person
 
 **Tuesday Evenings at The Den:**
@@ -33,12 +33,12 @@ The journey from Blackburn to Ramsbottom takes you through some lovely Lancashir
 
 ### Bury Sessions - Good Transport Links
 
-Bury is well connected from Blackburn, about 40 minutes by car or accessible by train with a change in Manchester.
+Bury is about 40 minutes by car from Blackburn.
 
 **Thursday Evenings at Wyldes:**
 - **When:** Every Thursday, 6:30pm-8pm
 - **Where:** Wyldes, 4 Bolton St, Bury, BL9 0LQ
-- **Travel:** 40 minutes by car via A666, or train to Manchester then Metrolink to Bury
+- **Travel:** 40 minutes by car
 - **Cost:** £8 per person
 
 **Monday Mornings at Greenmount:**
@@ -65,9 +65,17 @@ Whether you're a complete beginner or have some musical experience, you'll find 
 - Our songbook - download the [UGN Songbook (PDF)](/assets/UGN_Songbook_1.1.pdf) or bring it on a tablet
 - A willingness to join in and have some fun
 
-## One-to-One Lessons
+## One-to-One Lessons with Ben
 
-While group sessions are our main focus, if you're interested in individual tuition in the Blackburn area, please get in touch. We may be able to arrange private lessons or recommend local instructors.
+Looking for personal tuition? Ben, our founder and experienced musician, offers one-on-one ukulele lessons for learners of all ages. With nine years in a death metal band and performances at major festivals, Ben brings serious musical experience to the ukulele world - he's become obsessed with this cheerful instrument because it brings so much joy to everyone who plays it.
+
+Ben's teaching style is friendly and laid-back, making him perfect for nervous beginners or those wanting to improve their technique. He travels to your location within about 20 minutes of Ramsbottom, which means he can reach Blackburn depending on the exact location.
+
+**Lesson prices:**
+- 30 minutes: £20
+- 60 minutes: £30
+
+Contact us to discuss whether your Blackburn location is within Ben's travel area.
 
 ## Community Benefits
 
@@ -81,12 +89,11 @@ Many of our members have found ways to make the journey from Blackburn work for 
 
 - **Car sharing:** Several members have arranged to travel together, sharing costs and making the journey more sociable
 - **Regular routine:** Building the sessions into weekly routine, treating the travel time as part of the experience
-- **Block booking:** Our block booking discounts help make regular attendance more affordable
 - **Combining with other activities:** Some people combine sessions with other activities in the Ramsbottom or Bury areas
 
 ## Book Your Place
 
-Interested in giving it a try? Email [ukegroupnorth@gmail.com](mailto:ukegroupnorth@gmail.com) to book your place at any of our sessions. We recommend trying one session first to see if it works for you - no long-term commitment required.
+Interested in giving it a try? Get in touch via our [contact page](/contact/) to book your place at any of our sessions. We recommend trying one session first to see if it works for you - no long-term commitment required.
 
 All abilities welcome - beginners are especially encouraged to join us!
 

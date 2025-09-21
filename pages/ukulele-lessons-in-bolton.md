@@ -11,7 +11,7 @@ permalink: /ukulele-lessons-in-bolton/
 
 If you're based in Bolton and want to learn ukulele, Uke Group North runs welcoming sessions that are easily reachable from the town. We're a community interest company creating musical connections across Greater Manchester and Lancashire, with sessions that welcome everyone from complete beginners to experienced players.
 
-Our approach is relaxed and community-focused - no pressure, just the joy of playing and singing together. We provide instruments if you don't have your own, and our experienced facilitators help everyone progress at their own pace.
+Our approach is relaxed and community-focused - no pressure, just the joy of playing and singing together. We provide instruments if you don't have your own, and we help everyone progress at their own pace.
 
 ## Getting to Our Sessions from Bolton
 
@@ -22,7 +22,7 @@ From Bolton, Bury is about 20 minutes by car via the A58, making our Bury sessio
 **Thursday Evenings at Wyldes** - Perfect for after work:
 - **When:** Every Thursday, 6:30pm-8pm
 - **Where:** Wyldes, 4 Bolton St, Bury, BL9 0LQ
-- **Travel:** 20 minutes by car, or catch the train from Bolton to Manchester then Metrolink to Bury
+- **Travel:** 20 minutes by car
 - **Cost:** £8 per person
 
 **Monday Mornings at Greenmount** - Great community setting:
@@ -38,7 +38,7 @@ A lovely drive through the countryside takes you to our Ramsbottom sessions in a
 **Tuesday Mornings at Ramsbottom Library:**
 - **When:** Tuesdays 10:30am-12pm
 - **Where:** Ramsbottom Library, Carr St, Ramsbottom, BL0 9AE
-- **Travel:** 30 minutes by car via A58 and A676, scenic countryside route
+- **Travel:** 30 minutes by car
 - **Cost:** £8 per person
 
 **Tuesday Evenings at The Den:**
@@ -65,9 +65,17 @@ Whether you're picking up an instrument for the first time or you've played befo
 - Our songbook - download the [UGN Songbook (PDF)](/assets/UGN_Songbook_1.1.pdf) or bring it on a tablet
 - Just yourself and a willingness to have some fun!
 
-## One-to-One Lessons
+## One-to-One Lessons with Ben
 
-While group sessions are our main focus, if you're interested in individual tuition, please get in touch. We may be able to arrange private lessons or recommend instructors in the Bolton area.
+Looking for personal tuition? Ben, our founder and experienced musician, offers one-on-one ukulele lessons for learners of all ages. With nine years in a death metal band and performances at major festivals, Ben brings serious musical experience to the ukulele world - he's become obsessed with this cheerful instrument because it brings so much joy to everyone who plays it.
+
+Ben's teaching style is friendly and laid-back, making him perfect for nervous beginners or those wanting to improve their technique. He travels to your location within about 20 minutes of Ramsbottom, which means he can reach Bolton depending on the exact location.
+
+**Lesson prices:**
+- 30 minutes: £20
+- 60 minutes: £30
+
+Contact us to discuss whether your Bolton location is within Ben's travel area.
 
 ## Community Benefits
 
@@ -77,13 +85,11 @@ Research shows that playing music together reduces symptoms of anxiety and depre
 
 ## Making the Journey Worthwhile
 
-We understand that traveling to sessions requires commitment, but our members tell us it's worth it. Some have formed car-sharing arrangements, others enjoy the drive as peaceful time to themselves. The journey becomes part of the routine that people value.
-
-Block booking discounts help make regular attendance more affordable, and the welcoming atmosphere means you'll quickly feel part of the community.
+We understand that traveling to sessions requires commitment, but our members tell us it's worth it. Some have formed car-sharing arrangements, others enjoy the drive as peaceful time to themselves. The journey becomes part of the routine that people value, and the welcoming atmosphere means you'll quickly feel part of the community.
 
 ## Book Your Place
 
-Ready to give it a try? Email [ukegroupnorth@gmail.com](mailto:ukegroupnorth@gmail.com) to book your place at any of our sessions. We recommend booking in advance as spaces are limited to ensure quality instruction. Block booking discounts available.
+Ready to give it a try? Get in touch via our [contact page](/contact/) to book your place at any of our sessions. We recommend booking in advance as spaces are limited to ensure quality instruction.
 
 All abilities welcome - beginners are especially encouraged to join us!
 

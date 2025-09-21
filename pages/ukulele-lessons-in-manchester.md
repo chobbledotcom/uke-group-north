@@ -11,13 +11,13 @@ permalink: /ukulele-lessons-in-manchester/
 
 If you're based in Manchester and want to learn ukulele, Uke Group North runs welcoming weekly sessions that are easy to reach from the city. We're a community interest company that's been bringing people together through music since 2021, creating spaces where folks of all ages can learn, play, and connect through the ukulele.
 
-Our approach is relaxed and inclusive - whether you're a complete beginner or looking to play with others, you'll find a warm welcome. We provide instruments if you don't have your own, and our experienced facilitators help everyone progress at their own pace.
+Our approach is relaxed and inclusive - whether you're a complete beginner or looking to play with others, you'll find a warm welcome. We provide instruments if you don't have your own, and we help everyone progress at their own pace.
 
 ## Getting to Our Sessions from Manchester
 
 ### Ramsbottom Sessions (Tuesdays)
 
-From Manchester city centre, you can reach our **Ramsbottom Library** sessions in about 45 minutes by car via the A56. There's also a direct train from Manchester Victoria to Ramsbottom that takes around 30 minutes - the library is just a short walk from the station.
+From Manchester city centre, you can reach our **Ramsbottom Library** sessions in about 45 minutes by car via the A56, or by train from Manchester Victoria (around 30 minutes).
 
 - **Session:** Tuesdays at Ramsbottom Library, 10:30am-12pm
 - **Location:** Carr St, Ramsbottom, BL0 9AE
@@ -25,7 +25,7 @@ From Manchester city centre, you can reach our **Ramsbottom Library** sessions i
 
 ### Bury Sessions (Thursdays & Mondays)
 
-Bury is well connected to Manchester by the Metrolink tram system. From Manchester city centre, it's about 30 minutes on the tram to Bury.
+Bury is well connected to Manchester by Metrolink - about 30 minutes from the city centre.
 
 **Thursdays at Wyldes** - Evening sessions perfect for after work:
 - **Session:** Thursdays 6:30pm-8pm
@@ -55,9 +55,17 @@ You'll learn proper ukulele technique, chord progressions, strumming patterns, a
 - Your ukulele (or let us know if you'd like to borrow one of ours)
 - Our songbook - download the [UGN Songbook (PDF)](/assets/UGN_Songbook_1.1.pdf) or bring a tablet
 
-## One-to-One Lessons
+## One-to-One Lessons with Ben
 
-While our group sessions are the heart of what we do, if you're interested in individual tuition, please get in touch. We may be able to arrange private lessons or recommend trusted instructors in the Manchester area.
+Looking for personal tuition? Ben, our founder and experienced musician, offers one-on-one ukulele lessons for learners of all ages. With nine years in a death metal band and performances at major festivals, Ben brings serious musical experience to the ukulele world - he's become obsessed with this cheerful instrument because it brings so much joy to everyone who plays it.
+
+Ben's teaching style is friendly and laid-back, making him perfect for nervous beginners or those wanting to improve their technique. He travels to your location within about 20 minutes of Ramsbottom, which makes him accessible for people in many parts of Manchester, especially the northern areas.
+
+**Lesson prices:**
+- 30 minutes: £20
+- 60 minutes: £30
+
+Contact us to discuss whether your Manchester location is within Ben's travel area.
 
 ## Why Choose Uke Group North?
 
@@ -67,7 +75,7 @@ As a community interest company, we keep our sessions affordable and welcoming t
 
 ## Book Your Place
 
-Ready to join us? Email [ukegroupnorth@gmail.com](mailto:ukegroupnorth@gmail.com) to book your place. Spaces are limited to ensure quality instruction, so it's best to book in advance. Block booking discounts are available.
+Ready to join us? Get in touch via our [contact page](/contact/) to book your place. Spaces are limited to ensure quality instruction, so it's best to book in advance.
 
 All abilities welcome - beginners are especially encouraged to join us!
 
@@ -86,7 +94,7 @@ That's fine - people come when they can. We understand life gets busy, and you'r
 Yes, all ages are welcome at our sessions. We find music brings generations together beautifully.
 
 **How much does it cost?**
-Our sessions are £8 per person. Block booking discounts are available if you'd like to book multiple sessions.
+Our sessions are £8 per person.
 
 **Can I try before committing to regular sessions?**
 Of course - come along to a session and see if it's right for you. No long-term commitment required.
