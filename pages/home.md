@@ -24,15 +24,25 @@ Our popular "Sing & Strum Sessions" are held every week. Bring your own ukulele 
 
 {% recurring_events %}
 
-To book your place, email us at [ukegroupnorth@gmail.com](mailto:ukegroupnorth@gmail.com) or visit the [contact page](/contact/) to drop us a message.
+To book your place, get in touch via our [contact page](/contact/) or drop us a message.
 
 ## What We Offer
 
-- **Beginner workshops** - Learn the basics with professional facilitators
+- **Beginner workshops** - Learn the basics with our friendly team
 - **Weekly group sessions** - Play your favourite songs together
 - **Instrument loan** - No ukulele? No problem! We have instruments to borrow
 - **All ages welcome** - From children to seniors, everyone can join
 - **Community focused** - Build friendships and connections through music
+
+## One-on-One Ukulele Lessons
+
+Looking for personal tuition? Ben, our founder and experienced musician, offers one-on-one ukulele lessons for learners of all ages. With nine years in a heavy metal band and performances at major festivals, Ben brings serious musical experience to the ukulele world - he's become obsessed with this cheerful instrument because it brings so much joy to everyone who plays it.
+
+Ben's teaching style is friendly and laid-back, making him perfect for nervous beginners or those wanting to improve their technique. He travels to your location within about 20 minutes of Ramsbottom.
+
+**Lesson prices:**
+- 30 minutes: £20
+- 60 minutes: £30
 
 ## Why Choose Ukulele?
 
@@ -48,7 +58,11 @@ The ukulele is:
 
 ## Get Started Today
 
-Ready to join our musical community? [Contact us](/contact/) to book your first session or learn more about what we offer.
+Ready to join our musical community? [Contact us](/contact/) to book your first group session or enquire about individual lessons.
+
+## Our Locations
+
+Our lessons are in Ramsbottom and [Bury](/ukulele-lessons-in-bury/), but you might also want to attend if you're in [Manchester](/ukulele-lessons-in-manchester/), [Bolton](/ukulele-lessons-in-bolton/), [Blackburn](/ukulele-lessons-in-blackburn/), [Rochdale](/ukulele-lessons-in-rochdale/), or anywhere else in [Lancashire](/ukulele-lessons-in-lancashire/). Many of our members travel from surrounding areas to join our friendly community sessions.
 
 ## Download Our Songbooks
 

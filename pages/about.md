@@ -58,11 +58,14 @@ We're more than just music lessons. Our workshops:
 - Provide a sense of belonging
 
 ### Professional and Supportive
-Our experienced facilitators:
+We:
 - Offer expert instruction
 - Provide ongoing support
 - Give sound advice on choosing instruments
 - Help you celebrate your musical journey
+
+### Individual Tuition
+While our group sessions are the heart of what we do, our founder Ben also offers one-on-one ukulele lessons. With nine years in a heavy metal band and performances at major festivals, Ben brings serious musical expertise combined with a friendly, laid-back teaching style. His personal lessons are perfect for those wanting focused instruction tailored to their specific goals and pace.
 
 ## Join Our Community
 
@@ -76,7 +79,7 @@ Visit us at our regular sessions:
 
 {% recurring_events %}
 
-Or [contact us](/contact) to learn about workshops in your area.
+Or [get in touch via our contact page](/contact/) to learn about workshops in your area.
 
 ---
 

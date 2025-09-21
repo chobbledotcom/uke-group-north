@@ -106,6 +106,7 @@ A root a 3rd a 5th sounds swell, a 7th you can't ignore!*
 These basics are just the beginning! To continue your ukulele journey:
 
 - Join our [workshops](/workshops) for hands-on learning
+- Book a one-on-one lesson with Ben for personal instruction (£20 for 30 minutes, £30 for 60 minutes)
 - Download our [songbooks](/songs/) for practice materials
 - Connect with other players in our community sessions
 - Practice a little each day - consistency is key!
