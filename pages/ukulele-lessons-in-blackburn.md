@@ -51,7 +51,7 @@ Bury is about 40 minutes by car from Blackburn.
 
 We understand that traveling from Blackburn requires planning, but many of our members make similar journeys because they've found something special with us. Our sessions offer more than just music lessons - we've built a genuine community where people form real friendships.
 
-The weekly routine of traveling to sessions becomes something people look forward to. Some members use the journey as peaceful time to themselves, others have formed car-sharing arrangements with fellow attendees.
+The weekly routine of traveling to sessions becomes something people look forward to.
 
 ## What to Expect
 
@@ -83,14 +83,6 @@ As a community interest company, we're committed to improving wellbeing through 
 
 Research shows that playing music together reduces symptoms of anxiety and depression while building confidence and social connections. For people in Blackburn looking for this kind of community experience, the journey to our sessions can be well worth it.
 
-## Making Travel Work
-
-Many of our members have found ways to make the journey from Blackburn work for them:
-
-- **Car sharing:** Several members have arranged to travel together, sharing costs and making the journey more sociable
-- **Regular routine:** Building the sessions into weekly routine, treating the travel time as part of the experience
-- **Combining with other activities:** Some people combine sessions with other activities in the Ramsbottom or Bury areas
-
 ## Book Your Place
 
 Interested in giving it a try? Get in touch via our [contact page](/contact/) to book your place at any of our sessions. We recommend trying one session first to see if it works for you - no long-term commitment required.
@@ -106,7 +98,7 @@ Many of our members travel similar distances and wouldn't go anywhere else. The 
 Absolutely! Come to one session and see if it works for you. There's no pressure to commit to regular attendance.
 
 **Do other people travel from Blackburn area?**
-Yes, we have members from various Lancashire towns who make the journey. You might find someone to share travel with.
+Yes, we have members from various Lancashire towns who make the journey.
 
 **What if I can't make it every week?**
 That's fine - come when you can. While regular attendance helps with musical progress, we understand people have different schedules and commitments.
@@ -115,13 +107,13 @@ That's fine - come when you can. While regular attendance helps with musical pro
 Tuesday morning in Ramsbottom might work well if you have flexible daytime hours, while Thursday evening in Bury could suit if you prefer after-work activities.
 
 **What about winter weather affecting travel?**
-We understand that weather can make travel difficult. Sessions occasionally get cancelled for severe weather, and we'll always let you know by email.
+We understand that weather can make travel difficult. Sessions occasionally get cancelled for severe weather.
 
 **Can I bring family members?**
 Of course! We often have families attend together - children, parents, grandparents. Music brings all generations together beautifully.
 
 **What if I'm nervous about joining a new group?**
-That's completely normal! Everyone was new once, and we pride ourselves on being welcoming. Our facilitators will look after you and help you settle in.
+That's completely normal! Everyone was new once, and we pride ourselves on being welcoming. We'll look after you and help you settle in.
 
 **Do you ever run workshops closer to Blackburn?**
 Currently these are our regular weekly sessions, but we do occasionally run workshops in different locations across Lancashire. Email us to be kept informed of special events.

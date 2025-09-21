@@ -60,6 +60,10 @@ The ukulele is:
 
 Ready to join our musical community? [Contact us](/contact/) to book your first group session or enquire about individual lessons.
 
+## Our Locations
+
+Our lessons are in Ramsbottom and [Bury](/ukulele-lessons-in-bury/), but you might also want to attend if you're in [Manchester](/ukulele-lessons-in-manchester/), [Bolton](/ukulele-lessons-in-bolton/), [Blackburn](/ukulele-lessons-in-blackburn/), [Rochdale](/ukulele-lessons-in-rochdale/), or anywhere else in [Lancashire](/ukulele-lessons-in-lancashire/). Many of our members travel from surrounding areas to join our friendly community sessions.
+
 ## Download Our Songbooks
 
 We've created songbooks for our sessions - download them free from our ["learn" page](/learn/). Available collections include:

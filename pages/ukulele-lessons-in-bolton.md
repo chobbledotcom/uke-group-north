@@ -83,10 +83,6 @@ As a community interest company, we're committed to improving wellbeing through 
 
 Research shows that playing music together reduces symptoms of anxiety and depression while building confidence and social connections. The weekly routine gives people something positive to look forward to.
 
-## Making the Journey Worthwhile
-
-We understand that traveling to sessions requires commitment, but our members tell us it's worth it. Some have formed car-sharing arrangements, others enjoy the drive as peaceful time to themselves. The journey becomes part of the routine that people value, and the welcoming atmosphere means you'll quickly feel part of the community.
-
 ## Book Your Place
 
 Ready to give it a try? Get in touch via our [contact page](/contact/) to book your place at any of our sessions. We recommend booking in advance as spaces are limited to ensure quality instruction.
@@ -102,10 +98,10 @@ Many of our members travel similar distances and tell us they wouldn't go anywhe
 Absolutely! Come to one session and see if it works for you. No commitment required.
 
 **What if weather makes travel difficult?**
-We understand that winter weather can affect travel. Sessions occasionally get cancelled for severe weather - we'll always let you know by email.
+We understand that winter weather can affect travel. Sessions occasionally get cancelled for severe weather.
 
 **Do other people travel from Bolton?**
-Yes! We have members from various towns who've found our sessions worth the journey. You might even find someone to share travel with.
+Yes! We have members from various towns who've found our sessions worth the journey.
 
 **Which session is best for Bolton residents?**
 Thursday evenings at Wyldes in Bury are probably most convenient, being closest and at a time that works for most people. But any of our sessions would welcome you.
@@ -114,7 +110,7 @@ Thursday evenings at Wyldes in Bury are probably most convenient, being closest 
 Of course! Many people bring partners or friends. It can make the journey more enjoyable and give you someone to practice with.
 
 **What if I'm nervous about joining?**
-That's completely normal! Everyone was new once, and we pride ourselves on being welcoming. Our facilitators will look after you and help you settle in.
+That's completely normal! Everyone was new once, and we pride ourselves on being welcoming. We'll look after you and help you settle in.
 
 **Do you ever run sessions closer to Bolton?**
 Currently these are our regular weekly sessions, but we do occasionally run workshops in different locations. Email us to be kept informed of any special events.

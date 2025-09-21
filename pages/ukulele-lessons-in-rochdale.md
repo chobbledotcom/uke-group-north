@@ -63,7 +63,7 @@ Whether you're a complete beginner or have some musical experience, you'll find 
 
 While it might seem easier to find something local, our sessions offer something special that many people find worth the short journey. We've built a genuine community of music lovers who've become real friends.
 
-The weekly routine of traveling to sessions becomes something people look forward to. Some members use the drive as peaceful time to themselves, others have arranged to travel together, making the journey part of the social experience.
+The weekly routine of traveling to sessions becomes something people look forward to.
 
 ## What to Expect
 
@@ -95,14 +95,6 @@ As a community interest company, we're committed to improving wellbeing through 
 
 Research shows that playing music together reduces symptoms of anxiety and depression while building confidence and social connections. For people in Rochdale looking for this kind of community experience, the short journey to our sessions can be transformative.
 
-## Making It Work for You
-
-Many of our members have found ways to make the journey from Rochdale work seamlessly:
-
-- **Regular routine:** Building sessions into weekly schedule, making it something to look forward to
-- **Car sharing:** Some members from the Rochdale area have arranged to travel together
-- **Combining activities:** Some people combine sessions with other activities in Bury or Ramsbottom
-
 ## Book Your Place
 
 Interested in joining our musical community? Get in touch via our [contact page](/contact/) to book your place at any of our sessions. We recommend trying one session first to see how it works for you - there's no pressure for long-term commitment.
@@ -121,7 +113,7 @@ Thursday evenings in Bury are probably most convenient, being closest and at a t
 Absolutely! Come to one session and see if it works for you. There's no expectation of regular attendance unless you choose it.
 
 **Do other people travel from the Rochdale area?**
-Yes, we have members from various Greater Manchester towns. You might find others from your area to share travel with.
+Yes, we have members from various Greater Manchester towns.
 
 **What if I can't make it every week?**
 That's fine - people attend as regularly or occasionally as suits their lives. While consistency helps with musical progress, we understand everyone has different schedules.
@@ -133,7 +125,7 @@ Of course! We often have families attend together, and bringing a friend can mak
 Wyldes is in Bury town centre with public parking nearby. Greenmount Old School has its own car park. Ramsbottom venues have street parking and local car parks.
 
 **What if I'm nervous about joining a new group?**
-That's completely normal! Everyone was new once, and we pride ourselves on being welcoming. Our facilitators will look after you and help you settle in quickly.
+That's completely normal! Everyone was new once, and we pride ourselves on being welcoming. We'll look after you and help you settle in quickly.
 
 **Do you ever run sessions closer to Rochdale?**
 Currently these are our regular weekly sessions, but we occasionally run workshops in different locations. Email us to be kept informed of any special events.

@@ -25,7 +25,7 @@ Your donations enable us to:
 - **Purchase quality instruments** for group use
 - **Develop free resources** like songbooks and learning materials
 - **Support community venues** by using them for our sessions
-- **Train new facilitators** to reach more people
+- **Expand our team** to reach more people
 
 ## Ways to Support
 
