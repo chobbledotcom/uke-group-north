@@ -66,7 +66,7 @@ The Thursday sessions at Wyldes are right in the town centre, with free parking 
 
 We focus on playing and singing together with small easily digestible portions of music theory to help you on your musical journey. Using our songbooks packed with popular tunes, we create an atmosphere where everyone can contribute, regardless of skill level. You'll learn proper technique, chord progressions, and strumming patterns, but the real magic happens when voices join together.
 
-We are experienced musicians who understand that learning should be enjoyable. We provide instruments if you don't have your own. Sessions are tailored to include insightful content for complete novices and experienced musicians, ensuring everyone progresses at their own pace.
+We are experienced musicians who understand that learning should be enjoyable. We provide instruments if you don't have your own. Sessions are tailored to include insightful content for both complete novices and experienced musicians, ensuring everyone progresses at their own pace.
 
 ## Community Connections
 
@@ -84,7 +84,7 @@ We're proud to work alongside other community organisations across Greater Manch
 
 Looking for personal tuition? Ben, our founder, group facilitator and experienced musician with over 20 years of musical experience (playing various musical instruments, including piano, guitar and bass guitar) offers one-on-one ukulele lessons for learners of all ages.  Ben brings serious musical experience to the ukulele world - over the last 8 years this cheerful instrument has become his passion bringing joy and positive distraction to many students and service users.
 
-Ben's teaching style is friendly and laid-back, making him perfect for nervous beginners or those wanting to improve their technique or brush up. on some music theory. He travels to your location within aproximately 30 miles of Ramsbottom, which makes him easily accessible for people throughout Bury. Remote lessons are also available via zoom call if you located little further away.
+Ben's teaching style is friendly and laid-back, making him perfect for nervous beginners or those wanting to improve their technique or brush up on some music theory. He travels to your location within approximately 30 miles of Ramsbottom, which makes him easily accessible for people throughout Bury. Remote lessons are also available via Zoom call if you are located a little further away.
 
 **Lesson prices:**
 - 30 minutes: £20
@@ -94,9 +94,9 @@ Being based near Bury, Ben can easily reach most areas of the town for personal 
 
 ## Why Choose Local Sessions?
 
-Learning music in your own community has real benefits. You'll meet people from your local commuity, support local venues, and have short travel times that make it easier to attend regularly. The routine of weekly sessions provides structure and something to look forward to.
+Learning music in your own community has real benefits. You'll meet people from your local community, support local venues, and have short travel times that make it easier to attend regularly. The routine of weekly sessions provides structure and something to look forward to.
 
-As a community interest company, we're committed to making music accessible and affordable for everyone. Our sessions contribute to local wellbeing while strengthening the community assets that make Bury and sourounding areas special.
+As a community interest company, we're committed to making music accessible and affordable for everyone. Our sessions contribute to local wellbeing while strengthening the community assets that make Bury and surrounding areas special.
 
 ## Book Your Place
 
