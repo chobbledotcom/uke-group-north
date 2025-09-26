@@ -9,21 +9,7 @@
       }
     ],
     "address": {
-      "streetAddress": "123 Example Street",
-      "addressLocality": "London",
-      "addressRegion": "Greater London",
-      "postalCode": "SW1A 1AA",
       "addressCountry": "GB"
-    },
-    "contactPoint": [
-      {
-        "telephone": "+44-1234-567890",
-        "contactType": "customer service",
-        "areaServed": "GB",
-        "availableLanguage": [
-          "English"
-        ]
-      }
-    ]
+    }
   }
 }
