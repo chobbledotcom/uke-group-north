@@ -25,7 +25,7 @@ We aim to improve mental and emotional wellbeing through:
 - **Mental health support** - Helping reduce mild to moderate anxiety and depression through community engagement
 - **Therapeutic benefits** - Providing symptomatic relief through the distractive and routine nature of musical practice
 
-Music therapy has been recognized by NICE guidelines (UK) as beneficial for mental health, particularly in promoting recovery and alleviating negative symptoms. The structured rehearsal routines, learning new skills, and the expressive nature of music-making all contribute to improved mental wellbeing.
+Music therapy has been recognised by NICE guidelines (UK) as beneficial for mental health, particularly in promoting recovery and alleviating negative symptoms. The structured rehearsal routines, learning new skills, and the expressive nature of music-making all contribute to improved mental wellbeing.
 
 ### Objective B: Strengthening Community Assets
 
@@ -86,7 +86,7 @@ You can help us achieve our objectives and bring music to more communities.
 
 ### Make a Donation
 
-Your generosity helps us provide instruments, subsidize sessions and expand our reach to new communities.
+Your generosity helps us provide instruments, subsidise sessions and expand our reach to new communities.
 
 **Bank Details:**  
 Uke Group North CIC  

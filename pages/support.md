@@ -3,7 +3,7 @@ header_image: /images/ukelele-2.jpg
 header_text: Support Us
 subtitle: Help us bring music to more communities
 meta_description: Support Uke Group North's mission to bring music to
-  communities. Your donations help us provide instruments and subsidized
+  communities. Your donations help us provide instruments and subsidised
   sessions.
 meta_title: Support Us | Uke Group North
 eleventyNavigation:
@@ -20,7 +20,7 @@ Uke Group North is a Community Interest Company (CIC) dedicated to improving wel
 Your donations enable us to:
 
 - **Provide free instrument loans** during sessions
-- **Subsidize sessions** for those who need financial support
+- **Subsidise sessions** for those who need financial support
 - **Expand to new communities** that could benefit from our workshops
 - **Purchase quality instruments** for group use
 - **Develop free resources** like songbooks and learning materials

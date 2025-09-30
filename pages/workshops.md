@@ -49,7 +49,7 @@ Perfect for complete beginners - no musical experience necessary!
 **What's included:**
 - Professional instruction
 - Ukulele provided if needed
-- Learning resoures
+- Learning resources
 - Ongoing support
 
 ### Beginner Sing & Strum
