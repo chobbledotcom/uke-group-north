@@ -6,7 +6,8 @@ meta_description: Answers to common questions about Uke Group North ukulele sess
 meta_title: FAQ | Uke Group North
 eleventyNavigation:
   key: FAQ
-  order: 6
+  parent: About
+  order: 1
 permalink: /faq/
 ---
 
