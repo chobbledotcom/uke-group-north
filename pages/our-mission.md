@@ -8,7 +8,8 @@ meta_description: Learn about Uke Group North's mission to improve wellbeing
 meta_title: Our Mission | Uke Group North
 eleventyNavigation:
   key: Our Mission
-  order: 3
+  parent: About
+  order: 0
 permalink: /our-mission/
 ---
 ## Our Core Objectives
