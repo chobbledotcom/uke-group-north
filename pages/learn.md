@@ -35,7 +35,7 @@ Getting comfortable with holding your instrument is the first step to making bea
 **Top Tips:**
 - Roll up your sleeves for extra grip with your strumming arm
 - Adjust where your forearm makes contact to find the "sweet spot" for striking the strings with thumb or finger - usually around where the neck meets the body of the uke
-- Remove watches, jewelry, or buttons that might get in the way.
+- Remove watches, jewellery, or buttons that might get in the way.
 - Breathe and relax, try to laugh off any mistakes, keep playing! :)
 
 ### A place to start: C7
