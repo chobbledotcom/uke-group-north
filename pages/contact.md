@@ -20,6 +20,8 @@ We'd love to hear from you! Whether you'd like to join a session, book a worksho
 
 For all enquiries, please email us at: [ben@ukegroupnorth.com](mailto:ben@ukegroupnorth.com)
 
+You can also find us on [Google Maps](https://maps.app.goo.gl/5YPe7Gcj1vXLhYiG7)
+
 ## Join Our Regular Sessions
 
 {% recurring_events %}
