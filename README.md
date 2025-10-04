@@ -50,7 +50,7 @@ This website is built using the [Chobble Template](https://github.com/chobbledot
 
 ### Deployment
 
-The site automatically builds and deploys via GitHub Actions when changes are pushed to the main branch. Content is managed through markdown files, making updates simple and accessible.
+The site automatically builds and deploys to Bunny CDN via GitHub Actions when changes are pushed to the main branch. Content is managed through markdown files, making updates simple and accessible.
 
 ### Local Development
 

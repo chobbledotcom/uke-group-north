@@ -126,15 +126,6 @@ jobs:
           name: built-site
           path: _site
 
-      - name: Deploy to neocities
-        uses: bcomnes/deploy-to-neocities@v3
-        with:
-          api_key: ${{ secrets.NEOCITIES_API_KEY }}
-          cleanup: true
-          neocities_supporter: true
-          preview_before_deploy: false
-          dist_dir: _site
-      
       - name: Deploy to Bunny
         uses: R-J-dev/bunny-deploy@v2.0.6
         with:
