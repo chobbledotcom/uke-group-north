@@ -48,7 +48,20 @@ Being able to travel to your location within approximately 30 miles of Ramsbotto
 
 ## Why Choose Ukulele?
 
-Let us hear some of the finest most influential ukulele players in the world explain why...
+Some of the pros...
+
+- Shallow learning curve
+it's easier to get stated playing the ukuele than alot of other musical instruments
+- Portable and affordable
+With prices starting at around £40 for a soprano ukulele it's a cheap way to start playing music
+- Perfect for group playing
+An enjoyable activity to do together with friends and family
+- Great for all ages
+From young children to the elderly and everyone inbetween, this instrument can bridge generational gaps in communities and families
+- Fun and uplifting!
+You only have to play your first chord to feel this
+
+...and some words from the pros...
 
 "The ukulele is the instrument of peace."
 -Israel Kamakawiwo‘ole
@@ -64,14 +77,6 @@ Let us hear some of the finest most influential ukulele players in the world exp
 
 “Now everybody's got a crazy notion of their own. Some like to mix up with a crowd, some like to be alone. It's no one else’s business as far as I can see, but every time that I go out the people stare at me, with me little ukulele in me hand”
 -George Formby
-
-The ukulele is:
-
-- Easy to learn
-- Portable and affordable
-- Perfect for group playing
-- Great for all ages
-- Fun and uplifting!
 
 ## Get Started Today
 
