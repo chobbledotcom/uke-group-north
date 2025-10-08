@@ -38,7 +38,9 @@ To book your place, get in touch via our [contact page](/contact/) or drop us a 
 
 Looking for personal tuition? Ben, our founder, group facilitator and experienced musician with over 20 years of musical experience (playing various musical instruments, including piano, guitar and bass guitar) offers one-on-one ukulele lessons for learners of all ages.
 
-Ben's teaching style is friendly and laid-back while also being competant with more traditional approaches to teaching music, beginners or those wanting to improve their technique or brush up on some music theory are sure to learn. He is able to travel to your location within approximately 30 miles of Ramsbottom, which makes him easily accessible for people throughout Bury. Remote lessons are also available via Zoom call if you are located a little further away.
+Ben's teaching style is friendly and laid-back while also being competant with more traditional approaches to teaching music, beginners or those wanting to improve their technique or brush up on some music theory are sure to learn. 
+
+Being able to travel to your location within approximately 30 miles of Ramsbottom making him easily accessible for people throughout Bury. Remote lessons are also available via Zoom call if you are located a little further away.
 
 **Lesson prices:**
 - 30 minutes: £20
@@ -46,7 +48,12 @@ Ben's teaching style is friendly and laid-back while also being competant with m
 
 ## Why Choose Ukulele?
 
-As Jake Shimabukuro said, "If everyone played the ukulele, the world would be a better place. There's something about the ukulele that just makes you smile. It makes you let your guard down."
+“The ukulele is the perfect instrument for someone with a restless heart, because it travels easily through space. But it also travels through music easily and effortlessly. It slips through borders so fluidly. I’ve never had the heart to say no to the ukulele. When it feels like going somewhere, we just go there.”
+—James Hill
+
+"If everyone played the ukulele, the world would be a better place. There's something about the ukulele that just makes you smile. It makes you let your guard down."
+-Jake Shimabukuro 
+
 
 The ukulele is:
 
