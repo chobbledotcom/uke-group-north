@@ -57,7 +57,7 @@ With prices starting at around £40 for a soprano ukulele it's a cheap way to st
 - Perfect for group playing
 An enjoyable activity to do together with friends and family
 - Great for all ages
-From young children to the elderly and everyone inbetween, this instrument can bridge generational gaps in communities and families
+From young children to the elderly and everyone inbetween, this instrument can bridge generational social gaps in communities and families
 - Fun and uplifting!
 You only have to play your first chord to experience this
 
