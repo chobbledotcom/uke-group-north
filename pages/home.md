@@ -48,7 +48,7 @@ Being able to travel to your location within approximately 30 miles of Ramsbotto
 
 ## Why Choose Ukulele?
 
-Some of the pros...
+### Some of the pros...
 
 - Shallow learning curve
 it's easier to get stated playing the ukuele than alot of other musical instruments
@@ -59,9 +59,9 @@ An enjoyable activity to do together with friends and family
 - Great for all ages
 From young children to the elderly and everyone inbetween, this instrument can bridge generational gaps in communities and families
 - Fun and uplifting!
-You only have to play your first chord to feel this
+You only have to play your first chord to experience this
 
-...and some words from the pros...
+### ...and some words from the pros...
 
 "The ukulele is the instrument of peace."
 -Israel Kamakawiwo‘ole
