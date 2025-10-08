@@ -36,9 +36,9 @@ To book your place, get in touch via our [contact page](/contact/) or drop us a 
 
 ## One-to-One Lessons with Ben
 
-Looking for personal tuition? Ben, our founder, group facilitator and experienced musician with over 20 years of musical experience (playing various musical instruments, including piano, guitar and bass guitar) offers one-on-one ukulele lessons for learners of all ages.  Ben brings serious musical experience to the ukulele world - over the last 8 years this cheerful instrument has become his passion bringing joy and positive distraction to many students and service users.
+Looking for personal tuition? Ben, our founder, group facilitator and experienced musician with over 20 years of musical experience (playing various musical instruments, including piano, guitar and bass guitar) offers one-on-one ukulele lessons for learners of all ages.
 
-Ben's teaching style is friendly and laid-back, making him perfect for nervous beginners or those wanting to improve their technique or brush up on some music theory. He travels to your location within approximately 30 miles of Ramsbottom, which makes him easily accessible for people throughout Bury. Remote lessons are also available via Zoom call if you are located a little further away.
+Ben's teaching style is friendly and laid-back while also being competant with more traditional approaches to teaching music, beginners or those wanting to improve their technique or brush up on some music theory are sure to learn. He is able to travel to your location within approximately 30 miles of Ramsbottom, which makes him easily accessible for people throughout Bury. Remote lessons are also available via Zoom call if you are located a little further away.
 
 **Lesson prices:**
 - 30 minutes: £20
