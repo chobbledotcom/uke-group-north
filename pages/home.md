@@ -48,12 +48,22 @@ Being able to travel to your location within approximately 30 miles of Ramsbotto
 
 ## Why Choose Ukulele?
 
+Let us hear some of the finest ukulele players in the world explain why...
+
+"The ukulele is the instrument of peace."
+-Israel Kamakawiwo‘ole
+
 “The ukulele is the perfect instrument for someone with a restless heart, because it travels easily through space. But it also travels through music easily and effortlessly. It slips through borders so fluidly. I’ve never had the heart to say no to the ukulele. When it feels like going somewhere, we just go there.”
 —James Hill
+
+"Everyone I know who is into the ukulele is 'crackers,' so get yourself a few and enjoy yourselves."
+-George Harrison
 
 "If everyone played the ukulele, the world would be a better place. There's something about the ukulele that just makes you smile. It makes you let your guard down."
 -Jake Shimabukuro 
 
+“Now everybody's got a crazy notion of their own. Some like to mix up with a crowd, some like to be alone. It's no one else’s business as far as I can see, but every time that I go out the people stare at me, with me little ukulele in me hand”
+-George Formby
 
 The ukulele is:
 
