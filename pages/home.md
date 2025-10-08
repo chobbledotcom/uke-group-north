@@ -48,7 +48,7 @@ Being able to travel to your location within approximately 30 miles of Ramsbotto
 
 ## Why Choose Ukulele?
 
-Let us hear some of the finest ukulele players in the world explain why...
+Let us hear some of the finest most influential ukulele players in the world explain why...
 
 "The ukulele is the instrument of peace."
 -Israel Kamakawiwo‘ole
