@@ -51,14 +51,23 @@ Being able to travel to your location within approximately 30 miles of Ramsbotto
 ### Some of the pros...
 
 - Shallow learning curve
-It's easier to get stated playing the ukulele than alot of other musical instruments
+
+It's easier to get started playing the ukulele than alot of other musical instruments
+
 - Portable and affordable
+
 With prices starting at around £40 for a soprano ukulele it's a cheap way to start playing music
+
 - Perfect for group playing
+
 An enjoyable activity to do together with friends and family
+
 - Great for all ages
+
 From young children to the elderly and everyone inbetween, this instrument can bridge generational social gaps in communities and families
+
 - Fun and uplifting!
+
 You only have to play your first chord to experience this
 
 ### ...and some words from the pros...
