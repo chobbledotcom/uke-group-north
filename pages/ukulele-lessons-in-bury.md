@@ -10,7 +10,7 @@ permalink: /ukulele-lessons-in-bury/
 ---
 ## Ukulele Lessons in Bury
 
-Bury is at the heart of our Uke Group North community! We run 4 weekly sessions in the borough. Since 2021, we've been creating welcoming spaces where people of all ages can learn ukulele, sing together, and build lasting friendships.
+Bury is at the heart of our Uke Group North community! We run 4 weekly sessions in the borough, easily accessible from all across Bury including Ramsbottom, Tottington, Radcliffe, Prestwich, and Whitefield. Since 2021, we've been creating welcoming spaces where people of all ages can learn ukulele, sing together, and build lasting friendships.
 
 Our sessions are relaxed and inclusive - no pressure, just the joy of making music together. Whether you're picking up an instrument for the first time or looking to play with others, you'll find your place here.
 

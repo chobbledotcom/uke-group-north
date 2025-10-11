@@ -9,7 +9,7 @@ permalink: /ukulele-lessons-in-bolton/
 
 ## Ukulele Lessons Near Bolton
 
-Bolton has such a fantastic community spirit, and we love welcoming people from the town to our musical family! Our sessions are just a short journey away and offer something special - a chance to connect with fellow music lovers in beautiful countryside settings while learning this wonderfully cheerful instrument.
+Bolton has such a fantastic community spirit, and we love welcoming people from across the area - whether you're in Bolton town centre, Farnworth, Horwich, Westhoughton, or any of the surrounding communities - to our musical family! Our sessions are just a short journey away and offer something special - a chance to connect with fellow music lovers in beautiful countryside settings while learning this wonderfully cheerful instrument.
 
 Since 2021, we've been creating welcoming spaces where people of all ages can learn ukulele, sing together, and build lasting friendships. Our approach is relaxed and inclusive - no pressure, just the joy of making music together. Whether you're picking up an instrument for the first time or looking to play with others, you'll find your place here.
 

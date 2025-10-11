@@ -9,7 +9,7 @@ permalink: /ukulele-lessons-in-blackburn/
 
 ## Ukulele Lessons Near Blackburn
 
-If you're based in Blackburn and want to learn ukulele, Uke Group North runs welcoming sessions that are accessible from your area. We're a community interest company bringing people together through music across Lancashire and Greater Manchester, with a warm welcome for folks from all backgrounds and abilities.
+If you're based in Blackburn, Darwen, Accrington, Great Harwood, or anywhere across the area and want to learn ukulele, Uke Group North runs welcoming sessions that are accessible from your area. We're a community interest company bringing people together through music across Lancashire and Greater Manchester, with a warm welcome for folks from all backgrounds and abilities.
 
 Our approach is relaxed and community-focused - we believe music should be enjoyable and accessible. We provide instruments if you don't have your own, and we help everyone progress at their own pace.
 

@@ -9,7 +9,7 @@ permalink: /ukulele-lessons-in-manchester/
 
 ## Ukulele Lessons Near Manchester
 
-Manchester has such a rich musical heritage, and we love connecting with music lovers from the city! While we're based in the beautiful countryside just outside Manchester, our sessions are easily accessible and offer something special - a chance to escape the hustle and bustle while diving into music with like-minded people.
+Manchester has such a rich musical heritage, and we love connecting with music lovers from the city! Whether you're in Prestwich, Whitefield, Cheetham Hill, Radcliffe, Middleton, Eccles, Salford, or anywhere across Greater Manchester, our sessions are easily accessible and offer something special - a chance to escape the hustle and bustle while diving into music with like-minded people.
 
 Since 2021, we've been creating welcoming spaces where people of all ages can learn ukulele, sing together, and build lasting friendships. Our approach is relaxed and inclusive - no pressure, just the joy of making music together. Whether you're picking up an instrument for the first time or looking to play with others, you'll find your place here.
 
