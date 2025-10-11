@@ -18,7 +18,7 @@ We'd love to hear from you! Whether you'd like to join a session, book a worksho
 
 ## Email Us
 
-For all enquiries, please email us at: [ben@ukegroupnorth.com](mailto:ben@ukegroupnorth.com)
+For all enquiries, please email us at: [ben@ukegroupnorth.com](mailto:ben@ukegroupnorth.com), or use the contact form below.
 
 You can also find us on [Google Maps](https://maps.app.goo.gl/5YPe7Gcj1vXLhYiG7)
 
@@ -64,7 +64,7 @@ Ben also offers personal ukulele tuition for those who prefer individual lessons
 - 30 minutes: £20
 - 60 minutes: £30
 
-To book a one-on-one lesson or discuss whether your location is within Ben's travel area, email [ben@ukegroupnorth.com](mailto:ben@ukegroupnorth.com).
+To book a one-on-one lesson or discuss whether your location is within Ben's travel area, email [ben@ukegroupnorth.com](mailto:ben@ukegroupnorth.com) or [drop us a message using our contact form](/contact/).
 
 ## Frequently Asked Questions
 
@@ -74,8 +74,8 @@ No! We have instruments available to borrow during sessions for free.
 **I've never played before - can I still join?**  
 Absolutely! We welcome complete beginners
 
-**How do I book a place?**  
-Simply email us at [ben@ukegroupnorth.com](mailto:ben@ukegroupnorth.com) to reserve your spot.
+**How do I book a place?**
+Simply email us at [ben@ukegroupnorth.com](mailto:ben@ukegroupnorth.com) or [click here to use our contact form](/contact/) to reserve your spot.
 
 **Can you come to our venue?**  
 Yes! We deliver workshops across Greater Manchester and Lancashire. Get in touch to discuss your requirements.
