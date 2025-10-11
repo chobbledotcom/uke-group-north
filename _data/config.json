@@ -5,7 +5,7 @@
 	"sticky_mobile_nav": true,
 	"horizontal_nav": true,
 	"template_repo_url": "https://git.chobble.com/chobble/chobble-client",
-	"chobble_link": "https://chobble.com/services/chobble-template/",
+	"chobble_link": "https://chobble.com/examples/uke-group-north/",
 	"stripe_publishable_key": null,
 	"products": {}
 }
