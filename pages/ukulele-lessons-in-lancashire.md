@@ -11,7 +11,7 @@ permalink: /ukulele-lessons-in-lancashire/
 
 Uke Group North is proud to serve communities right across Lancashire with our welcoming ukulele sessions. Since 2021, we've been creating musical connections throughout the county, bringing people together through the joy of playing and singing.
 
-Based in the heart of Lancashire, our sessions are easily accessible from towns and villages across the region. Whether you're a complete beginner or looking to play with others, you'll find a warm welcome at any of our weekly gatherings.
+Based in the heart of Lancashire, our sessions are easily accessible from Preston, Burnley, Rochdale, Nelson, Oldham, and towns and villages across the region. Whether you're a complete beginner or looking to play with others, you'll find a warm welcome at any of our weekly gatherings.
 
 ## Our Lancashire Sessions
 

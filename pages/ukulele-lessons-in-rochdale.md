@@ -9,7 +9,7 @@ permalink: /ukulele-lessons-in-rochdale/
 
 ## Ukulele Lessons Near Rochdale
 
-If you're based in Rochdale and want to learn ukulele, Uke Group North runs welcoming sessions that are easily accessible from your area. We're a community interest company bringing people together through music across Greater Manchester, with a warm welcome for folks of all ages and abilities.
+If you're based in Rochdale, Heywood, Littleborough, Milnrow, or anywhere across the area and want to learn ukulele, Uke Group North runs welcoming sessions that are easily accessible from your area. We're a community interest company bringing people together through music across Greater Manchester, with a warm welcome for folks of all ages and abilities.
 
 Our sessions are relaxed and community-focused - we believe learning music should be enjoyable, not stressful. We provide instruments if you don't have your own, and we ensure everyone progresses at their own pace.
 
