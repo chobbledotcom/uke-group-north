@@ -11,6 +11,7 @@ meta_description: Join our weekly Sing & Strum session at Greenmount Old School
   beginners encouraged.
 map_embed_src: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2366.239435994505!2d-2.3370930000000003!3d53.624869!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487ba48e7e2d803f%3A0x7ceaa1ec8ae68331!2sGreenmount%20Old%20School%20Community%20Centre!5e0!3m2!1sen!2snl!4v1757042449479!5m2!1sen!2snl
 ---
+
 ## Weekly Sing & Strum Session
 
 Join us every Monday morning at Greenmount Old School for our popular Sing & Strum session. No instruments required - beginners are encouraged, and intermediate and advanced players are also welcome!
@@ -29,7 +30,7 @@ Our Monday morning sessions are perfect for learning ukulele, playing and singin
 
 - Your ukulele, or let us know if you would like to borrow one of ours
 - A copy of our most recent song book, either download to tablet or printed copy
-[Download UGN Songbook (PDF)](/assets/UGN%20Songbook%201.1.pdf)
+  [Download UGN Songbook (PDF)](/assets/UGN_Songbook_1.1.pdf)
 
 ### Booking
 
