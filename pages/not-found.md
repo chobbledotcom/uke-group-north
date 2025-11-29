@@ -1,5 +1,5 @@
 ---
-header_image: ukelele-2.jpg
+header_image: /images/ukelele-2.jpg
 header_text: Not Found
 meta_description:
 meta_title: Not Found

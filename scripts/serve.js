@@ -12,7 +12,7 @@ const watch = spawn('node', [path.join(__dirname, 'watch.js')], {
   stdio: 'inherit' 
 });
 
-const eleventy = spawn('npx', ['-y', '@11ty/eleventy', '--serve'], { 
+const eleventy = spawn('pnpm', ['exec', 'eleventy', '--serve'], { 
   cwd: dev, 
   stdio: 'inherit', 
   shell: true 

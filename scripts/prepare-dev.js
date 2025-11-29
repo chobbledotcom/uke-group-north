@@ -8,7 +8,13 @@ const build = path.join(root, buildDir);
 const template = path.join(build, "template");
 const dev = path.join(build, "dev");
 
-const templateExcludes = [".git", "node_modules", "test", "test-*"];
+const templateExcludes = [
+	".git",
+	"node_modules",
+	"test",
+	"test-*",
+	"theme*.scss",
+];
 
 const rootExcludes = [
 	".git",
@@ -53,7 +59,7 @@ function prep() {
 
 	if (!fs.existsSync(path.join(dev, "node_modules"))) {
 		console.log("Installing dependencies...");
-		execSync("npm install", { cwd: dev });
+		execSync("pnpm install", { cwd: dev });
 	}
 
 	fs.rmSync(path.join(dev, "_site"), { recursive: true, force: true });

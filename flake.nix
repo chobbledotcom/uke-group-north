@@ -7,9 +7,9 @@
       devShells.x86_64-linux.default =
         let
           pkgs = import nixpkgs { system = "x86_64-linux"; };
-          npmScripts = pkgs.symlinkJoin {
-            name = "npm-scripts";
-            paths = map (cmd: pkgs.writeShellScriptBin cmd "npm run ${cmd}") [
+          pnpmScripts = pkgs.symlinkJoin {
+            name = "pnpm-scripts";
+            paths = map (cmd: pkgs.writeShellScriptBin cmd "pnpm run ${cmd}") [
               "serve"
               "build"
               "prepare-dev"
@@ -21,7 +21,11 @@
           };
         in
         pkgs.mkShell {
-          buildInputs = [ pkgs.nodejs_23 npmScripts ];
+          buildInputs = [
+            pkgs.nodejs_24
+            pkgs.pnpm
+            pnpmScripts
+          ];
           shellHook = ''
             cat <<EOF
 

@@ -13,7 +13,7 @@ console.log('Building site...');
 
 fs.rmSync(output, { recursive: true, force: true });
 
-execSync('npx eleventy', { cwd: dev, stdio: 'inherit' });
+execSync('pnpm exec eleventy', { cwd: dev, stdio: 'inherit' });
 
 execSync(`mv "${path.join(dev, '_site')}" "${output}"`);
 

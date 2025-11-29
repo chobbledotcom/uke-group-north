@@ -11,5 +11,8 @@
     "update-pages": "node scripts/update-pages.js",
     "clean": "rm -rf .build _site"
   },
+  "dependencies": {
+    "esbuild": "^0.27.0"
+  },
   "devDependencies": {}
 }
