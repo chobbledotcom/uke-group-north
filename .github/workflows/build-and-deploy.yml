@@ -85,20 +85,16 @@ jobs:
           name: combined-files
           path: combined
 
-      # ✅ CORRECT: Setup pnpm FIRST with latest version and built-in cache
       - name: Setup pnpm
         uses: pnpm/action-setup@v4
         with:
           version: latest
-          cache: true
 
-      # ✅ CORRECT: Setup Node.js v6 with latest version
       - name: Setup Node.js
         uses: actions/setup-node@v6
         with:
           node-version: latest
 
-      # ✅ CORRECT: Only cache .image-cache with proper hash-based keys
       - name: Restore image cache
         uses: actions/cache@v4
         with:
