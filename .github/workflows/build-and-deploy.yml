@@ -94,6 +94,8 @@ jobs:
         uses: actions/setup-node@v6
         with:
           node-version: latest
+          cache: 'pnpm'
+          cache-dependency-path: combined/pnpm-lock.yaml
 
       - name: Restore image cache
         uses: actions/cache@v4
