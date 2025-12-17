@@ -85,25 +85,27 @@ jobs:
           name: combined-files
           path: combined
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 23
-
+      # ✅ CORRECT: Setup pnpm FIRST with latest version and built-in cache
       - name: Setup pnpm
         uses: pnpm/action-setup@v4
         with:
           version: latest
+          cache: true
 
-      - name: Restore cache
+      # ✅ CORRECT: Setup Node.js v6 with latest version
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: latest
+
+      # ✅ CORRECT: Only cache .image-cache with proper hash-based keys
+      - name: Restore image cache
         uses: actions/cache@v4
         with:
-          path: |
-            combined/node_modules
-            combined/.image-cache
-          key: ${{ runner.os }}
+          path: combined/.image-cache
+          key: ${{ runner.os }}-images-${{ hashFiles('combined/src/images/**/*') }}
           restore-keys: |
-            ${{ runner.os }}
+            ${{ runner.os }}-images-
 
       - name: Build with Node
         run: |
