@@ -11,6 +11,12 @@ eleventyNavigation:
   order: 1
 layout: home.html
 permalink: /
+redirect_from:
+ - /home/
+ - /home-1/
+ - /strum/
+ - /about-3/
+ - /news/welcome/
 ---
 ## Join Our Musical Community
 
