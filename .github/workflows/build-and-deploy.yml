@@ -54,6 +54,7 @@ jobs:
             --verbose \
             --exclude=".*" \
             --exclude="README.md" \
+            --exclude="package.json" \
             source/ \
             combined/src/
 
