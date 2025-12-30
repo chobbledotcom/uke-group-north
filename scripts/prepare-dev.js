@@ -8,13 +8,7 @@ const build = path.join(root, buildDir);
 const template = path.join(build, "template");
 const dev = path.join(build, "dev");
 
-const templateExcludes = [
-	".git",
-	"node_modules",
-	"test",
-	"test-*",
-	"theme*.scss",
-];
+const templateExcludes = [".git", "node_modules", "test", "test-*"];
 
 const rootExcludes = [
 	".git",
