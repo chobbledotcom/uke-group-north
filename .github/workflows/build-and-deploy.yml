@@ -34,6 +34,7 @@ jobs:
             flake.lock
             bin
             scripts
+            packages
             src
 
       - name: Copy template files to combined dir
@@ -93,13 +94,15 @@ jobs:
         with:
           bun-version: latest
 
-      - name: Restore image cache
+      - name: Restore cache
         uses: actions/cache@v4
         with:
-          path: combined/.image-cache
-          key: ${{ runner.os }}-images-${{ hashFiles('combined/src/images/**/*') }}
+          path: |
+            combined/node_modules
+            combined/.image-cache
+          key: ${{ runner.os }}-bun-${{ hashFiles('combined/bun.lock') }}
           restore-keys: |
-            ${{ runner.os }}-images-
+            ${{ runner.os }}-bun-
 
       - name: Build with Bun
         run: |
