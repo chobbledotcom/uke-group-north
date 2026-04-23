@@ -28,10 +28,13 @@ jobs:
           sparse-checkout: |
             .eleventy.js
             package.json
-            pnpm-lock.yaml
+            bun.lock
+            bunfig.toml
             flake.nix
             flake.lock
             bin
+            scripts
+            packages
             src
 
       - name: Copy template files to combined dir
@@ -86,31 +89,26 @@ jobs:
           name: combined-files
           path: combined
 
-      - name: Setup pnpm
-        uses: pnpm/action-setup@v4
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
         with:
-          version: latest
+          bun-version: latest
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v6
-        with:
-          node-version: latest
-          cache: 'pnpm'
-          cache-dependency-path: combined/pnpm-lock.yaml
-
-      - name: Restore image cache
+      - name: Restore cache
         uses: actions/cache@v4
         with:
-          path: combined/.image-cache
-          key: ${{ runner.os }}-images-${{ hashFiles('combined/src/images/**/*') }}
+          path: |
+            combined/node_modules
+            combined/.image-cache
+          key: ${{ runner.os }}-bun-${{ hashFiles('combined/bun.lock') }}
           restore-keys: |
-            ${{ runner.os }}-images-
+            ${{ runner.os }}-bun-
 
-      - name: Build with Node
+      - name: Build with Bun
         run: |
           cd combined
-          pnpm install --frozen-lockfile
-          pnpm exec eleventy
+          bun install --frozen-lockfile
+          bun scripts/eleventy-build.js
           mkdir -p ../_site
           mv _site/* ../_site/
 
