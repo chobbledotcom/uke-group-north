@@ -1,13 +1,14 @@
-const fs = require('fs');
-const path = require('path');
-const { sync } = require('./prepare-dev');
+import { watch } from "node:fs";
+import { sync } from "./prepare-dev.js";
+import { debounce, root } from "./utils.js";
 
-const root = path.resolve(__dirname, '..');
+const ignored = [".build", ".direnv", "node_modules", ".git"];
 
-fs.watch(root, { recursive: true }, (event, file) => {
-  if (file && (file.endsWith('.md') || file.endsWith('.scss') || file.endsWith('.json'))) {
-    if (!file.startsWith('.build') && !file.startsWith('node_modules') && !file.startsWith('.git')) {
-      sync();
-    }
-  }
+const debouncedSync = debounce(sync, 5000);
+
+watch(root, { recursive: true }, (_, file) => {
+  if (!file || ignored.some((p) => file.startsWith(p))) return;
+  debouncedSync();
 });
+
+console.log(`Watching ${root}...`);

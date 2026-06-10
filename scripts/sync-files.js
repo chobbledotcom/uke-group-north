@@ -1,5 +1,5 @@
-const { sync } = require('./prepare-dev');
+import { sync } from "./prepare-dev.js";
 
-if (require.main === module) sync();
+if (import.meta.main) sync();
 
-module.exports = { sync };
+export { sync };
