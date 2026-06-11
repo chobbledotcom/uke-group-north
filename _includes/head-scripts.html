@@ -1,12 +1,14 @@
 <script>
   window.goatcounter = { no_onload: true };
-  const trackPageView = () => {
+  /* Plain function syntax: the template's linkify transform HTML-escapes
+     ">" inside inline scripts, so "=>" would arrive as "=&gt;" and break. */
+  function trackPageView() {
     if (typeof window.goatcounter.count === "function") {
       window.goatcounter.count({
         path: location.pathname + location.search + location.hash,
       });
     }
-  };
+  }
   document.addEventListener("DOMContentLoaded", trackPageView);
   document.addEventListener("turbo:load", trackPageView);
 </script>
