@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+{%- comment -%}
+Client override of chobble-template's design-system-base.html.
+
+Differences from the template version (keep in sync when the template
+changes — see https://github.com/chobbledotcom/chobble-template):
+  1. Renders a banner header from page `header_image` / `header_text` /
+     `subtitle` frontmatter, reusing the design system's image-background
+     block markup.
+  2. Wraps <main> in a .page-columns container and renders the
+     "right-content" snippet's blocks in an <aside class="right-column">,
+     recreating the boxed two-column layout of the previous site. The
+     template already adds the `two-columns` body class when
+     snippets/right-content.md exists; this supplies the markup for it.
+{%- endcomment -%}
+<html lang="en">
+<head>
+  {%- include "head-meta.html" -%}
+
+  <link
+    rel="stylesheet"
+    href="{{ '/css/design-system-bundle.css' | cacheBust }}"
+  >
+
+  {%- include "js-config-script.html" -%}
+
+  {%- include "bundle-script.html" -%}
+
+  {%- include "head-schema.html" -%}
+
+  {%- include "head-scripts.html" -%}
+</head>
+<body class="design-system {{ layout | getBodyClasses: config, body-classes, featured, page.url }}">
+  {%- include "body-scripts.html" -%}
+  {%- unless no_navigation -%}
+    {%- include "navigation.html" -%}
+  {%- endunless -%}
+  {%- if header_image -%}
+    <header class="page-banner">
+      <div class="image-background tinted">
+        <div>
+          {% image header_image, "", "2560,1920,1280,960,640", "", "100vw", "8/3", "", false, true %}
+        </div>
+        <figure>
+          <figcaption class="prose">
+            <h1>{{ header_text | default: name }}</h1>
+            {%- if subtitle -%}
+              <p class="lead">{{ subtitle }}</p>
+            {%- endif -%}
+          </figcaption>
+        </figure>
+      </div>
+    </header>
+  {%- endif -%}
+  <div class="page-columns">
+    <main{% if pagefind_body %} data-pagefind-body{% endif %}>
+      {%- if config.show_breadcrumbs and page.url != "/" -%}
+        {%- include "breadcrumbs-nav.html" -%}
+      {%- endif -%}
+      {{- content | validatePageBodyContent: layout, page.inputPath -}}
+      {%- if blocks -%}
+        {%- include "design-system/blocks.html", blocks: blocks -%}
+      {%- endif -%}
+      {%- assign footer_snippet_data = "footer-content" | snippet_data -%}
+      {%- if footer_snippet_data.blocks -%}
+        {%- include "design-system/blocks.html", blocks: footer_snippet_data.blocks -%}
+      {%- endif -%}
+    </main>
+    {%- assign right_snippet_data = "right-content" | snippet_data -%}
+    {%- if right_snippet_data.blocks -%}
+      <aside class="right-column design-system">
+        {%- assign right_blocks = right_snippet_data.blocks | render_block_liquid -%}
+        {%- for block in right_blocks -%}
+          {%- include "design-system/render-block.html", block: block -%}
+        {%- endfor -%}
+      </aside>
+    {%- endif -%}
+  </div>
+  {%- include "design-system/footer.html" -%}
+  {%- include "image-popup.html" -%}
+  {%- include "client-templates.html" -%}
+  {% slot "templates" %}
+  {%- include "theme-switcher.html" -%}
+  {%- include "cart-icon.html" -%}
+  {%- include "cart-overlay.html" -%}
+</body>
+</html>

@@ -1,12 +1,25 @@
+/* body_classes: headings-centered */
+
+/* =============================================================================
+   Uke Group North theme — recreates the previous site's boxed layout on top
+   of the chobble-template design system. The page sits on a warm peach
+   background, with the nav, banner, content+sidebar, and footer each rendered
+   as centred 1300px cream panels with a thin gold border and soft shadow.
+   The two-column markup comes from the client _layouts/design-system-base.html
+   override; the `two-columns` body class is added by the template whenever
+   snippets/right-content.md exists.
+   ========================================================================== */
+
 :root {
   --color-text: #000000;
   --color-link: #1a5fb4;
   --color-link-hover: #0d3a6e;
   --color-bg: #fffdf6;
+  --body-background: #fffdf6;
+  --body-background-alt: #fdf6e7;
   --border-radius: 5px;
   --border: 1px solid #b6720c;
   --box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  --width-content: 1300px;
   --font-family-heading:
     Inter, Roboto, "Helvetica Neue", "Arial Nova", "Nimbus Sans", Arial,
     sans-serif;
@@ -16,28 +29,129 @@
   --link-decoration: underline;
   --link-decoration-hover: underline;
   --link-decoration-style: dotted;
+  --width-content: 1300px;
 }
 
-/* body_classes: header-centered-dark, headings-centered */
+/* ---------------------------------------------------------------------------
+   Boxed page panels on a peach backdrop
+   ------------------------------------------------------------------------- */
 
-body > footer .socials li a img,
-body > footer .socials li a img:hover {
-  filter: invert(40%) sepia(98%) saturate(401%) hue-rotate(357deg)
-    brightness(98%) contrast(102%);
-}
-
-body {
+body.design-system {
+  padding: 0.5rem;
   background: #faece1;
 }
 
-header {
-  --color-text: #ffffff;
+body.design-system > .page-banner,
+body.design-system > .page-columns,
+body.design-system > footer {
+  overflow: hidden;
+  width: min(var(--width-content), 100%);
+  margin: 0 auto 1rem;
+  border: var(--border);
+  border-radius: var(--border-radius);
+  background: var(--color-bg);
+  box-shadow: var(--box-shadow);
 }
 
-button,
-.button,
-input[type="submit"] {
-  --color-link: #000000;
-  --color-link-hover: #240808;
-  --border: 2px solid #b6720c;
+/* The nav joins the boxed panels on larger screens; on mobile it keeps the
+   template's sticky-bar behaviour untouched. */
+@media screen and (min-width: 769px) {
+  body.design-system > nav {
+    width: min(var(--width-content), 100%);
+    margin: 0 auto 1rem;
+    border: var(--border);
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow);
+  }
+}
+
+/* ---------------------------------------------------------------------------
+   Banner header (from page header_image / header_text frontmatter)
+   ------------------------------------------------------------------------- */
+
+body.design-system .page-banner {
+  .image-background {
+    aspect-ratio: 7 / 2;
+  }
+
+  figcaption {
+    text-align: center;
+
+    h1 {
+      text-wrap: balance;
+    }
+
+    .lead {
+      font-size: 1.25rem;
+    }
+  }
+
+  @media screen and (max-width: 650px) {
+    .image-background {
+      aspect-ratio: 4 / 3;
+    }
+  }
+}
+
+/* ---------------------------------------------------------------------------
+   Two-column layout: main content + right sidebar
+   ------------------------------------------------------------------------- */
+
+@media screen and (min-width: 1001px) {
+  body.design-system.two-columns > .page-columns {
+    display: grid;
+    grid-template-columns: 1fr 18rem;
+    align-items: start;
+
+    > .right-column {
+      border-left: var(--border);
+    }
+  }
+}
+
+body.design-system .right-column {
+  gap: 1.5rem;
+  padding: 1.5rem 1rem;
+
+  h3 {
+    text-align: center;
+  }
+
+  ul {
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+  }
+
+  .prose {
+    text-align: center;
+  }
+
+  /* Stack the sessions list vertically instead of the horizontal slider */
+  .slider-container .items.slider {
+    display: flex;
+    flex-direction: column;
+    overflow: visible;
+
+    > li {
+      width: 100%;
+      min-width: 0;
+    }
+  }
+}
+
+/* ---------------------------------------------------------------------------
+   Old-site touches
+   ------------------------------------------------------------------------- */
+
+body.design-system.headings-centered main {
+  h1,
+  h2 {
+    text-align: center;
+  }
+}
+
+body.design-system > footer {
+  padding: 1rem;
+  text-align: center;
 }

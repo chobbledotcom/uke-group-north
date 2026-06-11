@@ -1,0 +1,16 @@
+---
+layout: design-system-base
+---
+
+{%- comment -%}
+Client override of chobble-template's page.html. The template version
+renders `blocks` here AND design-system-base.html renders them again,
+duplicating every block page's content. This version leaves blocks to the
+base layout so they render exactly once; markdown body content still
+renders as prose.
+{%- endcomment -%}
+{%- assign _page_body = content | strip -%}
+{%- if _page_body != "" -%}
+  <div class="prose">{{ content }}</div>
+{%- endif -%}
+{%- include "faq.html" -%}
