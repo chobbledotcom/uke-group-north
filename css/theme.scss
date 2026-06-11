@@ -83,7 +83,7 @@ body.design-system .page-banner {
     }
 
     p {
-      font-size: 1.25rem;
+      font-size: 1.125rem;
     }
   }
 
@@ -101,8 +101,14 @@ body.design-system .page-banner {
 @media screen and (min-width: 1001px) {
   body.design-system.two-columns > .page-columns {
     display: grid;
-    grid-template-columns: 1fr 18rem;
+    grid-template-columns: 1fr 16rem;
     align-items: start;
+
+    /* min-width: 0 stops wide children (sliders, container-wide sections)
+       blowing the 1fr track out past the panel and shoving the sidebar */
+    > main {
+      min-width: 0;
+    }
 
     > .right-column {
       border-left: var(--border);

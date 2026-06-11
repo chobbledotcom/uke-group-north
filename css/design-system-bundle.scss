@@ -1,0 +1,44 @@
+// =============================================================================
+// DESIGN SYSTEM BUNDLE — Uke Group North override
+// =============================================================================
+// Client override of the template's bundle entry. Identical to the template
+// version except for the leading `@use "variables" with (...)`, which
+// configures the design system's !default variables before any other module
+// loads them. (The template's _theme-variables.scss forward mechanism does
+// not actually override — the local !default declarations in _variables.scss
+// shadow the forwarded ones — so module configuration is used instead.)
+//
+// The values compact the type scale and spacing to match the previous live
+// site, which used h1 2rem, h2 1.4rem, h3 1.2rem on a 16px body. Heading
+// mixins resolve to: h1 = 3xl -> 4xl (md) -> 5xl (xl); h2 = 2xl -> 3xl (md);
+// h3 = xl -> 2xl (md). $space-unit scales all spacing (gaps, section
+// padding) proportionally.
+// =============================================================================
+
+@use "variables" with (
+  $font-size-md: 1.0625rem,
+  $font-size-lg: 1.125rem,
+  $font-size-xl: 1.2rem,
+  $font-size-2xl: 1.3rem,
+  $font-size-3xl: 1.5rem,
+  $font-size-4xl: 1.75rem,
+  $font-size-5xl: 2rem,
+  $line-height-relaxed: 1.5,
+  $space-unit: 6px
+);
+
+@use "fonts";
+@use "design-system";
+@use "cart";
+@use "quote-steps";
+@use "image-popup";
+@use "item-filter";
+@use "maps";
+@use "notification";
+@use "hire";
+@use "read-more";
+@use "scroll-fade";
+@use "stripe-checkout";
+@use "noscript";
+@use "theme-editor";
+@use "theme"; // client theme overrides - must be last
