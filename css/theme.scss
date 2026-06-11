@@ -33,6 +33,51 @@
 }
 
 /* ---------------------------------------------------------------------------
+   Type scale and spacing — match the old live site's compact density
+   (h1 2rem, h2 1.4rem, h3 1.2rem on a 16px body). The design system bakes
+   these in from Sass variables, but theme.scss loads last in the bundle so
+   these same-specificity overrides win everywhere, including inside the
+   design system's own media queries.
+   ------------------------------------------------------------------------- */
+
+.design-system {
+  /* Section vertical padding is a custom property, so override it directly */
+  --section-padding-y: 2.5rem;
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  h3 {
+    font-size: 1.3rem;
+  }
+
+  h4 {
+    font-size: 1.2rem;
+  }
+
+  .prose {
+    gap: 1.125rem;
+    line-height: 1.5;
+  }
+
+  /* Block stack gap (design-system used as a content wrapper) */
+  &:not(body, section) {
+    gap: 3rem;
+  }
+}
+
+@media screen and (min-width: 769px) {
+  .design-system {
+    --section-padding-y: 4rem;
+  }
+}
+
+/* ---------------------------------------------------------------------------
    Boxed page panels on a peach backdrop
    ------------------------------------------------------------------------- */
 
