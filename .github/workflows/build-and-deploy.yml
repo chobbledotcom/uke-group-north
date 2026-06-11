@@ -13,4 +13,5 @@ jobs:
     uses: chobbledotcom/chobble-client/.github/workflows/shared-build-and-deploy.yml@main
     with:
       bunny-storage-endpoint: "https://uk.storage.bunnycdn.com"
+      deploy-only-on-main: true
     secrets: inherit
