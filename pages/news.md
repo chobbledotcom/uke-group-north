@@ -9,5 +9,8 @@ permalink: /news/
 blocks:
   - type: markdown
     content: |
-      # Check out our latest news posts below
+      ## Check out our latest news posts below
+  - type: items
+    collection: news
+    image_aspect_ratio: "4/3"
 ---
