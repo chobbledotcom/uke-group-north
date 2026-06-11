@@ -1,16 +1,20 @@
 ---
 name: Workshops & Sessions
-header_text: Workshops & Sessions
 meta_title: Workshops | Uke Group North
 meta_description: Explore our range of ukulele workshops from beginner to
   advanced. Weekly sessions in Ramsbottom and surrounding areas.
-subtitle: Learn, play, and grow with us
-header_image: /images/ukelele-1.jpg
 eleventyNavigation:
   key: Workshops
   order: 2
 permalink: /workshops/
 blocks:
+  - type: image-background
+    image: /images/ukelele-1.jpg
+    tint: true
+    content: |
+      # Workshops & Sessions
+
+      Learn, play, and grow with us
   - type: markdown
     content: |
       ## Our Workshop Programme

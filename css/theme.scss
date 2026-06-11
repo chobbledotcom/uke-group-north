@@ -66,7 +66,8 @@ body.design-system > footer {
 }
 
 /* ---------------------------------------------------------------------------
-   Banner header (from page header_image / header_text frontmatter)
+   Banner header (a page's leading image-background block, hoisted above
+   the columns by _layouts/base.html)
    ------------------------------------------------------------------------- */
 
 body.design-system .page-banner {
@@ -81,7 +82,7 @@ body.design-system .page-banner {
       text-wrap: balance;
     }
 
-    .lead {
+    p {
       font-size: 1.25rem;
     }
   }

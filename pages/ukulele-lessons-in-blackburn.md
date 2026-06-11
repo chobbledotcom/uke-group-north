@@ -1,12 +1,16 @@
 ---
 name: Ukulele Lessons in Blackburn
-header_image: /images/ukelele-2.jpg
-header_text: Ukulele Lessons in Blackburn
-subtitle: Join Uke Group North - welcoming sessions accessible from Blackburn
 meta_description: Looking for ukulele lessons in Blackburn? Join Uke Group North's friendly sessions in nearby Ramsbottom and Bury. Easy travel, all ages welcome, instruments provided.
 meta_title: Ukulele Lessons in Blackburn | Uke Group North
 permalink: /ukulele-lessons-in-blackburn/
 blocks:
+  - type: image-background
+    image: /images/ukelele-2.jpg
+    tint: true
+    content: |
+      # Ukulele Lessons in Blackburn
+
+      Join Uke Group North - welcoming sessions accessible from Blackburn
   - type: markdown
     content: |
 

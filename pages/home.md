@@ -1,8 +1,5 @@
 ---
 name: Home
-header_image: /images/ukelele-2.jpg
-header_text: Welcome to Uke Group North
-subtitle: Bringing communities together through music
 meta_description: Join our inclusive ukulele workshops across Greater Manchester
   and Lancashire. Weekly sessions for all ages and abilities. No experience
   necessary!
@@ -18,6 +15,13 @@ redirect_from:
   - /about-3/
   - /news/welcome/
 blocks:
+  - type: image-background
+    image: /images/ukelele-2.jpg
+    tint: true
+    content: |
+      # Welcome to Uke Group North
+
+      Bringing communities together through music
   - type: markdown
     content: |
       ## Join Our Musical Community

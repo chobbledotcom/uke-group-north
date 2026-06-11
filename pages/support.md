@@ -1,8 +1,5 @@
 ---
 name: Support Us
-header_image: /images/ukelele-2.jpg
-header_text: Support Us
-subtitle: Help us bring music to more communities
 meta_description: Support Uke Group North's mission to bring music to
   communities. Your donations help us provide instruments and subsidised
   sessions.
@@ -12,6 +9,13 @@ eleventyNavigation:
   order: 98
 permalink: /support/
 blocks:
+  - type: image-background
+    image: /images/ukelele-2.jpg
+    tint: true
+    content: |
+      # Support Us
+
+      Help us bring music to more communities
   - type: markdown
     content: |
       ## Support Our Mission

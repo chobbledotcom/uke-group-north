@@ -1,8 +1,5 @@
 ---
 name: Our Mission & Objectives
-header_image: /images/ukelele-3.jpg
-header_text: Our Mission & Objectives
-subtitle: Building stronger communities through the joy of music
 meta_description: Learn about Uke Group North's mission to improve wellbeing
   through music, strengthen community assets, and teach practical musical
   skills.
@@ -13,6 +10,13 @@ eleventyNavigation:
   order: 0
 permalink: /our-mission/
 blocks:
+  - type: image-background
+    image: /images/ukelele-3.jpg
+    tint: true
+    content: |
+      # Our Mission & Objectives
+
+      Building stronger communities through the joy of music
   - type: markdown
     content: |
       ## Our Core Objectives

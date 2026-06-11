@@ -1,12 +1,16 @@
 ---
 name: Ukulele Lessons in Rochdale
-header_image: /images/ukelele-3.jpg
-header_text: Ukulele Lessons in Rochdale
-subtitle: Join Uke Group North - community ukulele sessions near Rochdale
 meta_description: Looking for ukulele lessons in Rochdale? Join Uke Group North's friendly sessions in nearby Bury and Ramsbottom. All ages welcome, instruments provided.
 meta_title: Ukulele Lessons in Rochdale | Uke Group North
 permalink: /ukulele-lessons-in-rochdale/
 blocks:
+  - type: image-background
+    image: /images/ukelele-3.jpg
+    tint: true
+    content: |
+      # Ukulele Lessons in Rochdale
+
+      Join Uke Group North - community ukulele sessions near Rochdale
   - type: markdown
     content: |
 

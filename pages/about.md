@@ -1,8 +1,5 @@
 ---
 name: About Uke Group North
-header_image: /images/ukelele-2.jpg
-header_text: About Uke Group North
-subtitle: Our story and values
 meta_description: Learn about Uke Group North - bringing communities together
   through ukulele workshops across Greater Manchester and Lancashire since 2021.
 meta_title: About Us | Uke Group North
@@ -11,6 +8,13 @@ eleventyNavigation:
   order: 4
 permalink: /about/
 blocks:
+  - type: image-background
+    image: /images/ukelele-2.jpg
+    tint: true
+    content: |
+      # About Uke Group North
+
+      Our story and values
   - type: markdown
     content: |
       ## Welcome to Uke Group North

@@ -1,14 +1,18 @@
 ---
 name: Ukulele Lessons in Bury
-header_image: /images/ukelele-2.jpg
-header_text: Ukulele Lessons in Bury
-subtitle: Local ukulele sessions in Bury - community music making for all ages
 meta_description: Join Uke Group North for ukulele lessons in Bury. Weekly
   sessions at Wyldes and Greenmount Old School. Friendly community, instruments
   provided, all welcome.
 meta_title: Ukulele Lessons in Bury | Uke Group North
 permalink: /ukulele-lessons-in-bury/
 blocks:
+  - type: image-background
+    image: /images/ukelele-2.jpg
+    tint: true
+    content: |
+      # Ukulele Lessons in Bury
+
+      Local ukulele sessions in Bury - community music making for all ages
   - type: markdown
     content: |
       ## Ukulele Lessons in Bury

@@ -1,12 +1,16 @@
 ---
 name: Ukulele Lessons in Manchester
-header_image: /images/ukelele-1.jpg
-header_text: Ukulele Lessons in Manchester
-subtitle: Learn ukulele with Uke Group North - welcoming sessions for all ages
 meta_description: Looking for ukulele lessons in Manchester? Join Uke Group North's friendly community sessions in nearby Ramsbottom, Bury and Greenmount. All ages welcome, instruments provided.
 meta_title: Ukulele Lessons in Manchester | Uke Group North
 permalink: /ukulele-lessons-in-manchester/
 blocks:
+  - type: image-background
+    image: /images/ukelele-1.jpg
+    tint: true
+    content: |
+      # Ukulele Lessons in Manchester
+
+      Learn ukulele with Uke Group North - welcoming sessions for all ages
   - type: markdown
     content: |
 

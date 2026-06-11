@@ -1,12 +1,16 @@
 ---
 name: Ukulele Lessons in Lancashire
-header_image: /images/ukelele-1.jpg
-header_text: Ukulele Lessons in Lancashire
-subtitle: Uke Group North - bringing communities together across Lancashire
 meta_description: Join Uke Group North for ukulele lessons across Lancashire. Community sessions in Ramsbottom, Bury and Greenmount. All ages welcome, instruments provided.
 meta_title: Ukulele Lessons in Lancashire | Uke Group North
 permalink: /ukulele-lessons-in-lancashire/
 blocks:
+  - type: image-background
+    image: /images/ukelele-1.jpg
+    tint: true
+    content: |
+      # Ukulele Lessons in Lancashire
+
+      Uke Group North - bringing communities together across Lancashire
   - type: markdown
     content: |
 

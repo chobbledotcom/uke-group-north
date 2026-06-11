@@ -1,8 +1,5 @@
 ---
 name: Frequently Asked Questions
-header_image: /images/ukelele-2.jpg
-header_text: Frequently Asked Questions
-subtitle: Everything you need to know about joining Uke Group North
 meta_description: Answers to common questions about Uke Group North ukulele sessions, lessons, locations, costs, and community benefits across Greater Manchester and Lancashire.
 meta_title: FAQ | Uke Group North
 eleventyNavigation:
@@ -11,6 +8,13 @@ eleventyNavigation:
   order: 1
 permalink: /faq/
 blocks:
+  - type: image-background
+    image: /images/ukelele-2.jpg
+    tint: true
+    content: |
+      # Frequently Asked Questions
+
+      Everything you need to know about joining Uke Group North
   - type: markdown
     content: |
 

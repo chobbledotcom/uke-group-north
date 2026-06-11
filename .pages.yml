@@ -22,13 +22,11 @@ content:
     type: collection
     subfolders: false
     view:
-      fields: [permalink, meta_title, header_text]
-      primary: header_text
-      sort: [header_text]
+      fields: [permalink, meta_title, name]
+      primary: name
+      sort: [name]
     fields:
-      - { name: header_image, type: image, label: Header Image }
-      - { name: header_text, type: string, label: Header Text }
-      - { name: subtitle, type: string, label: Subtitle }
+      - { name: name, type: string, label: Name }
       - { name: body, label: Body, type: code, options: { language: markdown } }
       - { name: meta_description, type: string, label: Meta Description }
       - { name: meta_title, type: string, label: Meta Title }
@@ -48,11 +46,9 @@ content:
     subfolders: false
     fields:
       - { name: title, type: string, label: Title }
-      - { name: header_image, type: image, label: Header Image }
       - { name: date, label: Date, type: date }
       - { name: subtitle, type: string, label: Subtitle }
       - { name: body, label: Body, type: code, options: { language: markdown } }
-      - { name: header_text, type: string, label: Header Text }
       - { name: meta_description, type: string, label: Meta Description }
       - { name: meta_title, type: string, label: Meta Title }
       
@@ -66,7 +62,6 @@ content:
       - { name: title, type: string, label: Name }
       - { name: snippet, type: string, label: Role }
       - { name: image, type: image, label: Profile Image }
-      - { name: header_image, type: image, label: Header Image }
       - {
           name: body,
           label: Biography,
@@ -104,7 +99,6 @@ content:
       primary: title
       sort: [title]
     fields:
-      - { name: header_image, type: image, label: Header Image }
       - { name: title, type: string, label: Title }
       - { name: subtitle, type: string, label: Subtitle }
       - { name: event_date, label: Event Date, type: date, required: false }
@@ -112,7 +106,6 @@ content:
       - { name: event_location, type: string, label: Event Location }
       - { name: map_embed_src, type: string, label: Map Embed URL, required: false }
       - { name: body, label: Body, type: code, options: { language: markdown } }
-      - { name: header_text, type: string, label: Header Text }
       - { name: meta_title, type: string, label: Meta Title }
       - { name: meta_description, type: string, label: Meta Description }
 

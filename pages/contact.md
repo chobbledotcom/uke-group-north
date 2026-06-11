@@ -1,8 +1,5 @@
 ---
 name: Contact Us
-header_image: /images/ukelele-1.jpg
-header_text: Contact Us
-subtitle: Let's make music together
 meta_description: Get in touch with Uke Group North - book workshops, join
   sessions, or enquire about our ukulele services across Greater Manchester and
   Lancashire.
@@ -12,6 +9,13 @@ eleventyNavigation:
   order: 99
 permalink: /contact/
 blocks:
+  - type: image-background
+    image: /images/ukelele-1.jpg
+    tint: true
+    content: |
+      # Contact Us
+
+      Let's make music together
   - type: markdown
     content: |
 

@@ -4,9 +4,9 @@ Client override of chobble-template's base.html.
 
 Differences from the template version (keep in sync when the template
 changes — see https://github.com/chobbledotcom/chobble-template):
-  1. Renders a banner header from page `header_image` / `header_text` /
-     `subtitle` frontmatter, reusing the design system's image-background
-     block markup.
+  1. If a page's first block is an image-background, it is hoisted out of
+     <main> and rendered as a banner above the .page-columns container so
+     it spans the full panel width (content + sidebar).
   2. Wraps <main> in a .page-columns container and renders the
      "right-content" snippet's blocks in an <aside class="right-column">,
      recreating the boxed two-column layout of the previous site. The
@@ -35,22 +35,15 @@ changes — see https://github.com/chobbledotcom/chobble-template):
   {%- unless no_navigation -%}
     {%- include "navigation.html" -%}
   {%- endunless -%}
-  {%- if header_image -%}
+  {%- assign first_block = blocks | first -%}
+  {%- if first_block.type == "image-background" -%}
+    {%- assign banner_blocks = blocks | slice: 0, 1 -%}
+    {%- assign main_blocks = blocks | slice: 1, 999 -%}
     <header class="page-banner">
-      <div class="image-background tinted">
-        <div>
-          {% image header_image, "", "2560,1920,1280,960,640", "", "100vw", "8/3", "", false, true %}
-        </div>
-        <figure>
-          <figcaption class="prose">
-            <h1>{{ header_text | default: name }}</h1>
-            {%- if subtitle -%}
-              <p class="lead">{{ subtitle }}</p>
-            {%- endif -%}
-          </figcaption>
-        </figure>
-      </div>
+      {%- include "design-system/blocks.html", blocks: banner_blocks -%}
     </header>
+  {%- else -%}
+    {%- assign main_blocks = blocks -%}
   {%- endif -%}
   <div class="page-columns">
     <main{% if pagefind_body %} data-pagefind-body{% endif %}>
@@ -58,8 +51,8 @@ changes — see https://github.com/chobbledotcom/chobble-template):
         {%- include "breadcrumbs-nav.html" -%}
       {%- endif -%}
       {{- content | validatePageBodyContent: layout, page.inputPath -}}
-      {%- if blocks -%}
-        {%- include "design-system/blocks.html", blocks: blocks -%}
+      {%- if main_blocks -%}
+        {%- include "design-system/blocks.html", blocks: main_blocks -%}
       {%- endif -%}
       {%- assign footer_snippet_data = "footer-content" | snippet_data -%}
       {%- if footer_snippet_data.blocks -%}

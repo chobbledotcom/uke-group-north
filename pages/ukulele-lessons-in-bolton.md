@@ -1,12 +1,16 @@
 ---
 name: Ukulele Lessons in Bolton
-header_image: /images/ukelele-3.jpg
-header_text: Ukulele Lessons in Bolton
-subtitle: Join Uke Group North - friendly ukulele sessions near Bolton
 meta_description: Looking for ukulele lessons in Bolton? Join Uke Group North's welcoming sessions in nearby Bury and Ramsbottom. Easy travel, instruments provided, all ages welcome.
 meta_title: Ukulele Lessons in Bolton | Uke Group North
 permalink: /ukulele-lessons-in-bolton/
 blocks:
+  - type: image-background
+    image: /images/ukelele-3.jpg
+    tint: true
+    content: |
+      # Ukulele Lessons in Bolton
+
+      Join Uke Group North - friendly ukulele sessions near Bolton
   - type: markdown
     content: |
 
