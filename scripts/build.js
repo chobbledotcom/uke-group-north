@@ -1,20 +1,25 @@
-const { execSync } = require('child_process');
-const path = require('path');
-const fs = require('fs');
-const { prep } = require('./prepare-dev');
+import { join } from "node:path";
+import { prep } from "./prepare-dev.js";
+import { bun, fs, path } from "./utils.js";
 
-const root = path.resolve(__dirname, '..');
-const dev = path.join(root, '.build', 'dev');
-const output = path.join(root, '_site');
+const dev = path(".build", "dev");
+const output = path("_site");
 
 prep();
 
-console.log('Building site...');
+console.log("Building site...");
 
-fs.rmSync(output, { recursive: true, force: true });
+fs.rm(output);
+const result = bun.run("build", dev);
 
-execSync('bun run build', { cwd: dev, stdio: 'inherit' });
+if (result.exitCode !== 0) {
+  console.error(`\n${"=".repeat(60)}`);
+  console.error("BUILD FAILED");
+  console.error("=".repeat(60));
+  console.error("\nFix the error above and rebuild.\n");
+  process.exit(result.exitCode);
+}
 
-execSync(`mv "${path.join(dev, '_site')}" "${output}"`);
+fs.mv(join(dev, "_site"), output);
 
-console.log(`✓ Built to _site/`);
+console.log("Built to _site/");

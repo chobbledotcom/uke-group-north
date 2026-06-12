@@ -1,12 +1,24 @@
+/* body_classes: headings-centered */
+
+/* =============================================================================
+   Uke Group North theme — recreates the previous site's boxed layout on top
+   of the chobble-template design system. The page sits on a warm peach
+   background, with the banner, content+sidebar, and footer rendered as
+   centred 1300px cream panels with a thin gold border and soft shadow.
+   Everything else (nav layout, two-column grid, hoisted banner, sidebar
+   slider stacking) comes from the template.
+   ========================================================================== */
+
 :root {
   --color-text: #000000;
   --color-link: #1a5fb4;
   --color-link-hover: #0d3a6e;
   --color-bg: #fffdf6;
+  --body-background: #faece1;
+  --body-background-alt: #fdf6e7;
   --border-radius: 5px;
   --border: 1px solid #b6720c;
   --box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  --width-content: 1300px;
   --font-family-heading:
     Inter, Roboto, "Helvetica Neue", "Arial Nova", "Nimbus Sans", Arial,
     sans-serif;
@@ -16,28 +28,131 @@
   --link-decoration: underline;
   --link-decoration-hover: underline;
   --link-decoration-style: dotted;
+  --width-content: 1300px;
 }
 
-/* body_classes: header-centered-dark, headings-centered */
+/* ---------------------------------------------------------------------------
+   Type scale and spacing — match the old live site's compact density
+   (h1 2rem, h2 1.4rem, h3 1.2rem on a 16px body). Uses the design system's
+   runtime sizing tokens; heading mixins resolve to h1 = 3xl -> 4xl (md) ->
+   5xl (xl), h2 = 2xl -> 3xl (md), h3 = xl -> 2xl (md).
+   ------------------------------------------------------------------------- */
 
-body > footer .socials li a img,
-body > footer .socials li a img:hover {
-  filter: invert(40%) sepia(98%) saturate(401%) hue-rotate(357deg)
-    brightness(98%) contrast(102%);
+:root {
+  --font-size-md: 1.0625rem;
+  --font-size-lg: 1.125rem;
+  --font-size-xl: 1.2rem;
+  --font-size-2xl: 1.3rem;
+  --font-size-3xl: 1.5rem;
+  --font-size-4xl: 1.75rem;
+  --font-size-5xl: 2rem;
+
+  /* 6px spacing unit (25% tighter than the 8px default); all --space-*
+     tiers derive from this at runtime */
+  --space-unit: 6px;
+
+  --section-padding-y-sm: 2.5rem;
+  --section-padding-y-md: 4rem;
 }
 
-body {
-  background: #faece1;
+.design-system .prose {
+  /* the design system's prose uses 1.625; the old site used 1.5 throughout */
+  line-height: 1.5;
 }
 
-header {
-  --color-text: #ffffff;
+/* ---------------------------------------------------------------------------
+   Boxed page panels on a peach backdrop. body > section is the hoisted
+   image-background banner. The nav keeps the template's horizontal-nav
+   styling (centred, rounded, shadowed) and just gains the gold border.
+   ------------------------------------------------------------------------- */
+
+body.design-system {
+  padding: 0.5rem;
 }
 
-button,
-.button,
-input[type="submit"] {
-  --color-link: #000000;
-  --color-link-hover: #240808;
-  --border: 2px solid #b6720c;
+body.design-system > section,
+body.design-system > .page-columns,
+body.design-system > footer {
+  overflow: hidden;
+  width: min(var(--width-content), 100%);
+  margin: 0 auto 1rem;
+  border: var(--border);
+  border-radius: var(--border-radius);
+  background: var(--color-bg);
+  box-shadow: var(--box-shadow);
+}
+
+@media screen and (min-width: 769px) {
+  body.design-system > nav {
+    border: var(--border);
+  }
+}
+
+/* ---------------------------------------------------------------------------
+   Banner header (a page's leading image-background block, hoisted above
+   the columns by the template's base.html)
+   ------------------------------------------------------------------------- */
+
+body.design-system > section {
+  .image-background {
+    aspect-ratio: 7 / 2;
+  }
+
+  figcaption {
+    text-align: center;
+
+    h1 {
+      text-wrap: balance;
+    }
+
+    p {
+      font-size: 1.125rem;
+    }
+  }
+
+  @media screen and (max-width: 650px) {
+    .image-background {
+      aspect-ratio: 4 / 3;
+    }
+  }
+}
+
+/* ---------------------------------------------------------------------------
+   Right sidebar — grid, width, padding, and slider stacking come from the
+   design system; this is the old site's centred look plus the gold divider
+   ------------------------------------------------------------------------- */
+
+@media screen and (min-width: 1001px) {
+  body.design-system.two-columns .right-column {
+    border-left: var(--border);
+  }
+}
+
+body.design-system .right-column {
+  /* the design system's ::marker content survives list-style: none */
+  --list-marker-content: none;
+
+  h3 {
+    text-align: center;
+  }
+
+  .prose {
+    text-align: center;
+
+    ul {
+      padding-left: 0;
+      list-style: none;
+    }
+  }
+}
+
+/* ---------------------------------------------------------------------------
+   Old-site touches
+   ------------------------------------------------------------------------- */
+
+body.design-system.headings-centered main {
+  h1,
+  h2 {
+    text-align: center;
+  }
 }

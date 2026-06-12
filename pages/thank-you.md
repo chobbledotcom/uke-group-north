@@ -1,11 +1,13 @@
 ---
-header_image: /images/ukelele-3.jpg
-header_text: Thank You
+name: Thank You
+meta_description:
 meta_title: Thank You
 navigationParent: Contact
 no_index: true
+blocks:
+  - type: markdown
+    content: |
+      ## Thank You
+
+      Your message has been sent - we will be in touch.
 ---
-
-## Thank You
-
-Your message has been sent - we'll be in touch

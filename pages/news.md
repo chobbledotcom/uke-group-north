@@ -1,10 +1,19 @@
 ---
-header_image: /images/ukelele-2.jpg
-header_text: Recent Updates
+name: Recent Updates
 eleventyNavigation:
   key: News
   order: 3
-layout: news-archive.html
 permalink: /news/
+blocks:
+  - type: image-background
+    image: /images/ukelele-2.jpg
+    tint: true
+    content: |
+      # Recent Updates
+  - type: markdown
+    content: |
+      ## Check out our latest news posts below
+  - type: items
+    collection: news
+    image_aspect_ratio: "4/3"
 ---
-# Check out our latest news posts below
