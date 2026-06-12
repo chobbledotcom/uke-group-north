@@ -48,16 +48,9 @@
   --font-size-4xl: 1.75rem;
   --font-size-5xl: 2rem;
 
-  /* 6px spacing unit (25% tighter than the 8px default) */
+  /* 6px spacing unit (25% tighter than the 8px default); all --space-*
+     tiers derive from this at runtime */
   --space-unit: 6px;
-  --space-xs: 6px;
-  --space-sm: 12px;
-  --space-md: 18px;
-  --space-lg: 24px;
-  --space-xl: 36px;
-  --space-2xl: 48px;
-  --space-3xl: 72px;
-  --space-4xl: 96px;
 
   --section-padding-y-sm: 2.5rem;
   --section-padding-y-md: 4rem;
