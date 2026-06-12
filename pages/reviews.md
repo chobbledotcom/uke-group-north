@@ -15,9 +15,7 @@ blocks:
       Kind words from attendees
   - type: markdown
     content: |
-      # Reviews
-
       Check out some reviews from our attendees below, taken from our [Facebook page](https://www.facebook.com/ukegroupnorth/reviews) and [Google Maps](https://maps.app.goo.gl/5YPe7Gcj1vXLhYiG7)
-  - type: items
-    collection: reviews
+  - type: reviews
+    current_item: false
 ---

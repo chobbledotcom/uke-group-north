@@ -77,7 +77,9 @@ content:
     fields:
       - { name: name, type: string, label: Name }
       - { name: url, type: string, label: URL }
-      - { name: body, label: Body, type: code, options: { language: markdown } }
+      - { name: date, type: date, label: Date }
+      - { name: rating, type: number, label: Rating (1-5), required: false }
+      - { name: body, label: Review Text, type: code, options: { language: markdown } }
       - name: products
         label: Products
         type: reference
