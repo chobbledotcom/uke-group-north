@@ -33,7 +33,6 @@ blocks:
 
   - type: items-array
     image_aspect_ratio: "5/4"
-    horizontal: true
     items:
       - events/mondays-at-greenmount.md
       - events/tuesdays-at-ramsbottom-library.md
