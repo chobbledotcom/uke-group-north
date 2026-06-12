@@ -45,4 +45,6 @@ blocks:
       - Block booking discounts available
 
       All abilities welcome - beginners are especially encouraged to join us!
+  - type: reviews
+    current_item: false
 ---

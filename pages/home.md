@@ -124,4 +124,10 @@ blocks:
       ---
 
       _"Music gives a soul to the universe, wings to the mind, flight to the imagination and life to everything"_ - Plato
+  - type: markdown
+    content: |
+      ## Latest Posts
+  - type: items
+    collection: news
+    image_aspect_ratio: "4/3"
 ---
