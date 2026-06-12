@@ -5,9 +5,10 @@
    of the chobble-template design system. The page sits on a warm peach
    background, with the nav, banner, content+sidebar, and footer each rendered
    as centred 1300px cream panels with a thin gold border and soft shadow.
-   The two-column markup comes from the client _layouts/design-system-base.html
-   override; the `two-columns` body class is added by the template whenever
-   snippets/right-content.md exists.
+   The two-column markup, hoisted banner, and sidebar all come from the
+   template's base.html: it renders snippets/right-content.md in an aside
+   (adding the `two-columns` body class) and hoists a page's leading
+   image-background block above the .page-columns grid.
    ========================================================================== */
 
 :root {
@@ -70,7 +71,8 @@ body.design-system {
   background: #faece1;
 }
 
-body.design-system > .page-banner,
+/* body > section is the hoisted image-background banner */
+body.design-system > section,
 body.design-system > .page-columns,
 body.design-system > footer {
   overflow: hidden;
@@ -96,10 +98,10 @@ body.design-system > footer {
 
 /* ---------------------------------------------------------------------------
    Banner header (a page's leading image-background block, hoisted above
-   the columns by _layouts/base.html)
+   the columns by the template's base.html)
    ------------------------------------------------------------------------- */
 
-body.design-system .page-banner {
+body.design-system > section {
   .image-background {
     aspect-ratio: 7 / 2;
   }
@@ -124,24 +126,13 @@ body.design-system .page-banner {
 }
 
 /* ---------------------------------------------------------------------------
-   Two-column layout: main content + right sidebar
+   Right sidebar — grid, width, and slider stacking come from the design
+   system (--right-column-width defaults to 16rem); these are looks only
    ------------------------------------------------------------------------- */
 
 @media screen and (min-width: 1001px) {
-  body.design-system.two-columns > .page-columns {
-    display: grid;
-    grid-template-columns: 1fr 16rem;
-    align-items: start;
-
-    /* min-width: 0 stops wide children (sliders, container-wide sections)
-       blowing the 1fr track out past the panel and shoving the sidebar */
-    > main {
-      min-width: 0;
-    }
-
-    > .right-column {
-      border-left: var(--border);
-    }
+  body.design-system.two-columns .right-column {
+    border-left: var(--border);
   }
 }
 
@@ -161,18 +152,6 @@ body.design-system .right-column {
 
   .prose {
     text-align: center;
-  }
-
-  /* Stack the sessions list vertically instead of the horizontal slider */
-  .slider-container .items.slider {
-    display: flex;
-    flex-direction: column;
-    overflow: visible;
-
-    > li {
-      width: 100%;
-      min-width: 0;
-    }
   }
 }
 
