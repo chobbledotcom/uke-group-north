@@ -20,4 +20,6 @@ blocks:
       ## Regular Sessions
 
       We run regular weekly Sing & Strum sessions in Ramsbottom and Bury. These are friendly, inclusive gatherings where we play and sing together. Players of all abilities are welcome!
+  - type: items
+    collection: events
 ---
