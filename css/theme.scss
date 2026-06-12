@@ -123,12 +123,6 @@ body.design-system > section {
    ------------------------------------------------------------------------- */
 
 @media screen and (min-width: 1001px) {
-  body.design-system.two-columns .page-columns {
-    /* template uses align-items: start, which leaves the aside (and its
-       border) shorter than main */
-    align-items: stretch;
-  }
-
   body.design-system.two-columns .right-column {
     border-left: var(--border);
   }
@@ -149,13 +143,6 @@ body.design-system .right-column {
       padding-left: 0;
       list-style: none;
     }
-  }
-
-  /* the items grid sizes cards for the main column (flex-basis 280px,
-     max-width 33% at lg) — stack them in the narrow sidebar */
-  ul.items > li {
-    flex-basis: 100%;
-    max-width: 100%;
   }
 }
 
