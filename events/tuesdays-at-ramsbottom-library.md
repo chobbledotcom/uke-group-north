@@ -1,5 +1,6 @@
 ---
 name: Tuesdays at Ramsbottom Library
+thumbnail: /images/ukelele-3.jpg
 subtitle: Weekly Sing & Strum Session
 recurring_date: Tuesdays - 10:30am-12pm
 event_location: Ramsbottom Library, Carr St, Ramsbottom, BL0 9AE

@@ -1,5 +1,6 @@
 ---
 name: Thursdays at Wyldes
+thumbnail: /images/ukelele-1.jpg
 subtitle: Weekly Sing & Strum Session
 recurring_date: Thursdays - 6:30pm-8:00pm
 event_location: Wyldes, 4 Bolton St, Bury, BL9 0LQ

@@ -93,6 +93,15 @@ body.design-system > footer {
     border: var(--border);
     border-radius: var(--border-radius);
     box-shadow: var(--box-shadow);
+    background: var(--color-bg);
+
+    > ul {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 0 1.5rem;
+      padding: 0.5rem 1rem;
+    }
   }
 }
 
@@ -146,12 +155,19 @@ body.design-system .right-column {
 
   ul {
     padding: 0;
-    list-style-type: none;
+    padding-left: 0;
+    list-style: none;
     text-align: center;
   }
 
   .prose {
     text-align: center;
+
+    ul {
+      padding: 0;
+      padding-left: 0;
+      list-style: none;
+    }
   }
 }
 
