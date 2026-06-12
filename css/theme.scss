@@ -3,12 +3,10 @@
 /* =============================================================================
    Uke Group North theme — recreates the previous site's boxed layout on top
    of the chobble-template design system. The page sits on a warm peach
-   background, with the nav, banner, content+sidebar, and footer each rendered
-   as centred 1300px cream panels with a thin gold border and soft shadow.
-   The two-column markup, hoisted banner, and sidebar all come from the
-   template's base.html: it renders snippets/right-content.md in an aside
-   (adding the `two-columns` body class) and hoists a page's leading
-   image-background block above the .page-columns grid.
+   background, with the banner, content+sidebar, and footer rendered as
+   centred 1300px cream panels with a thin gold border and soft shadow.
+   Everything else (nav layout, two-column grid, hoisted banner, sidebar
+   slider stacking) comes from the template.
    ========================================================================== */
 
 :root {
@@ -16,7 +14,7 @@
   --color-link: #1a5fb4;
   --color-link-hover: #0d3a6e;
   --color-bg: #fffdf6;
-  --body-background: #fffdf6;
+  --body-background: #faece1;
   --body-background-alt: #fdf6e7;
   --border-radius: 5px;
   --border: 1px solid #b6720c;
@@ -58,20 +56,20 @@
 }
 
 .design-system .prose {
-  /* old site used 1.5 throughout; no runtime token for line-height yet */
+  /* the design system's prose uses 1.625; the old site used 1.5 throughout */
   line-height: 1.5;
 }
 
 /* ---------------------------------------------------------------------------
-   Boxed page panels on a peach backdrop
+   Boxed page panels on a peach backdrop. body > section is the hoisted
+   image-background banner. The nav keeps the template's horizontal-nav
+   styling (centred, rounded, shadowed) and just gains the gold border.
    ------------------------------------------------------------------------- */
 
 body.design-system {
   padding: 0.5rem;
-  background: #faece1;
 }
 
-/* body > section is the hoisted image-background banner */
 body.design-system > section,
 body.design-system > .page-columns,
 body.design-system > footer {
@@ -84,24 +82,9 @@ body.design-system > footer {
   box-shadow: var(--box-shadow);
 }
 
-/* The nav joins the boxed panels on larger screens; on mobile it keeps the
-   template's sticky-bar behaviour untouched. */
 @media screen and (min-width: 769px) {
   body.design-system > nav {
-    width: min(var(--width-content), 100%);
-    margin: 0 auto 1rem;
     border: var(--border);
-    border-radius: var(--border-radius);
-    box-shadow: var(--box-shadow);
-    background: var(--color-bg);
-
-    > ul {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 0 1.5rem;
-      padding: 0.5rem 1rem;
-    }
   }
 }
 
@@ -135,8 +118,8 @@ body.design-system > section {
 }
 
 /* ---------------------------------------------------------------------------
-   Right sidebar — grid, width, and slider stacking come from the design
-   system (--right-column-width defaults to 16rem); these are looks only
+   Right sidebar — grid, width, padding, and slider stacking come from the
+   design system; this is the old site's centred look plus the gold divider
    ------------------------------------------------------------------------- */
 
 @media screen and (min-width: 1001px) {
@@ -146,17 +129,7 @@ body.design-system > section {
 }
 
 body.design-system .right-column {
-  gap: 1.5rem;
-  padding: 1.5rem 1rem;
-
   h3 {
-    text-align: center;
-  }
-
-  ul {
-    padding: 0;
-    padding-left: 0;
-    list-style: none;
     text-align: center;
   }
 
@@ -164,7 +137,6 @@ body.design-system .right-column {
     text-align: center;
 
     ul {
-      padding: 0;
       padding-left: 0;
       list-style: none;
     }
@@ -180,9 +152,4 @@ body.design-system.headings-centered main {
   h2 {
     text-align: center;
   }
-}
-
-body.design-system > footer {
-  padding: 1rem;
-  text-align: center;
 }
