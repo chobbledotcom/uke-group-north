@@ -12,6 +12,7 @@ let
       "update-pages"
       "update-scripts"
       "fetch-google-reviews"
+      "fetch-facebook-posts"
       "clean"
       "test"
     ];
