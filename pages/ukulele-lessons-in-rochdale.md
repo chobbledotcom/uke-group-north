@@ -27,7 +27,7 @@ blocks:
       From Rochdale, Bury is your closest option - about 20 minutes by car or easily accessible by public transport.
 
       **Thursday Evenings at Wyldes:**
-      - **When:** Every Thursday, 6:30pm-8pm
+      - **When:** Every Thursday, 6:15pm-7:45pm
       - **Where:** Wyldes, 4 Bolton St, Bury, BL9 0LQ
       - **Travel:** 20 minutes by car
       - **Cost:** £8 per person
@@ -107,6 +107,8 @@ blocks:
       Interested in joining our musical community? Get in touch via our [contact page](/contact/) to book your place at any of our sessions. We recommend trying one session first to see how it works for you - there's no pressure for long-term commitment.
 
       All abilities welcome - complete beginners are especially encouraged to join us!
+
+      If lessons sound like too much commitment, our [music group sessions in Rochdale](/music-group-sessions-in-rochdale/) page describes the same sessions as a friendly drop-in group.
 
       ## Frequently Asked Questions
 

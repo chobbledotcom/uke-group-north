@@ -43,7 +43,7 @@ blocks:
       Bury offers two weekly sessions in the heart of this Lancashire town with strong community traditions.
 
       **Thursday Evenings at Wyldes:**
-      - **When:** Every Thursday, 6:30pm-8pm
+      - **When:** Every Thursday, 6:15pm-7:45pm
       - **Where:** Wyldes, 4 Bolton St, Bury, BL9 0LQ
       - **Access:** Town centre location, excellent transport links
       - **Cost:** £8 per person
@@ -107,6 +107,8 @@ blocks:
       Ready to join our Lancashire musical community? Get in touch via our [contact page](/contact/) to book your place at any of our sessions. We recommend booking in advance as spaces are limited.
 
       All abilities welcome - beginners are especially encouraged to join us!
+
+      New to music altogether? Our [music group sessions in Lancashire](/music-group-sessions-in-lancashire/) page introduces the same sessions with complete beginners in mind.
 
       ## Frequently Asked Questions
 

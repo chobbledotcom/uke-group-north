@@ -27,7 +27,7 @@ blocks:
       From Bolton, Bury is about 20 minutes by car via the A58, making our Bury sessions very accessible for Bolton residents.
 
       **Thursday Evenings at Wyldes** - Perfect for after work in the heart of Bury:
-      - **When:** Every Thursday, 6:30pm-8pm
+      - **When:** Every Thursday, 6:15pm-7:45pm
       - **Where:** Wyldes, 4 Bolton St, Bury, BL9 0LQ
       - **Travel:** 20 minutes by car via A58
       - **Cost:** £8 per person
@@ -105,6 +105,8 @@ blocks:
       Ready to join us? Get in touch via our [contact page](/contact/) to book your place at any of our sessions. Spaces are limited to ensure everyone gets the attention they need, so booking in advance is recommended.
 
       All abilities welcome - complete beginners are especially encouraged!
+
+      If "lessons" sounds too formal, our [music group sessions in Bolton](/music-group-sessions-in-bolton/) page describes the same evenings as what they really are - a friendly group making music.
 
       ## Frequently Asked Questions
 

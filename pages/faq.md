@@ -55,7 +55,7 @@ blocks:
       - **Mondays:** Greenmount Old School, Brandlesholme Road, Bury, BL8 4DS (10:15am-11:15am)
       - **Tuesdays (morning):** Ramsbottom Library, Carr St, Ramsbottom, BL0 9AE (10:30am-12pm)
       - **Tuesdays (evening):** The Den, Stubbins Vale Road, Ramsbottom, BL0 0NT (5:30pm-7pm)
-      - **Thursdays:** Wyldes, 4 Bolton St, Bury, BL9 0LQ (6:30pm-8pm)
+      - **Thursdays:** Wyldes, 4 Bolton St, Bury, BL9 0LQ (6:15pm-7:45pm)
 
       ### Which session should I choose if I'm from Manchester?
 
@@ -72,6 +72,8 @@ blocks:
 
       For driving directions and more transport info, see our location-specific pages: [Manchester](/ukulele-lessons-in-manchester/), [Bolton](/ukulele-lessons-in-bolton/), [Bury](/ukulele-lessons-in-bury/), [Blackburn](/ukulele-lessons-in-blackburn/), [Rochdale](/ukulele-lessons-in-rochdale/), or [Lancashire](/ukulele-lessons-in-lancashire/).
 
+      Just looking for a friendly group to make music with, rather than lessons? The same sessions are introduced for complete newcomers on our [music group sessions in Bury](/music-group-sessions-in-bury/), [Manchester](/music-group-sessions-in-manchester/), [Bolton](/music-group-sessions-in-bolton/), [Blackburn](/music-group-sessions-in-blackburn/), [Rochdale](/music-group-sessions-in-rochdale/), and [Lancashire](/music-group-sessions-in-lancashire/) pages.
+
       ### Is parking available?
 
       - **Wyldes, Bury:** Right in Bury town centre with free parking after 6pm
@@ -84,7 +86,7 @@ blocks:
       - Greenmount (Monday): 1 hour (10:15am-11:15am)
       - Ramsbottom Library (Tuesday morning): 1.5 hours (10:30am-12pm)
       - The Den (Tuesday evening): 1.5 hours (5:30pm-7pm)
-      - Wyldes (Thursday): 1.5 hours (6:30pm-8pm)
+      - Wyldes (Thursday): 1.5 hours (6:15pm-7:45pm)
 
       ### Do I need to book in advance?
 

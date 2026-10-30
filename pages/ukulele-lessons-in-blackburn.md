@@ -43,7 +43,7 @@ blocks:
       Bury is about 40 minutes by car from Blackburn.
 
       **Thursday Evenings at Wyldes:**
-      - **When:** Every Thursday, 6:30pm-8pm
+      - **When:** Every Thursday, 6:15pm-7:45pm
       - **Where:** Wyldes, 4 Bolton St, Bury, BL9 0LQ
       - **Travel:** 40 minutes by car
       - **Cost:** £8 per person
@@ -95,6 +95,8 @@ blocks:
       Interested in giving it a try? Get in touch via our [contact page](/contact/) to book your place at any of our sessions. We recommend trying one session first to see if it works for you - no long-term commitment required.
 
       All abilities welcome - beginners are especially encouraged to join us!
+
+      More interested in the group than the lessons? Our [music group sessions in Blackburn](/music-group-sessions-in-blackburn/) page covers the same sessions from the complete-beginner angle.
 
       ## Frequently Asked Questions
 

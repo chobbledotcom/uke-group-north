@@ -53,7 +53,7 @@ blocks:
 
       Perfect for after work or evening learners, our Thursday sessions at Wyldes offer a welcoming atmosphere in the heart of Bury.
 
-      - **When:** Every Thursday, 6:30pm-8pm
+      - **When:** Every Thursday, 6:15pm-7:45pm
       - **Where:** Wyldes, 4 Bolton St, Bury, BL9 0LQ
       - **Cost:** £8 per person
       - **Getting there:** Right in Bury town centre, easy walking distance from the Metrolink station
@@ -110,6 +110,8 @@ blocks:
       Ready to join us? Get in touch via our [contact page](/contact/) to book your place at either of our Bury sessions. Spaces are limited to ensure everyone gets the attention they need, so booking in advance is recommended.
 
       All abilities welcome - complete beginners are especially encouraged!
+
+      Just browsing for a group to make music with rather than lessons? Our [music group sessions in Bury](/music-group-sessions-in-bury/) page describes the same sessions for complete newcomers.
 
       ## Frequently Asked Questions
 

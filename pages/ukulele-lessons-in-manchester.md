@@ -36,7 +36,7 @@ blocks:
       Bury is brilliantly connected to Manchester by Metrolink - just a 30-minute journey from the city centre, making it perfect for both commuters and day-trippers.
 
       **Thursdays at Wyldes** - Perfect for after work, right in Bury town centre:
-      - **Session:** Thursdays 6:30pm-8pm
+      - **Session:** Thursdays 6:15pm-7:45pm
       - **Location:** 4 Bolton St, Bury, BL9 0LQ
       - **Cost:** £8 per person
       - **Getting there:** Short walk from Bury Metrolink station, free parking after 6pm
@@ -97,6 +97,8 @@ blocks:
       Ready to join us? Get in touch via our [contact page](/contact/) to book your place at any of our sessions. Spaces are limited to ensure everyone gets the attention they need, so booking in advance is recommended.
 
       All abilities welcome - complete beginners are especially encouraged!
+
+      Prefer to think of it as joining a music group rather than taking lessons? The same sessions are described on our [music group sessions in Manchester](/music-group-sessions-in-manchester/) page.
 
       ## Frequently Asked Questions
 
