@@ -1,6 +1,7 @@
 ---
 name: New Ukulele Workshop Series Starting
 date: 2024-12-01
+thumbnail: /images/ukelele-3.jpg
 subtitle: Weekly sessions for all skill levels
 meta_description: Uke Group North announces new weekly ukulele workshop series
   starting in December

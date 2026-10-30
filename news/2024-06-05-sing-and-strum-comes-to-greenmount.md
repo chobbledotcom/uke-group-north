@@ -1,6 +1,7 @@
 ---
 name: Sing & Strum Comes to Greenmount
 date: 2024-06-05
+thumbnail: /images/facebook-posts/2024-06-05T21-30-27Z-1146579380022339.jpg
 subtitle: New Monday morning sessions launched at Greenmount Old School
 meta_description: Uke Group North launches weekly Monday Sing & Strum sessions
   at Greenmount Old School community centre, with a free taster for

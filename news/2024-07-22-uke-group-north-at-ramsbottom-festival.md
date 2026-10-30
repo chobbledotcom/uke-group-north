@@ -1,6 +1,7 @@
 ---
 name: Uke Group North at Ramsbottom Festival
 date: 2024-07-22
+thumbnail: /images/facebook-posts/2024-07-22T07-47-38Z-420131207667194.jpg
 subtitle: Strumming in the sun at the Rotary Club's first food and drink festival
 meta_description: Uke Group North appeared at the first Ramsbottom Festival
   alongside Rossendale Ukulele Club, with festival-goers picking up ukuleles

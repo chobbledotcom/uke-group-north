@@ -1,6 +1,7 @@
 ---
 name: Back at The Whitaker for Winterfest 2025
 date: 2025-12-07
+thumbnail: /images/facebook-posts/2025-12-07T17-22-01Z-796781620002149.jpg
 subtitle: A second year of festive ukulele in Rawtenstall
 meta_description: Uke Group North returned to Winterfest at The Whitaker Museum
   and Art Gallery, Rawtenstall, for a second year of festive ukulele music.

@@ -1,6 +1,7 @@
 ---
 name: Making Music with Urban Outreach Bolton
 date: 2025-07-09
+thumbnail: /images/facebook-posts/2025-07-09T12-00-05Z-674819562198356.jpg
 subtitle: A morning session with the Genesis Project community
 meta_description: Uke Group North led a music session with the Genesis Project
   and Urban Outreach Bolton, the charity supporting disadvantaged and

@@ -1,6 +1,7 @@
 ---
 name: Ukuleles at the Affetside Boules and Bake Off
 date: 2024-06-16
+thumbnail: /images/facebook-posts/2024-06-16T07-43-56Z-397997003213948.jpg
 subtitle: An afternoon of music at the village's annual summer event
 meta_description: Uke Group North performed at the Affetside Society's annual
   boules and bake off on the Millennium Green - ukuleles, singing and

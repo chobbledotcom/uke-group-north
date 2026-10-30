@@ -1,6 +1,7 @@
 ---
 name: Free Ukulele Workshops with Ramsbottom Come Together Festival
 date: 2024-09-21
+thumbnail: /images/ukelele-2.jpg
 subtitle: Beginner and advanced workshops at the Royal British Legion
 meta_description: Uke Group North ran free ukulele workshops at Ramsbottom
   Royal British Legion as part of the Ramsbottom Come Together Festival, for

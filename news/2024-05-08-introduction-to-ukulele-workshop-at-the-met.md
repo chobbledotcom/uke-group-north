@@ -1,6 +1,7 @@
 ---
 name: Introduction to Ukulele at The Met
 date: 2024-05-08
+thumbnail: /images/facebook-posts/2024-05-08T11-34-26Z-373929222287393.jpg
 subtitle: A workshop with the Meet Me at The Met community group
 meta_description: Uke Group North brought its Introduction to Ukulele workshop
   to Meet Me at The Met, the social arts group for over-50s at Bury's

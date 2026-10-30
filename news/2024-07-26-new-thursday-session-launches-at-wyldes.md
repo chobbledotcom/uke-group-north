@@ -1,6 +1,7 @@
 ---
 name: New Thursday Session Launches at Wyldes
 date: 2024-07-26
+thumbnail: /images/ukelele-1.jpg
 subtitle: Sing & Strum arrives in Bury town centre with a free opening night
 meta_description: Uke Group North launches its Bury town centre Sing & Strum
   session at Wyldes on Bolton Street - free opening night, complete

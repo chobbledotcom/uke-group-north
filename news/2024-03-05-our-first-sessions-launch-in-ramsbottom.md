@@ -1,6 +1,7 @@
 ---
 name: Our First Sessions Launch in Ramsbottom
 date: 2024-03-05
+thumbnail: /images/facebook-posts/2024-02-28T11-17-01Z-332061643140818.jpg
 subtitle: Tuesday Sing & Strum sessions begin at Ramsbottom Library and The Den
 meta_description: Uke Group North launches its first weekly Sing & Strum
   sessions in Ramsbottom - Tuesday mornings at Ramsbottom Library and Tuesday

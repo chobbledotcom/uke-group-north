@@ -1,6 +1,7 @@
 ---
 name: Christmas Ukuleles at The Whitaker Winterfest
 date: 2024-12-01
+thumbnail: /images/facebook-posts/2024-11-30T10-26-48Z-511459328534381.jpg
 subtitle: Festive sing-along at Rossendale's museum and art gallery
 meta_description: Uke Group North brought Christmas ukulele music to Winterfest
   at The Whitaker Museum and Art Gallery in Rawtenstall - festive hits in the
